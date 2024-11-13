@@ -1,0 +1,1001 @@
+Date,Product ID,Product Type,Size,Color,Quantity Sold,Sales Channel,Marketing Channel,Revenue,Production Time,Cost per Unit,Customer Satisfaction,Product Rating,Customer Comments,Material Type,Printing Method,Discount Applied,Estimated Delivery Date,Supplier,Shipping Cost,Customer Location,Payment Method,Internal Comments,Order Number
+2023-01-01,3732,Short Sleeve,XL,Green,1,Fair,Email,30.77,3.24,6.02,4.62,3.74,Good quality,Blend,Embroidery,No,2023-01-02,Supplier B,14.9,City A,Bank Transfer,Urgent,544475
+2023-01-02,4264,Hoodie,L,Blue,6,Fair,Email,96.93,2.27,13.63,1.31,1.96,Good quality,Blend,Embroidery,Yes,2023-01-03,Supplier C,13.71,City B,PayPal,Special instructions,853254
+2023-01-03,5859,Short Sleeve,M,Green,2,Fair,Organic Search,27.04,1.89,7.67,4.43,3.15,Good quality,Blend,Embroidery,Yes,2023-01-04,Supplier A,11.38,City B,PayPal,Urgent,109615
+2023-01-04,8891,Hoodie,S,Red,6,Online,Organic Search,62.38,2.76,7.83,2.66,3.55,Good quality,Cotton,Sublimation,Yes,2023-01-05,Supplier B,10.28,City B,Credit Card,Special instructions,261147
+2023-01-05,5373,Short Sleeve,L,Red,2,Social Media,Organic Search,36.17,4.95,19.7,1.17,4.6,Will buy again,Blend,Screen Printing,No,2023-01-06,Supplier B,6.0,City B,PayPal,Special instructions,929339
+2023-01-06,6874,Hoodie,XL,Black,2,Social Media,Social Media,89.46,3.53,10.77,3.13,4.62,Good quality,Blend,Embroidery,Yes,2023-01-07,Supplier B,5.69,City A,PayPal,Handled with care,359739
+2023-01-07,7744,Long Sleeve,M,Black,9,Social Media,Social Media,35.56,2.11,12.79,1.47,3.67,Good quality,Blend,Embroidery,No,2023-01-08,Supplier B,6.93,City A,PayPal,Urgent,349052
+2023-01-08,4468,Short Sleeve,M,White,8,Fair,Social Media,78.92,4.94,14.98,1.32,1.85,Good quality,Cotton,Screen Printing,No,2023-01-09,Supplier C,5.12,City C,Credit Card,Handled with care,755552
+2023-01-09,1705,Tank Top,XL,Green,4,Online,Organic Search,33.21,2.12,12.47,2.87,1.24,Will buy again,Cotton,Sublimation,No,2023-01-10,Supplier A,12.25,City C,Credit Card,Handled with care,183131
+2023-01-10,3599,Short Sleeve,S,Black,6,Social Media,Social Media,95.05,3.88,15.89,2.26,4.01,Good quality,Cotton,Sublimation,Yes,2023-01-11,Supplier A,3.96,City A,Credit Card,Special instructions,795691
+2023-01-11,3222,Hoodie,S,Blue,3,Fair,Social Media,73.07,2.05,5.39,4.53,2.44,Good quality,Blend,Sublimation,Yes,2023-01-12,Supplier B,10.81,City B,Bank Transfer,Special instructions,272309
+2023-01-12,8768,Long Sleeve,XL,Black,7,Fair,Organic Search,53.21,4.1,15.15,2.26,1.48,Will buy again,Blend,Sublimation,No,2023-01-13,Supplier C,13.72,City B,PayPal,Special instructions,926118
+2023-01-13,3897,Short Sleeve,XL,Red,4,Social Media,Organic Search,97.0,3.58,9.87,4.29,4.34,Good quality,Polyester,Screen Printing,Yes,2023-01-14,Supplier B,12.57,City B,PayPal,Handled with care,170809
+2023-01-14,1537,Tank Top,S,Green,9,Social Media,Organic Search,61.92,3.29,18.19,1.02,3.15,Will buy again,Cotton,Sublimation,No,2023-01-15,Supplier C,8.82,City A,Credit Card,Handled with care,245399
+2023-01-15,7216,Tank Top,L,Red,5,Social Media,Email,50.73,2.84,7.15,4.8,4.8,Good quality,Cotton,Screen Printing,Yes,2023-01-16,Supplier B,12.21,City A,PayPal,Special instructions,805427
+2023-01-16,7921,Tank Top,L,Black,9,Social Media,Social Media,33.0,1.97,5.46,1.22,3.32,Fast delivery,Polyester,Embroidery,No,2023-01-17,Supplier C,14.19,City C,Bank Transfer,Special instructions,611282
+2023-01-17,7036,Long Sleeve,M,Black,1,Social Media,Social Media,77.69,3.44,5.91,2.05,4.81,Good quality,Polyester,Sublimation,No,2023-01-18,Supplier B,5.47,City B,PayPal,Special instructions,702371
+2023-01-18,3163,Tank Top,M,Red,9,Fair,Organic Search,67.71,4.5,12.83,1.1,3.19,Good quality,Blend,Sublimation,No,2023-01-19,Supplier C,8.28,City A,Credit Card,Special instructions,608512
+2023-01-19,6072,Short Sleeve,L,White,5,Social Media,Organic Search,37.83,1.13,8.23,4.84,1.69,Good quality,Cotton,Sublimation,Yes,2023-01-20,Supplier B,9.1,City B,PayPal,Urgent,937010
+2023-01-20,5851,Hoodie,M,White,1,Fair,Email,40.0,3.93,16.3,1.21,4.86,Not satisfied,Blend,Screen Printing,No,2023-01-21,Supplier C,11.23,City A,Credit Card,Handled with care,354842
+2023-01-21,8877,Hoodie,L,Black,6,Fair,Social Media,37.63,4.52,5.83,2.4,1.36,Good quality,Blend,Sublimation,No,2023-01-22,Supplier A,14.05,City B,PayPal,Handled with care,731872
+2023-01-22,3046,Short Sleeve,M,White,6,Social Media,Organic Search,59.67,3.47,8.52,3.66,1.73,Fast delivery,Cotton,Screen Printing,Yes,2023-01-23,Supplier C,7.56,City C,Credit Card,Handled with care,814979
+2023-01-23,2871,Hoodie,L,Red,3,Social Media,Email,23.78,2.03,17.45,2.29,4.98,Fast delivery,Polyester,Embroidery,No,2023-01-24,Supplier C,4.97,City A,Bank Transfer,Urgent,116104
+2023-01-24,8599,Tank Top,M,Green,5,Fair,Social Media,43.14,2.41,5.68,1.03,4.11,Will buy again,Cotton,Embroidery,Yes,2023-01-25,Supplier C,10.79,City A,Bank Transfer,Urgent,142296
+2023-01-25,3496,Long Sleeve,M,Black,9,Social Media,Organic Search,78.93,4.0,16.81,1.96,4.36,Will buy again,Cotton,Embroidery,No,2023-01-26,Supplier A,10.02,City C,PayPal,Handled with care,953677
+2023-01-26,9291,Hoodie,L,Blue,9,Fair,Social Media,69.7,2.47,6.68,3.86,2.89,Will buy again,Cotton,Embroidery,No,2023-01-27,Supplier A,8.8,City B,Credit Card,Special instructions,134361
+2023-01-27,1755,Tank Top,S,White,5,Social Media,Email,85.49,1.03,17.64,2.51,2.51,Not satisfied,Blend,Screen Printing,No,2023-01-28,Supplier B,9.45,City B,Credit Card,Special instructions,812861
+2023-01-28,1797,Hoodie,L,White,2,Online,Social Media,79.59,1.42,16.76,4.28,2.09,Not satisfied,Cotton,Screen Printing,Yes,2023-01-29,Supplier C,9.5,City A,PayPal,Urgent,250152
+2023-01-29,1659,Short Sleeve,L,Blue,9,Social Media,Email,21.7,2.14,8.28,3.96,1.22,Not satisfied,Cotton,Screen Printing,Yes,2023-01-30,Supplier B,12.44,City B,PayPal,Urgent,148577
+2023-01-30,4219,Short Sleeve,XL,Blue,9,Social Media,Organic Search,65.57,2.57,11.03,3.34,1.19,Not satisfied,Cotton,Screen Printing,No,2023-01-31,Supplier B,6.65,City A,Credit Card,Urgent,277089
+2023-01-31,9615,Hoodie,S,Red,9,Online,Email,55.07,2.46,11.87,1.38,2.31,Fast delivery,Polyester,Embroidery,No,2023-02-01,Supplier B,10.67,City B,PayPal,Urgent,770708
+2023-02-01,8456,Hoodie,M,Red,4,Online,Organic Search,48.9,4.23,10.91,4.93,1.9,Not satisfied,Blend,Embroidery,Yes,2023-02-02,Supplier C,9.27,City C,Credit Card,Handled with care,802022
+2023-02-02,4337,Tank Top,S,White,4,Social Media,Email,99.39,1.89,8.17,3.08,3.67,Fast delivery,Blend,Sublimation,No,2023-02-03,Supplier A,4.89,City A,PayPal,Handled with care,665720
+2023-02-03,3745,Hoodie,S,Green,3,Social Media,Social Media,72.56,2.64,8.39,2.04,1.68,Not satisfied,Polyester,Screen Printing,No,2023-02-04,Supplier C,8.5,City A,PayPal,Handled with care,574040
+2023-02-04,5735,Long Sleeve,S,Red,6,Online,Organic Search,40.09,4.26,15.36,3.41,4.64,Not satisfied,Polyester,Screen Printing,No,2023-02-05,Supplier A,12.13,City A,Bank Transfer,Special instructions,500207
+2023-02-05,9736,Hoodie,XL,Red,8,Fair,Email,62.63,4.17,7.27,3.83,4.87,Not satisfied,Cotton,Sublimation,Yes,2023-02-06,Supplier A,7.08,City C,Bank Transfer,Handled with care,912106
+2023-02-06,7687,Short Sleeve,XL,Black,6,Online,Social Media,27.62,1.82,9.23,2.87,2.9,Not satisfied,Cotton,Sublimation,No,2023-02-07,Supplier A,6.09,City B,Credit Card,Handled with care,331186
+2023-02-07,1714,Long Sleeve,M,Black,9,Social Media,Social Media,79.62,2.46,5.95,3.57,1.2,Will buy again,Polyester,Sublimation,No,2023-02-08,Supplier C,4.89,City C,PayPal,Handled with care,829716
+2023-02-08,3292,Hoodie,L,Red,8,Online,Email,47.81,1.63,8.27,1.43,1.68,Will buy again,Cotton,Embroidery,No,2023-02-09,Supplier A,11.2,City A,PayPal,Urgent,128886
+2023-02-09,9343,Tank Top,S,Green,1,Online,Social Media,33.51,1.36,5.57,4.5,2.07,Fast delivery,Cotton,Embroidery,Yes,2023-02-10,Supplier C,14.88,City C,Bank Transfer,Special instructions,692713
+2023-02-10,2207,Hoodie,M,White,3,Social Media,Organic Search,32.99,3.22,15.48,3.72,4.5,Good quality,Cotton,Embroidery,No,2023-02-11,Supplier C,9.18,City B,Credit Card,Special instructions,434919
+2023-02-11,7172,Short Sleeve,M,Blue,8,Online,Social Media,21.22,2.28,11.07,4.09,4.55,Will buy again,Cotton,Embroidery,No,2023-02-12,Supplier A,7.21,City C,Credit Card,Special instructions,448481
+2023-02-12,9994,Short Sleeve,XL,Red,4,Fair,Social Media,82.23,3.05,10.67,1.45,4.87,Will buy again,Blend,Sublimation,Yes,2023-02-13,Supplier B,10.16,City A,Credit Card,Special instructions,650853
+2023-02-13,8221,Short Sleeve,L,Green,6,Online,Email,78.3,3.35,12.28,3.08,2.05,Not satisfied,Polyester,Sublimation,No,2023-02-14,Supplier C,5.14,City C,PayPal,Special instructions,885801
+2023-02-14,7021,Short Sleeve,L,Green,2,Online,Organic Search,58.8,3.42,8.92,3.77,1.7,Will buy again,Polyester,Embroidery,Yes,2023-02-15,Supplier B,10.78,City B,Bank Transfer,Handled with care,637733
+2023-02-15,4622,Hoodie,XL,Green,6,Online,Email,44.48,4.76,10.41,3.09,3.1,Good quality,Blend,Embroidery,Yes,2023-02-16,Supplier A,7.79,City B,PayPal,Urgent,187663
+2023-02-16,4560,Short Sleeve,S,Red,2,Online,Organic Search,51.33,1.94,13.86,1.4,2.38,Not satisfied,Polyester,Screen Printing,Yes,2023-02-17,Supplier A,5.75,City A,PayPal,Urgent,227663
+2023-02-17,9948,Short Sleeve,XL,Red,2,Fair,Organic Search,90.73,4.59,8.37,1.24,2.59,Fast delivery,Blend,Screen Printing,No,2023-02-18,Supplier B,10.85,City C,PayPal,Special instructions,335252
+2023-02-18,2641,Tank Top,M,Green,3,Social Media,Social Media,29.7,1.21,11.93,3.46,2.81,Good quality,Cotton,Embroidery,Yes,2023-02-19,Supplier B,7.09,City C,Credit Card,Urgent,491220
+2023-02-19,5984,Hoodie,XL,Green,5,Social Media,Social Media,22.37,1.12,13.62,4.19,1.24,Good quality,Blend,Screen Printing,Yes,2023-02-20,Supplier B,3.91,City A,PayPal,Handled with care,565087
+2023-02-20,5353,Short Sleeve,L,Red,4,Social Media,Social Media,37.26,1.44,7.07,4.99,2.3,Good quality,Polyester,Sublimation,Yes,2023-02-21,Supplier A,13.96,City B,PayPal,Handled with care,716366
+2023-02-21,9622,Short Sleeve,S,White,2,Social Media,Social Media,61.65,3.57,9.6,3.27,3.97,Fast delivery,Blend,Sublimation,No,2023-02-22,Supplier B,7.16,City C,Bank Transfer,Special instructions,327283
+2023-02-22,8250,Tank Top,M,Red,2,Social Media,Email,20.61,3.12,13.28,1.92,2.91,Fast delivery,Cotton,Embroidery,No,2023-02-23,Supplier B,9.81,City C,Bank Transfer,Urgent,724552
+2023-02-23,5187,Short Sleeve,M,Black,3,Social Media,Email,28.34,1.65,11.02,2.62,4.06,Good quality,Cotton,Embroidery,Yes,2023-02-24,Supplier A,14.91,City A,PayPal,Special instructions,967949
+2023-02-24,3659,Short Sleeve,L,Green,9,Social Media,Organic Search,75.83,1.59,15.74,1.43,3.69,Good quality,Polyester,Sublimation,No,2023-02-25,Supplier A,3.98,City C,Bank Transfer,Handled with care,457586
+2023-02-25,3956,Tank Top,XL,White,2,Fair,Social Media,55.85,3.12,8.47,2.66,4.76,Not satisfied,Polyester,Embroidery,Yes,2023-02-26,Supplier B,10.36,City B,PayPal,Handled with care,150763
+2023-02-26,3251,Short Sleeve,M,Blue,8,Online,Organic Search,95.89,4.84,12.06,4.36,3.76,Not satisfied,Blend,Embroidery,Yes,2023-02-27,Supplier A,3.13,City C,PayPal,Urgent,899942
+2023-02-27,5420,Short Sleeve,XL,Red,9,Online,Email,92.86,1.73,17.32,2.56,3.24,Not satisfied,Cotton,Sublimation,No,2023-02-28,Supplier A,11.83,City A,Credit Card,Urgent,288947
+2023-02-28,8108,Tank Top,M,Green,3,Social Media,Social Media,42.12,2.04,7.14,1.21,1.63,Fast delivery,Blend,Sublimation,Yes,2023-03-01,Supplier C,5.97,City A,PayPal,Special instructions,892822
+2023-03-01,2071,Short Sleeve,L,Red,7,Social Media,Social Media,50.22,1.48,18.42,1.66,4.68,Will buy again,Polyester,Screen Printing,No,2023-03-02,Supplier C,13.53,City A,Bank Transfer,Handled with care,226281
+2023-03-02,6251,Tank Top,M,Blue,6,Online,Social Media,93.45,3.38,11.71,3.68,4.99,Fast delivery,Blend,Screen Printing,No,2023-03-03,Supplier A,5.94,City C,Bank Transfer,Handled with care,284243
+2023-03-03,8012,Short Sleeve,M,Red,2,Online,Email,66.34,4.71,12.2,3.76,4.37,Good quality,Polyester,Screen Printing,Yes,2023-03-04,Supplier A,6.21,City C,PayPal,Urgent,708609
+2023-03-04,4918,Hoodie,S,White,7,Online,Organic Search,49.58,1.95,14.54,1.79,1.37,Fast delivery,Blend,Embroidery,Yes,2023-03-05,Supplier B,3.95,City A,Bank Transfer,Handled with care,529332
+2023-03-05,2684,Hoodie,M,Blue,3,Fair,Social Media,84.03,2.89,13.13,4.24,1.45,Good quality,Polyester,Screen Printing,No,2023-03-06,Supplier A,4.05,City B,PayPal,Special instructions,460930
+2023-03-06,8098,Short Sleeve,L,Black,6,Social Media,Social Media,93.96,4.63,17.35,2.12,2.46,Not satisfied,Cotton,Screen Printing,Yes,2023-03-07,Supplier B,6.34,City A,Bank Transfer,Special instructions,849560
+2023-03-07,3957,Hoodie,M,Black,7,Social Media,Organic Search,73.88,3.83,7.8,3.22,3.78,Fast delivery,Polyester,Sublimation,No,2023-03-08,Supplier C,11.9,City A,PayPal,Handled with care,587756
+2023-03-08,5469,Hoodie,L,Green,2,Social Media,Organic Search,38.47,3.11,6.95,2.23,4.31,Will buy again,Blend,Embroidery,No,2023-03-09,Supplier C,11.84,City A,PayPal,Handled with care,198877
+2023-03-09,9752,Hoodie,XL,Black,6,Fair,Organic Search,85.54,3.56,8.95,3.77,1.72,Will buy again,Cotton,Embroidery,Yes,2023-03-10,Supplier C,8.34,City A,PayPal,Special instructions,413801
+2023-03-10,6795,Tank Top,L,Red,9,Online,Social Media,53.64,3.92,19.97,2.5,3.5,Fast delivery,Polyester,Embroidery,No,2023-03-11,Supplier A,13.95,City C,Bank Transfer,Special instructions,263651
+2023-03-11,2472,Hoodie,XL,White,5,Social Media,Social Media,75.84,3.91,6.48,4.05,1.64,Good quality,Blend,Screen Printing,Yes,2023-03-12,Supplier B,10.14,City A,PayPal,Special instructions,204400
+2023-03-12,8263,Long Sleeve,M,Black,7,Online,Social Media,58.91,2.94,12.96,2.93,1.45,Will buy again,Blend,Embroidery,Yes,2023-03-13,Supplier A,8.5,City C,Credit Card,Handled with care,180174
+2023-03-13,8365,Tank Top,L,Green,6,Social Media,Organic Search,95.27,2.13,16.6,3.56,2.88,Good quality,Polyester,Sublimation,Yes,2023-03-14,Supplier A,14.44,City B,Credit Card,Urgent,918548
+2023-03-14,9448,Long Sleeve,S,Red,7,Online,Social Media,25.47,1.82,17.49,4.7,4.44,Not satisfied,Polyester,Embroidery,No,2023-03-15,Supplier C,4.25,City B,PayPal,Special instructions,538453
+2023-03-15,7001,Hoodie,L,Green,1,Fair,Email,32.46,4.67,19.36,2.74,3.51,Will buy again,Cotton,Screen Printing,Yes,2023-03-16,Supplier C,4.17,City B,Credit Card,Special instructions,926067
+2023-03-16,4762,Hoodie,XL,Green,3,Social Media,Social Media,35.57,1.23,19.93,3.2,3.73,Fast delivery,Polyester,Embroidery,No,2023-03-17,Supplier B,4.63,City A,Bank Transfer,Special instructions,528961
+2023-03-17,3435,Long Sleeve,XL,White,6,Social Media,Organic Search,37.68,2.35,13.28,1.76,2.57,Fast delivery,Polyester,Embroidery,No,2023-03-18,Supplier A,8.97,City A,Credit Card,Handled with care,216368
+2023-03-18,2634,Short Sleeve,S,White,7,Online,Email,38.83,3.76,8.61,3.77,2.07,Will buy again,Polyester,Embroidery,No,2023-03-19,Supplier B,7.81,City A,PayPal,Handled with care,698312
+2023-03-19,1973,Hoodie,L,Green,3,Social Media,Organic Search,32.23,3.4,12.8,1.85,4.73,Fast delivery,Blend,Screen Printing,Yes,2023-03-20,Supplier B,10.77,City A,PayPal,Urgent,564386
+2023-03-20,5464,Tank Top,M,Green,2,Fair,Social Media,75.43,2.73,16.04,3.76,2.65,Not satisfied,Cotton,Embroidery,Yes,2023-03-21,Supplier C,11.37,City C,Credit Card,Special instructions,120029
+2023-03-21,9393,Long Sleeve,L,Black,5,Online,Email,37.45,1.42,12.15,4.69,3.05,Fast delivery,Cotton,Sublimation,No,2023-03-22,Supplier B,12.41,City A,Credit Card,Handled with care,698415
+2023-03-22,3418,Long Sleeve,L,Black,9,Social Media,Social Media,38.84,1.56,9.08,4.77,1.29,Not satisfied,Blend,Sublimation,No,2023-03-23,Supplier B,3.84,City C,Credit Card,Urgent,416240
+2023-03-23,4455,Hoodie,L,Blue,9,Online,Organic Search,35.79,3.79,17.33,4.21,1.28,Fast delivery,Polyester,Screen Printing,No,2023-03-24,Supplier C,6.69,City C,Credit Card,Urgent,648596
+2023-03-24,7167,Long Sleeve,S,White,4,Online,Social Media,51.89,2.93,17.44,3.16,4.03,Will buy again,Blend,Screen Printing,Yes,2023-03-25,Supplier C,10.49,City C,PayPal,Handled with care,849424
+2023-03-25,6819,Long Sleeve,S,Black,8,Social Media,Social Media,96.69,2.36,13.26,4.35,4.73,Good quality,Blend,Embroidery,No,2023-03-26,Supplier B,6.4,City B,Credit Card,Special instructions,660309
+2023-03-26,7521,Tank Top,S,Green,3,Online,Organic Search,49.34,2.5,14.02,2.83,3.55,Not satisfied,Polyester,Screen Printing,No,2023-03-27,Supplier B,9.51,City A,PayPal,Handled with care,449067
+2023-03-27,7242,Short Sleeve,S,Black,2,Online,Organic Search,43.81,2.71,12.7,2.51,4.6,Not satisfied,Blend,Screen Printing,No,2023-03-28,Supplier C,7.31,City B,PayPal,Handled with care,208735
+2023-03-28,8742,Short Sleeve,S,Blue,2,Online,Social Media,25.49,3.73,16.73,3.81,4.1,Good quality,Polyester,Screen Printing,Yes,2023-03-29,Supplier B,7.13,City B,Credit Card,Handled with care,344180
+2023-03-29,7738,Long Sleeve,M,Black,2,Fair,Organic Search,48.2,3.4,18.31,1.83,1.52,Fast delivery,Blend,Sublimation,No,2023-03-30,Supplier A,13.97,City C,Bank Transfer,Special instructions,530543
+2023-03-30,3787,Short Sleeve,L,Green,7,Fair,Social Media,38.58,1.28,5.03,1.3,1.27,Good quality,Cotton,Sublimation,Yes,2023-03-31,Supplier A,5.11,City B,PayPal,Urgent,269021
+2023-03-31,8316,Long Sleeve,L,Black,4,Fair,Social Media,81.03,1.63,19.6,2.46,4.77,Good quality,Blend,Embroidery,Yes,2023-04-01,Supplier B,5.27,City A,Credit Card,Special instructions,656059
+2023-04-01,5305,Short Sleeve,M,Black,7,Social Media,Email,28.93,1.28,10.16,2.36,1.65,Not satisfied,Blend,Screen Printing,Yes,2023-04-02,Supplier B,3.2,City A,Bank Transfer,Special instructions,705334
+2023-04-02,3610,Short Sleeve,M,White,6,Online,Social Media,31.49,1.14,10.99,1.48,3.52,Good quality,Blend,Embroidery,Yes,2023-04-03,Supplier A,4.35,City C,Credit Card,Handled with care,623390
+2023-04-03,6531,Tank Top,M,White,5,Social Media,Social Media,42.28,4.1,10.52,4.42,1.94,Will buy again,Polyester,Embroidery,Yes,2023-04-04,Supplier C,4.9,City B,Credit Card,Urgent,955802
+2023-04-04,7926,Long Sleeve,M,Blue,3,Social Media,Organic Search,43.04,4.4,17.67,3.67,3.06,Good quality,Cotton,Screen Printing,Yes,2023-04-05,Supplier C,12.35,City B,Credit Card,Special instructions,813770
+2023-04-05,8204,Tank Top,S,Blue,8,Fair,Email,87.7,2.66,16.05,1.1,2.95,Good quality,Polyester,Sublimation,Yes,2023-04-06,Supplier C,5.75,City A,Bank Transfer,Handled with care,189751
+2023-04-06,7922,Hoodie,L,Black,9,Fair,Email,83.3,4.88,7.68,3.16,3.87,Good quality,Blend,Screen Printing,No,2023-04-07,Supplier A,13.63,City B,PayPal,Urgent,797816
+2023-04-07,5182,Short Sleeve,M,White,9,Online,Email,66.29,4.45,11.12,1.62,4.28,Fast delivery,Blend,Screen Printing,No,2023-04-08,Supplier B,11.2,City C,Credit Card,Urgent,271873
+2023-04-08,1307,Hoodie,XL,White,1,Social Media,Social Media,43.09,4.44,5.04,3.04,5.0,Not satisfied,Blend,Sublimation,Yes,2023-04-09,Supplier C,4.2,City A,Credit Card,Special instructions,936438
+2023-04-09,6302,Long Sleeve,M,Black,8,Social Media,Email,45.51,2.47,17.05,4.09,1.83,Not satisfied,Polyester,Screen Printing,Yes,2023-04-10,Supplier C,11.72,City C,Bank Transfer,Handled with care,727588
+2023-04-10,2152,Long Sleeve,L,White,9,Online,Email,67.38,4.82,8.54,2.65,2.75,Fast delivery,Polyester,Embroidery,Yes,2023-04-11,Supplier C,8.49,City C,Bank Transfer,Special instructions,255491
+2023-04-11,7950,Long Sleeve,XL,Red,9,Fair,Organic Search,79.19,4.0,6.25,3.39,2.5,Fast delivery,Blend,Sublimation,Yes,2023-04-12,Supplier A,12.54,City C,Bank Transfer,Special instructions,470725
+2023-04-12,9467,Hoodie,M,Green,8,Fair,Organic Search,50.73,2.41,14.91,3.19,1.14,Not satisfied,Blend,Sublimation,Yes,2023-04-13,Supplier C,9.88,City C,Credit Card,Special instructions,501014
+2023-04-13,6294,Hoodie,S,Red,5,Fair,Social Media,60.76,4.56,8.29,3.31,1.95,Fast delivery,Blend,Sublimation,No,2023-04-14,Supplier B,7.97,City C,Bank Transfer,Handled with care,932628
+2023-04-14,2208,Long Sleeve,S,Red,7,Fair,Social Media,91.04,1.02,13.24,2.91,3.19,Will buy again,Blend,Embroidery,Yes,2023-04-15,Supplier B,3.14,City A,Credit Card,Handled with care,373325
+2023-04-15,3492,Long Sleeve,XL,Red,7,Online,Social Media,71.98,3.29,7.42,1.67,4.51,Fast delivery,Cotton,Screen Printing,Yes,2023-04-16,Supplier C,3.43,City C,Credit Card,Handled with care,558280
+2023-04-16,9829,Hoodie,S,White,9,Online,Organic Search,62.84,3.08,16.85,1.97,2.26,Fast delivery,Polyester,Sublimation,Yes,2023-04-17,Supplier B,12.53,City C,Credit Card,Handled with care,330933
+2023-04-17,1770,Long Sleeve,XL,Black,4,Online,Email,25.7,1.33,19.73,4.58,3.81,Not satisfied,Blend,Embroidery,No,2023-04-18,Supplier C,3.59,City A,PayPal,Handled with care,877052
+2023-04-18,9286,Short Sleeve,M,Blue,8,Online,Email,34.08,4.45,6.61,3.95,4.76,Will buy again,Cotton,Screen Printing,No,2023-04-19,Supplier C,6.92,City B,Bank Transfer,Handled with care,178888
+2023-04-19,6995,Long Sleeve,L,Green,9,Online,Email,36.08,2.13,17.62,4.93,1.72,Not satisfied,Cotton,Sublimation,Yes,2023-04-20,Supplier B,4.8,City A,Credit Card,Urgent,532188
+2023-04-20,3344,Short Sleeve,XL,Green,5,Fair,Organic Search,69.85,2.51,12.35,1.22,1.43,Not satisfied,Cotton,Embroidery,No,2023-04-21,Supplier C,8.33,City C,Credit Card,Special instructions,143994
+2023-04-21,4091,Tank Top,M,Red,3,Fair,Organic Search,28.65,2.9,5.77,2.27,4.95,Not satisfied,Cotton,Embroidery,Yes,2023-04-22,Supplier B,12.34,City C,PayPal,Urgent,400165
+2023-04-22,4912,Hoodie,XL,Blue,4,Social Media,Organic Search,22.32,4.27,12.82,4.84,1.2,Not satisfied,Polyester,Embroidery,Yes,2023-04-23,Supplier B,3.12,City C,Credit Card,Special instructions,370801
+2023-04-23,2434,Short Sleeve,L,Black,1,Fair,Organic Search,48.83,3.38,12.23,2.76,2.12,Will buy again,Polyester,Sublimation,Yes,2023-04-24,Supplier C,10.33,City C,PayPal,Handled with care,936811
+2023-04-24,7594,Hoodie,S,Blue,5,Social Media,Email,77.51,3.26,18.37,3.42,4.48,Not satisfied,Polyester,Sublimation,No,2023-04-25,Supplier A,4.18,City B,Bank Transfer,Handled with care,636535
+2023-04-25,6368,Hoodie,S,Blue,9,Fair,Email,75.46,2.45,10.11,3.28,2.1,Will buy again,Blend,Embroidery,Yes,2023-04-26,Supplier A,11.96,City A,Bank Transfer,Special instructions,410191
+2023-04-26,9372,Tank Top,XL,Green,1,Fair,Organic Search,83.41,2.12,16.36,1.56,1.7,Good quality,Blend,Sublimation,Yes,2023-04-27,Supplier C,12.89,City B,Credit Card,Special instructions,400387
+2023-04-27,8148,Long Sleeve,L,White,5,Online,Organic Search,75.7,2.91,6.98,3.92,4.13,Not satisfied,Polyester,Sublimation,Yes,2023-04-28,Supplier C,5.91,City C,PayPal,Handled with care,838933
+2023-04-28,8997,Short Sleeve,M,Red,3,Fair,Email,69.06,2.02,10.83,1.23,3.9,Will buy again,Polyester,Screen Printing,Yes,2023-04-29,Supplier A,5.92,City C,Credit Card,Urgent,678333
+2023-04-29,4854,Short Sleeve,M,White,7,Social Media,Social Media,58.89,2.36,13.09,3.15,1.43,Good quality,Blend,Screen Printing,Yes,2023-04-30,Supplier B,9.9,City A,Credit Card,Handled with care,665761
+2023-04-30,9032,Short Sleeve,M,Green,3,Online,Social Media,36.68,2.76,7.72,3.21,3.01,Will buy again,Polyester,Sublimation,Yes,2023-05-01,Supplier A,7.52,City A,Bank Transfer,Special instructions,110420
+2023-05-01,9131,Tank Top,XL,Blue,3,Online,Organic Search,65.48,4.37,7.97,1.81,4.57,Not satisfied,Polyester,Screen Printing,Yes,2023-05-02,Supplier B,13.13,City C,PayPal,Handled with care,379193
+2023-05-02,5845,Long Sleeve,S,Red,3,Fair,Organic Search,70.93,4.72,8.68,4.0,2.7,Fast delivery,Polyester,Screen Printing,Yes,2023-05-03,Supplier B,4.91,City A,PayPal,Urgent,376644
+2023-05-03,6116,Hoodie,XL,Black,8,Online,Social Media,29.9,4.32,16.14,4.58,1.89,Not satisfied,Polyester,Embroidery,Yes,2023-05-04,Supplier C,3.69,City B,Bank Transfer,Special instructions,556407
+2023-05-04,4533,Hoodie,XL,Black,7,Social Media,Organic Search,65.21,3.1,19.15,4.92,3.78,Will buy again,Blend,Screen Printing,Yes,2023-05-05,Supplier C,11.0,City B,Bank Transfer,Special instructions,308218
+2023-05-05,3937,Short Sleeve,XL,Blue,7,Social Media,Social Media,27.82,3.85,6.91,1.11,1.91,Will buy again,Cotton,Sublimation,No,2023-05-06,Supplier A,5.37,City C,Bank Transfer,Special instructions,519586
+2023-05-06,5939,Hoodie,M,White,1,Social Media,Email,63.77,2.34,13.22,2.24,4.63,Not satisfied,Cotton,Screen Printing,Yes,2023-05-07,Supplier A,4.63,City A,Credit Card,Special instructions,389817
+2023-05-07,4224,Tank Top,L,White,3,Social Media,Email,32.71,2.84,7.21,4.7,2.68,Will buy again,Cotton,Screen Printing,Yes,2023-05-08,Supplier A,11.32,City C,Bank Transfer,Urgent,581356
+2023-05-08,6021,Short Sleeve,XL,Red,2,Online,Organic Search,29.52,4.76,5.81,1.2,2.95,Good quality,Cotton,Embroidery,Yes,2023-05-09,Supplier A,13.36,City A,Credit Card,Urgent,536154
+2023-05-09,2134,Short Sleeve,M,Green,5,Social Media,Social Media,29.05,2.42,5.59,2.09,3.78,Not satisfied,Blend,Sublimation,No,2023-05-10,Supplier C,12.28,City B,Bank Transfer,Special instructions,585300
+2023-05-10,1025,Short Sleeve,XL,White,7,Social Media,Organic Search,92.88,1.69,11.43,3.13,2.44,Fast delivery,Blend,Embroidery,Yes,2023-05-11,Supplier C,4.79,City A,Credit Card,Urgent,831770
+2023-05-11,1956,Short Sleeve,XL,Black,4,Social Media,Organic Search,67.85,2.89,11.38,3.96,4.77,Will buy again,Polyester,Screen Printing,Yes,2023-05-12,Supplier A,9.9,City B,Credit Card,Handled with care,222932
+2023-05-12,2913,Tank Top,M,Black,9,Fair,Email,40.01,3.61,14.96,1.91,2.09,Good quality,Blend,Embroidery,Yes,2023-05-13,Supplier B,6.57,City C,Credit Card,Special instructions,513206
+2023-05-13,3934,Hoodie,L,Black,8,Fair,Social Media,25.72,1.51,10.85,2.2,4.86,Fast delivery,Cotton,Sublimation,No,2023-05-14,Supplier B,4.09,City A,PayPal,Special instructions,444395
+2023-05-14,3721,Long Sleeve,L,White,6,Online,Social Media,62.89,1.49,8.45,1.78,2.55,Will buy again,Cotton,Screen Printing,Yes,2023-05-15,Supplier A,6.26,City C,Credit Card,Urgent,918551
+2023-05-15,1928,Long Sleeve,S,Blue,1,Social Media,Organic Search,31.58,2.21,6.44,2.77,4.12,Will buy again,Cotton,Sublimation,No,2023-05-16,Supplier C,8.28,City C,Credit Card,Handled with care,561665
+2023-05-16,6627,Short Sleeve,XL,White,3,Online,Email,82.27,4.63,13.57,3.02,4.24,Good quality,Polyester,Embroidery,No,2023-05-17,Supplier B,5.46,City C,Bank Transfer,Special instructions,585943
+2023-05-17,7265,Tank Top,S,White,2,Fair,Social Media,59.69,3.7,8.26,4.6,3.48,Good quality,Polyester,Screen Printing,Yes,2023-05-18,Supplier A,12.46,City A,Credit Card,Handled with care,597685
+2023-05-18,6446,Long Sleeve,M,Red,1,Fair,Social Media,78.12,1.89,10.66,4.08,4.25,Will buy again,Blend,Embroidery,Yes,2023-05-19,Supplier C,12.32,City C,Credit Card,Urgent,781402
+2023-05-19,1469,Long Sleeve,XL,Green,6,Online,Organic Search,51.66,3.41,5.26,3.86,3.36,Fast delivery,Cotton,Embroidery,Yes,2023-05-20,Supplier A,5.94,City A,PayPal,Urgent,791617
+2023-05-20,9717,Hoodie,M,White,8,Fair,Email,76.19,3.64,8.74,3.29,3.41,Good quality,Polyester,Sublimation,No,2023-05-21,Supplier A,12.08,City B,PayPal,Urgent,815878
+2023-05-21,2863,Short Sleeve,S,White,4,Social Media,Social Media,74.77,3.09,14.77,2.31,1.56,Fast delivery,Blend,Embroidery,No,2023-05-22,Supplier B,7.08,City A,Bank Transfer,Handled with care,408922
+2023-05-22,2720,Hoodie,M,Green,5,Fair,Email,64.91,4.04,6.85,1.28,4.56,Good quality,Blend,Sublimation,Yes,2023-05-23,Supplier A,10.69,City C,Credit Card,Handled with care,562242
+2023-05-23,6272,Hoodie,M,Black,5,Social Media,Organic Search,87.66,1.1,14.92,2.04,1.62,Will buy again,Cotton,Embroidery,Yes,2023-05-24,Supplier A,9.68,City B,Credit Card,Urgent,458664
+2023-05-24,1591,Short Sleeve,L,Green,8,Fair,Organic Search,66.6,1.76,17.91,1.78,3.02,Will buy again,Blend,Sublimation,No,2023-05-25,Supplier C,9.62,City B,PayPal,Special instructions,733918
+2023-05-25,7185,Tank Top,XL,White,2,Fair,Social Media,66.25,4.87,18.04,1.91,2.27,Will buy again,Polyester,Screen Printing,No,2023-05-26,Supplier B,5.33,City C,Bank Transfer,Handled with care,611880
+2023-05-26,3322,Hoodie,XL,Blue,8,Online,Email,44.64,2.99,7.36,1.91,2.15,Good quality,Polyester,Screen Printing,No,2023-05-27,Supplier C,4.95,City B,PayPal,Handled with care,935494
+2023-05-27,1207,Long Sleeve,XL,Red,8,Fair,Social Media,94.52,1.31,12.01,2.72,1.68,Fast delivery,Polyester,Screen Printing,Yes,2023-05-28,Supplier A,8.8,City A,Credit Card,Special instructions,476928
+2023-05-28,5262,Short Sleeve,M,Red,9,Online,Social Media,61.37,2.23,18.42,2.52,3.19,Fast delivery,Cotton,Sublimation,Yes,2023-05-29,Supplier A,13.68,City A,PayPal,Handled with care,442733
+2023-05-29,4421,Tank Top,L,Green,6,Social Media,Email,51.34,1.01,15.95,2.35,4.38,Good quality,Cotton,Screen Printing,Yes,2023-05-30,Supplier A,3.58,City A,Bank Transfer,Handled with care,609219
+2023-05-30,6249,Tank Top,S,Green,7,Online,Organic Search,63.33,3.32,18.0,4.52,2.99,Good quality,Polyester,Sublimation,Yes,2023-05-31,Supplier B,9.77,City C,Credit Card,Urgent,953150
+2023-05-31,9408,Tank Top,XL,Black,2,Fair,Email,31.62,5.0,10.8,1.81,2.44,Fast delivery,Blend,Embroidery,Yes,2023-06-01,Supplier C,3.45,City C,Credit Card,Special instructions,256007
+2023-06-01,9216,Long Sleeve,M,Red,1,Social Media,Email,41.21,3.36,12.49,1.65,4.71,Good quality,Blend,Embroidery,No,2023-06-02,Supplier B,4.78,City A,Bank Transfer,Urgent,998686
+2023-06-02,6103,Hoodie,L,Green,1,Online,Social Media,44.53,3.44,18.43,1.3,1.54,Good quality,Cotton,Screen Printing,No,2023-06-03,Supplier A,5.08,City B,PayPal,Urgent,301712
+2023-06-03,8939,Hoodie,L,White,1,Online,Organic Search,61.21,2.31,11.44,4.7,2.92,Good quality,Cotton,Sublimation,No,2023-06-04,Supplier B,9.02,City A,Bank Transfer,Handled with care,628329
+2023-06-04,3282,Long Sleeve,XL,White,3,Online,Organic Search,75.64,1.95,15.05,1.78,4.05,Will buy again,Blend,Screen Printing,No,2023-06-05,Supplier B,14.51,City A,PayPal,Special instructions,785437
+2023-06-05,2740,Long Sleeve,L,Blue,4,Online,Social Media,42.98,3.03,11.37,3.29,4.59,Good quality,Cotton,Embroidery,Yes,2023-06-06,Supplier C,9.93,City C,Credit Card,Handled with care,413709
+2023-06-06,7118,Tank Top,L,Blue,2,Fair,Social Media,30.86,4.6,15.62,2.49,4.71,Will buy again,Cotton,Screen Printing,Yes,2023-06-07,Supplier C,14.38,City B,PayPal,Special instructions,420916
+2023-06-07,6846,Tank Top,M,Green,7,Social Media,Organic Search,64.74,1.04,14.2,3.22,1.45,Not satisfied,Blend,Embroidery,No,2023-06-08,Supplier C,5.43,City B,Credit Card,Special instructions,895344
+2023-06-08,4781,Hoodie,S,Black,5,Online,Social Media,88.37,3.28,11.62,3.57,3.16,Will buy again,Cotton,Sublimation,Yes,2023-06-09,Supplier A,5.79,City B,Credit Card,Special instructions,628655
+2023-06-09,3775,Short Sleeve,L,Black,1,Online,Email,53.46,2.71,13.24,4.36,1.85,Will buy again,Polyester,Screen Printing,No,2023-06-10,Supplier C,8.19,City A,Credit Card,Handled with care,646661
+2023-06-10,3603,Hoodie,S,Black,9,Online,Email,58.06,3.48,13.97,3.03,1.71,Not satisfied,Cotton,Screen Printing,Yes,2023-06-11,Supplier A,7.41,City A,Credit Card,Handled with care,971512
+2023-06-11,8179,Hoodie,L,Black,9,Fair,Social Media,43.14,4.36,18.19,2.31,4.46,Good quality,Cotton,Sublimation,Yes,2023-06-12,Supplier A,14.3,City B,PayPal,Special instructions,501587
+2023-06-12,7356,Hoodie,L,Red,7,Fair,Email,84.71,2.8,15.15,1.72,2.48,Good quality,Blend,Sublimation,Yes,2023-06-13,Supplier C,12.53,City B,PayPal,Handled with care,133245
+2023-06-13,2162,Hoodie,L,Black,5,Online,Social Media,29.65,1.87,15.71,3.43,1.42,Not satisfied,Polyester,Sublimation,No,2023-06-14,Supplier B,14.78,City B,PayPal,Urgent,773259
+2023-06-14,1623,Short Sleeve,XL,Blue,6,Online,Organic Search,33.69,2.51,19.55,1.53,1.87,Fast delivery,Blend,Embroidery,No,2023-06-15,Supplier A,8.23,City B,PayPal,Handled with care,313456
+2023-06-15,9962,Long Sleeve,XL,Blue,6,Social Media,Social Media,100.0,1.6,6.01,4.42,2.52,Good quality,Cotton,Screen Printing,Yes,2023-06-16,Supplier A,3.34,City B,Credit Card,Handled with care,813994
+2023-06-16,5051,Hoodie,XL,Red,8,Social Media,Organic Search,74.58,1.34,7.81,1.11,3.6,Good quality,Polyester,Screen Printing,Yes,2023-06-17,Supplier A,3.65,City C,Credit Card,Special instructions,507620
+2023-06-17,2241,Long Sleeve,S,Green,8,Fair,Social Media,63.84,2.5,9.77,4.38,3.5,Will buy again,Blend,Sublimation,Yes,2023-06-18,Supplier B,6.02,City C,Credit Card,Urgent,168756
+2023-06-18,5403,Short Sleeve,S,White,4,Online,Social Media,83.61,3.5,19.19,1.88,4.7,Good quality,Cotton,Sublimation,No,2023-06-19,Supplier A,7.23,City C,PayPal,Urgent,853112
+2023-06-19,2198,Long Sleeve,XL,Blue,6,Fair,Email,99.75,2.05,8.43,2.95,2.26,Good quality,Cotton,Embroidery,No,2023-06-20,Supplier B,3.84,City A,Bank Transfer,Urgent,204151
+2023-06-20,3997,Short Sleeve,S,Blue,6,Online,Email,35.27,4.66,13.48,3.92,2.59,Not satisfied,Blend,Screen Printing,No,2023-06-21,Supplier B,9.75,City C,PayPal,Urgent,629965
+2023-06-21,6661,Short Sleeve,M,Red,5,Social Media,Email,83.31,3.76,6.77,4.14,2.13,Good quality,Polyester,Sublimation,No,2023-06-22,Supplier A,11.98,City B,Credit Card,Handled with care,229636
+2023-06-22,1807,Hoodie,S,Blue,1,Social Media,Email,47.37,3.75,9.06,2.61,1.47,Fast delivery,Polyester,Sublimation,Yes,2023-06-23,Supplier B,9.66,City A,Bank Transfer,Handled with care,134933
+2023-06-23,3121,Short Sleeve,M,White,6,Fair,Social Media,78.5,3.77,9.14,3.0,4.84,Will buy again,Cotton,Sublimation,Yes,2023-06-24,Supplier B,6.23,City C,Bank Transfer,Handled with care,157854
+2023-06-24,9067,Tank Top,XL,Red,7,Fair,Email,76.61,1.01,15.63,1.12,1.38,Fast delivery,Polyester,Embroidery,Yes,2023-06-25,Supplier B,12.19,City A,PayPal,Urgent,502219
+2023-06-25,4886,Long Sleeve,M,Black,8,Fair,Social Media,99.87,4.25,6.63,2.38,2.89,Not satisfied,Cotton,Screen Printing,No,2023-06-26,Supplier A,12.57,City B,Bank Transfer,Special instructions,399187
+2023-06-26,9922,Hoodie,XL,Black,1,Social Media,Social Media,28.95,4.67,16.35,2.05,3.28,Will buy again,Polyester,Screen Printing,Yes,2023-06-27,Supplier B,7.34,City B,Bank Transfer,Urgent,951349
+2023-06-27,7066,Tank Top,XL,Black,9,Online,Organic Search,20.17,1.08,9.55,2.56,3.8,Good quality,Cotton,Screen Printing,Yes,2023-06-28,Supplier C,11.28,City C,Bank Transfer,Urgent,303594
+2023-06-28,2823,Long Sleeve,XL,White,1,Online,Social Media,79.82,3.39,16.0,2.2,2.09,Not satisfied,Cotton,Screen Printing,Yes,2023-06-29,Supplier B,12.16,City A,PayPal,Handled with care,601625
+2023-06-29,1199,Tank Top,S,Green,8,Fair,Email,65.5,3.71,10.5,1.64,3.06,Fast delivery,Cotton,Screen Printing,Yes,2023-06-30,Supplier B,5.76,City C,Credit Card,Special instructions,641314
+2023-06-30,2447,Hoodie,L,Blue,9,Online,Organic Search,75.27,1.78,11.4,4.77,2.55,Fast delivery,Cotton,Embroidery,No,2023-07-01,Supplier B,4.61,City B,PayPal,Special instructions,290789
+2023-07-01,6181,Long Sleeve,L,White,9,Online,Organic Search,80.28,4.35,6.89,2.72,1.39,Not satisfied,Cotton,Sublimation,No,2023-07-02,Supplier B,13.1,City B,Credit Card,Urgent,410765
+2023-07-02,6208,Long Sleeve,M,Green,5,Fair,Organic Search,59.48,3.5,6.6,3.55,1.48,Will buy again,Blend,Embroidery,Yes,2023-07-03,Supplier A,9.03,City C,PayPal,Special instructions,922984
+2023-07-03,7177,Short Sleeve,L,Red,1,Social Media,Social Media,48.52,1.9,13.13,4.71,2.61,Good quality,Polyester,Screen Printing,No,2023-07-04,Supplier A,12.39,City B,PayPal,Special instructions,842626
+2023-07-04,5863,Tank Top,XL,White,4,Fair,Email,81.63,4.87,14.56,3.29,1.01,Good quality,Blend,Embroidery,No,2023-07-05,Supplier B,7.62,City B,Bank Transfer,Special instructions,606413
+2023-07-05,7180,Tank Top,L,Red,7,Fair,Organic Search,50.41,1.86,6.38,1.51,1.1,Not satisfied,Polyester,Embroidery,Yes,2023-07-06,Supplier B,14.03,City C,Credit Card,Urgent,541568
+2023-07-06,2792,Long Sleeve,M,Green,9,Fair,Social Media,69.78,3.71,7.09,4.15,1.21,Will buy again,Cotton,Screen Printing,No,2023-07-07,Supplier C,10.62,City A,Credit Card,Urgent,111386
+2023-07-07,2483,Tank Top,XL,White,4,Online,Social Media,91.47,2.9,5.49,4.1,4.06,Not satisfied,Polyester,Sublimation,No,2023-07-08,Supplier C,14.62,City B,Credit Card,Handled with care,227006
+2023-07-08,9389,Long Sleeve,S,Blue,5,Fair,Organic Search,32.67,3.89,7.44,2.62,4.56,Good quality,Blend,Sublimation,No,2023-07-09,Supplier C,5.58,City B,PayPal,Handled with care,200268
+2023-07-09,1894,Long Sleeve,XL,Green,5,Fair,Email,20.71,1.39,8.34,3.16,4.62,Good quality,Cotton,Embroidery,No,2023-07-10,Supplier B,9.41,City C,PayPal,Special instructions,781590
+2023-07-10,6374,Short Sleeve,XL,Blue,5,Social Media,Social Media,40.54,4.81,15.36,2.7,1.03,Good quality,Blend,Screen Printing,No,2023-07-11,Supplier A,5.0,City A,Bank Transfer,Urgent,319553
+2023-07-11,1136,Long Sleeve,M,Red,2,Social Media,Organic Search,83.8,1.82,5.98,1.9,3.62,Fast delivery,Blend,Embroidery,No,2023-07-12,Supplier B,4.6,City A,Bank Transfer,Handled with care,155599
+2023-07-12,7273,Tank Top,S,Blue,4,Fair,Social Media,65.35,1.88,15.31,4.05,2.15,Good quality,Polyester,Sublimation,No,2023-07-13,Supplier A,11.3,City C,PayPal,Special instructions,774531
+2023-07-13,4419,Hoodie,XL,White,9,Social Media,Email,95.69,3.22,11.08,3.98,1.28,Not satisfied,Blend,Embroidery,Yes,2023-07-14,Supplier B,5.65,City A,Bank Transfer,Urgent,648913
+2023-07-14,1168,Short Sleeve,S,White,9,Fair,Email,63.83,2.4,7.14,3.59,1.42,Not satisfied,Blend,Sublimation,Yes,2023-07-15,Supplier B,12.55,City A,Bank Transfer,Urgent,477121
+2023-07-15,7004,Hoodie,XL,Black,4,Social Media,Email,41.26,2.77,19.73,2.82,1.27,Fast delivery,Cotton,Sublimation,No,2023-07-16,Supplier C,9.36,City C,Bank Transfer,Handled with care,206852
+2023-07-16,3852,Long Sleeve,XL,Blue,3,Fair,Email,81.27,1.15,12.56,2.86,3.2,Good quality,Blend,Screen Printing,Yes,2023-07-17,Supplier B,13.05,City B,PayPal,Special instructions,783560
+2023-07-17,5419,Short Sleeve,M,Black,2,Social Media,Social Media,72.6,1.94,9.41,2.19,2.23,Fast delivery,Cotton,Sublimation,No,2023-07-18,Supplier C,6.68,City A,PayPal,Urgent,658985
+2023-07-18,9039,Short Sleeve,XL,Green,5,Online,Email,85.65,4.09,5.83,2.06,1.67,Will buy again,Blend,Sublimation,Yes,2023-07-19,Supplier C,9.73,City C,PayPal,Handled with care,244385
+2023-07-19,9700,Long Sleeve,XL,Red,8,Social Media,Organic Search,73.44,4.61,9.71,4.4,1.58,Not satisfied,Polyester,Screen Printing,No,2023-07-20,Supplier B,10.0,City A,Credit Card,Urgent,867357
+2023-07-20,4186,Tank Top,XL,Green,7,Social Media,Email,56.16,1.93,14.19,4.44,4.36,Fast delivery,Polyester,Screen Printing,Yes,2023-07-21,Supplier C,5.84,City B,Bank Transfer,Urgent,660660
+2023-07-21,6918,Long Sleeve,L,Red,9,Fair,Email,42.17,4.09,8.69,1.06,1.09,Will buy again,Cotton,Screen Printing,No,2023-07-22,Supplier B,11.73,City C,Bank Transfer,Handled with care,156059
+2023-07-22,6149,Long Sleeve,S,Blue,1,Social Media,Organic Search,24.45,1.12,13.54,3.88,2.98,Not satisfied,Polyester,Screen Printing,No,2023-07-23,Supplier C,11.33,City A,PayPal,Special instructions,903235
+2023-07-23,2777,Long Sleeve,M,White,2,Social Media,Email,44.63,1.18,9.17,2.32,1.29,Not satisfied,Blend,Embroidery,No,2023-07-24,Supplier C,12.88,City B,PayPal,Handled with care,382916
+2023-07-24,4361,Long Sleeve,M,Blue,2,Online,Email,23.7,2.57,5.67,4.68,1.58,Not satisfied,Blend,Screen Printing,Yes,2023-07-25,Supplier A,9.62,City A,Bank Transfer,Urgent,366155
+2023-07-25,9338,Long Sleeve,M,Red,4,Fair,Organic Search,54.4,1.59,11.2,1.97,2.86,Good quality,Polyester,Sublimation,No,2023-07-26,Supplier C,8.68,City C,Bank Transfer,Special instructions,277221
+2023-07-26,6393,Tank Top,XL,Black,8,Online,Email,38.06,1.66,10.35,2.34,1.83,Not satisfied,Polyester,Sublimation,Yes,2023-07-27,Supplier A,6.78,City A,Bank Transfer,Urgent,460638
+2023-07-27,5317,Short Sleeve,S,Red,9,Fair,Social Media,76.29,3.51,8.69,3.99,3.55,Good quality,Blend,Embroidery,No,2023-07-28,Supplier A,8.16,City A,PayPal,Urgent,708339
+2023-07-28,5605,Tank Top,L,Black,5,Fair,Social Media,37.61,4.43,12.93,1.3,2.52,Good quality,Polyester,Sublimation,Yes,2023-07-29,Supplier B,10.1,City C,Credit Card,Handled with care,636293
+2023-07-29,3562,Long Sleeve,L,Green,7,Fair,Email,26.51,4.12,10.84,3.83,4.14,Fast delivery,Blend,Sublimation,Yes,2023-07-30,Supplier B,6.38,City B,Bank Transfer,Special instructions,990715
+2023-07-30,7213,Short Sleeve,M,White,3,Social Media,Social Media,87.1,2.35,19.25,3.7,3.63,Will buy again,Polyester,Screen Printing,No,2023-07-31,Supplier C,9.09,City B,Bank Transfer,Urgent,655878
+2023-07-31,5652,Short Sleeve,S,Green,7,Fair,Organic Search,24.8,4.5,14.32,2.22,4.91,Fast delivery,Blend,Screen Printing,Yes,2023-08-01,Supplier C,11.76,City B,Credit Card,Special instructions,691355
+2023-08-01,7235,Short Sleeve,L,Blue,1,Online,Social Media,80.08,4.37,10.37,3.85,2.43,Good quality,Cotton,Sublimation,Yes,2023-08-02,Supplier B,8.26,City A,PayPal,Handled with care,747938
+2023-08-02,1423,Hoodie,M,Black,1,Social Media,Email,94.35,3.1,8.22,4.61,2.78,Will buy again,Polyester,Embroidery,No,2023-08-03,Supplier C,5.69,City C,Credit Card,Special instructions,371513
+2023-08-03,7854,Tank Top,L,Black,3,Fair,Email,28.57,2.9,14.98,4.22,3.67,Good quality,Blend,Screen Printing,Yes,2023-08-04,Supplier B,8.28,City A,PayPal,Special instructions,693601
+2023-08-04,1967,Tank Top,L,Green,1,Fair,Email,64.77,1.23,18.8,3.07,2.69,Will buy again,Cotton,Embroidery,Yes,2023-08-05,Supplier B,13.24,City A,Credit Card,Handled with care,286232
+2023-08-05,5370,Tank Top,S,White,6,Social Media,Email,56.14,1.6,14.41,1.53,1.96,Good quality,Cotton,Sublimation,No,2023-08-06,Supplier B,9.8,City B,PayPal,Urgent,943277
+2023-08-06,7187,Long Sleeve,M,White,1,Online,Organic Search,83.9,1.34,17.44,4.57,1.03,Not satisfied,Polyester,Sublimation,No,2023-08-07,Supplier B,11.48,City C,Credit Card,Handled with care,313580
+2023-08-07,6203,Tank Top,L,Green,5,Online,Email,69.88,3.11,15.26,2.96,2.1,Fast delivery,Blend,Sublimation,No,2023-08-08,Supplier B,5.38,City C,PayPal,Special instructions,454615
+2023-08-08,1433,Hoodie,XL,White,8,Social Media,Organic Search,42.26,3.71,19.21,2.63,4.46,Good quality,Blend,Embroidery,Yes,2023-08-09,Supplier B,4.73,City A,Bank Transfer,Handled with care,674073
+2023-08-09,7237,Hoodie,XL,Blue,8,Social Media,Organic Search,20.12,3.48,11.11,3.19,3.36,Good quality,Blend,Sublimation,No,2023-08-10,Supplier B,5.53,City C,Credit Card,Special instructions,295731
+2023-08-10,2429,Tank Top,L,Red,2,Social Media,Email,58.63,4.49,16.59,1.85,1.02,Will buy again,Cotton,Screen Printing,Yes,2023-08-11,Supplier A,11.5,City B,Credit Card,Handled with care,315763
+2023-08-11,3546,Hoodie,S,Black,9,Social Media,Social Media,91.53,3.63,12.64,2.34,4.15,Will buy again,Blend,Sublimation,Yes,2023-08-12,Supplier A,13.52,City B,PayPal,Handled with care,638368
+2023-08-12,1329,Tank Top,S,Black,7,Social Media,Social Media,92.43,4.32,5.74,3.94,1.06,Not satisfied,Blend,Embroidery,No,2023-08-13,Supplier B,14.83,City C,PayPal,Handled with care,705438
+2023-08-13,4612,Hoodie,L,Black,6,Fair,Social Media,30.02,1.56,5.2,3.25,4.81,Good quality,Blend,Sublimation,No,2023-08-14,Supplier A,13.53,City C,Bank Transfer,Handled with care,529873
+2023-08-14,9401,Short Sleeve,S,Red,2,Online,Email,88.85,1.69,11.38,4.05,3.06,Good quality,Cotton,Sublimation,Yes,2023-08-15,Supplier C,13.36,City B,Credit Card,Special instructions,625483
+2023-08-15,7761,Short Sleeve,S,Blue,6,Social Media,Social Media,22.75,4.67,14.9,4.05,4.63,Good quality,Polyester,Sublimation,No,2023-08-16,Supplier B,12.2,City A,Credit Card,Special instructions,447881
+2023-08-16,4968,Long Sleeve,XL,Green,5,Fair,Organic Search,27.39,2.42,17.95,4.01,4.54,Not satisfied,Polyester,Screen Printing,No,2023-08-17,Supplier A,14.86,City B,Credit Card,Urgent,866419
+2023-08-17,9150,Short Sleeve,M,White,3,Social Media,Social Media,97.3,1.87,5.49,1.58,4.54,Good quality,Cotton,Screen Printing,No,2023-08-18,Supplier C,3.73,City A,Credit Card,Urgent,227257
+2023-08-18,2040,Long Sleeve,M,White,7,Online,Organic Search,50.96,4.65,19.13,3.6,2.5,Not satisfied,Cotton,Embroidery,Yes,2023-08-19,Supplier A,11.42,City B,PayPal,Special instructions,540771
+2023-08-19,7250,Short Sleeve,L,Red,2,Online,Social Media,25.66,4.88,18.27,2.92,1.74,Not satisfied,Polyester,Sublimation,Yes,2023-08-20,Supplier A,11.94,City B,Credit Card,Urgent,966242
+2023-08-20,9356,Hoodie,L,Black,2,Online,Organic Search,57.64,3.55,18.1,1.25,2.4,Good quality,Blend,Screen Printing,Yes,2023-08-21,Supplier A,8.76,City C,Bank Transfer,Handled with care,848422
+2023-08-21,9798,Long Sleeve,L,White,8,Online,Social Media,23.69,2.55,14.64,4.34,1.54,Good quality,Blend,Embroidery,Yes,2023-08-22,Supplier C,14.56,City B,PayPal,Special instructions,365651
+2023-08-22,8704,Hoodie,XL,Green,6,Fair,Social Media,21.31,3.75,12.0,1.88,4.34,Not satisfied,Polyester,Screen Printing,Yes,2023-08-23,Supplier B,11.19,City C,Credit Card,Special instructions,799977
+2023-08-23,7772,Hoodie,XL,White,5,Online,Organic Search,64.94,1.06,17.06,1.05,3.27,Fast delivery,Blend,Embroidery,No,2023-08-24,Supplier A,8.85,City C,Credit Card,Special instructions,195872
+2023-08-24,6311,Long Sleeve,S,Black,2,Social Media,Social Media,36.9,1.58,8.09,3.57,1.99,Will buy again,Cotton,Sublimation,Yes,2023-08-25,Supplier C,9.41,City B,Bank Transfer,Handled with care,716551
+2023-08-25,7011,Short Sleeve,XL,Green,6,Online,Social Media,69.75,2.47,9.38,1.69,4.28,Will buy again,Blend,Sublimation,No,2023-08-26,Supplier B,13.55,City A,PayPal,Urgent,220006
+2023-08-26,3798,Short Sleeve,M,Black,8,Fair,Social Media,46.78,4.33,7.59,1.25,2.84,Good quality,Polyester,Embroidery,Yes,2023-08-27,Supplier B,9.04,City B,PayPal,Handled with care,919742
+2023-08-27,9352,Hoodie,XL,Black,9,Online,Email,30.6,2.22,19.97,4.74,1.04,Will buy again,Blend,Sublimation,Yes,2023-08-28,Supplier B,10.23,City B,PayPal,Urgent,706995
+2023-08-28,3195,Tank Top,L,Red,3,Social Media,Email,98.75,1.23,7.88,1.59,1.61,Good quality,Cotton,Screen Printing,Yes,2023-08-29,Supplier C,13.4,City B,PayPal,Special instructions,208006
+2023-08-29,5680,Tank Top,M,Black,5,Fair,Social Media,40.0,2.51,15.51,3.08,2.69,Will buy again,Polyester,Sublimation,Yes,2023-08-30,Supplier A,10.06,City A,Credit Card,Handled with care,356321
+2023-08-30,7599,Long Sleeve,S,Green,8,Fair,Social Media,24.96,1.97,11.93,2.47,1.31,Not satisfied,Blend,Embroidery,No,2023-08-31,Supplier A,14.07,City B,Credit Card,Special instructions,867134
+2023-08-31,4085,Hoodie,M,Red,3,Social Media,Email,42.31,1.22,5.5,1.18,3.57,Fast delivery,Blend,Sublimation,No,2023-09-01,Supplier C,6.3,City A,Credit Card,Urgent,189704
+2023-09-01,6713,Long Sleeve,XL,Red,9,Online,Organic Search,40.14,2.6,6.22,2.26,1.79,Will buy again,Polyester,Sublimation,No,2023-09-02,Supplier A,7.69,City A,Credit Card,Urgent,805186
+2023-09-02,6240,Long Sleeve,XL,Green,3,Online,Social Media,43.97,2.41,18.94,2.4,3.38,Will buy again,Blend,Screen Printing,No,2023-09-03,Supplier C,4.5,City C,PayPal,Urgent,928177
+2023-09-03,1732,Short Sleeve,S,Red,2,Online,Social Media,48.45,3.94,16.17,2.97,1.04,Good quality,Blend,Screen Printing,No,2023-09-04,Supplier A,6.54,City B,Credit Card,Handled with care,462600
+2023-09-04,6028,Short Sleeve,L,Green,9,Online,Organic Search,84.41,1.25,13.19,3.83,1.58,Not satisfied,Polyester,Screen Printing,Yes,2023-09-05,Supplier A,10.08,City A,Bank Transfer,Special instructions,851232
+2023-09-05,9473,Hoodie,S,White,8,Online,Organic Search,24.78,2.52,8.14,5.0,2.3,Will buy again,Blend,Screen Printing,Yes,2023-09-06,Supplier C,11.96,City B,Bank Transfer,Urgent,129653
+2023-09-06,8594,Tank Top,S,Red,2,Online,Organic Search,48.36,2.37,5.1,3.07,1.35,Fast delivery,Cotton,Sublimation,No,2023-09-07,Supplier B,5.09,City B,Bank Transfer,Urgent,677949
+2023-09-07,5566,Short Sleeve,S,White,4,Online,Social Media,28.3,3.59,16.59,4.77,4.93,Will buy again,Cotton,Embroidery,Yes,2023-09-08,Supplier B,3.84,City C,Bank Transfer,Urgent,552786
+2023-09-08,8444,Long Sleeve,S,Red,6,Fair,Organic Search,98.58,4.55,9.68,3.11,1.93,Will buy again,Cotton,Embroidery,Yes,2023-09-09,Supplier B,8.97,City C,Bank Transfer,Special instructions,161952
+2023-09-09,4396,Tank Top,XL,Black,9,Online,Organic Search,31.52,1.57,8.21,3.37,4.59,Not satisfied,Blend,Screen Printing,No,2023-09-10,Supplier A,8.48,City A,PayPal,Special instructions,739133
+2023-09-10,6347,Short Sleeve,L,Green,2,Online,Email,58.32,4.27,7.58,1.56,3.75,Will buy again,Blend,Sublimation,Yes,2023-09-11,Supplier C,8.59,City B,Credit Card,Handled with care,201219
+2023-09-11,8034,Long Sleeve,M,Black,4,Online,Organic Search,58.4,3.44,17.13,3.28,4.83,Fast delivery,Cotton,Sublimation,Yes,2023-09-12,Supplier C,7.53,City B,Bank Transfer,Urgent,887584
+2023-09-12,1595,Short Sleeve,L,White,2,Social Media,Social Media,82.49,1.12,14.31,2.04,4.64,Fast delivery,Polyester,Screen Printing,No,2023-09-13,Supplier B,3.6,City A,PayPal,Special instructions,291101
+2023-09-13,1647,Short Sleeve,L,Green,3,Online,Social Media,41.77,4.07,14.62,2.1,4.51,Fast delivery,Cotton,Sublimation,No,2023-09-14,Supplier C,11.13,City C,PayPal,Handled with care,630534
+2023-09-14,1573,Short Sleeve,S,Green,8,Fair,Email,79.02,3.15,18.88,2.74,3.31,Fast delivery,Cotton,Sublimation,Yes,2023-09-15,Supplier B,4.74,City A,Bank Transfer,Handled with care,628846
+2023-09-15,7797,Long Sleeve,L,White,6,Online,Social Media,22.11,4.2,18.38,3.61,4.86,Good quality,Polyester,Embroidery,No,2023-09-16,Supplier B,6.93,City A,Bank Transfer,Urgent,632728
+2023-09-16,6637,Long Sleeve,S,Green,9,Fair,Social Media,94.17,2.64,15.21,3.47,1.72,Not satisfied,Blend,Embroidery,No,2023-09-17,Supplier B,13.11,City C,Credit Card,Special instructions,104579
+2023-09-17,9448,Short Sleeve,M,Green,6,Social Media,Email,27.92,3.66,19.42,2.23,2.82,Good quality,Cotton,Embroidery,Yes,2023-09-18,Supplier B,14.18,City A,Credit Card,Special instructions,946612
+2023-09-18,6259,Long Sleeve,S,Red,4,Social Media,Organic Search,58.47,1.8,8.43,1.12,4.12,Good quality,Cotton,Embroidery,No,2023-09-19,Supplier A,4.4,City B,PayPal,Handled with care,291920
+2023-09-19,7567,Short Sleeve,M,Blue,3,Fair,Organic Search,33.87,1.77,5.29,1.98,2.93,Good quality,Cotton,Screen Printing,Yes,2023-09-20,Supplier C,5.92,City B,Credit Card,Special instructions,984604
+2023-09-20,5444,Hoodie,L,Black,6,Fair,Social Media,49.49,2.36,18.83,2.81,4.98,Will buy again,Cotton,Screen Printing,No,2023-09-21,Supplier C,13.66,City C,PayPal,Handled with care,291886
+2023-09-21,3989,Tank Top,S,Blue,5,Social Media,Email,71.36,3.08,8.96,4.64,3.93,Good quality,Polyester,Sublimation,Yes,2023-09-22,Supplier A,6.48,City C,Bank Transfer,Special instructions,233351
+2023-09-22,1586,Long Sleeve,XL,Green,9,Fair,Organic Search,31.4,3.87,19.6,3.44,1.83,Not satisfied,Cotton,Screen Printing,No,2023-09-23,Supplier B,3.86,City A,Credit Card,Handled with care,633204
+2023-09-23,6102,Short Sleeve,M,Blue,2,Online,Social Media,43.13,3.67,8.36,4.51,4.25,Will buy again,Cotton,Embroidery,No,2023-09-24,Supplier B,13.6,City C,PayPal,Handled with care,675767
+2023-09-24,8601,Short Sleeve,L,Red,1,Social Media,Organic Search,74.33,4.29,9.18,3.38,4.55,Will buy again,Polyester,Sublimation,Yes,2023-09-25,Supplier B,7.72,City C,Bank Transfer,Handled with care,121708
+2023-09-25,1739,Hoodie,M,White,9,Social Media,Social Media,87.56,2.71,18.64,2.77,3.16,Good quality,Polyester,Screen Printing,Yes,2023-09-26,Supplier A,3.77,City A,Bank Transfer,Urgent,487243
+2023-09-26,5882,Short Sleeve,S,White,9,Fair,Organic Search,67.43,4.65,17.19,2.31,4.96,Not satisfied,Polyester,Embroidery,Yes,2023-09-27,Supplier B,5.02,City B,Bank Transfer,Urgent,495881
+2023-09-27,6410,Tank Top,XL,Blue,5,Online,Organic Search,61.84,1.44,6.46,4.88,3.14,Not satisfied,Polyester,Sublimation,No,2023-09-28,Supplier C,12.26,City A,PayPal,Urgent,229717
+2023-09-28,1437,Long Sleeve,M,Red,1,Online,Social Media,28.77,1.75,13.63,2.91,4.09,Not satisfied,Blend,Sublimation,Yes,2023-09-29,Supplier A,9.2,City C,Credit Card,Urgent,414525
+2023-09-29,4898,Hoodie,M,White,5,Social Media,Organic Search,31.72,3.73,7.37,2.44,2.3,Not satisfied,Blend,Screen Printing,No,2023-09-30,Supplier B,11.29,City C,PayPal,Special instructions,866210
+2023-09-30,2847,Short Sleeve,M,Blue,3,Fair,Social Media,96.66,2.02,6.08,4.63,1.96,Not satisfied,Blend,Sublimation,No,2023-10-01,Supplier A,10.56,City C,Credit Card,Handled with care,745809
+2023-10-01,2020,Short Sleeve,L,Blue,8,Online,Email,20.21,1.66,14.19,4.25,4.14,Fast delivery,Cotton,Embroidery,No,2023-10-02,Supplier A,10.46,City B,PayPal,Urgent,141286
+2023-10-02,7930,Short Sleeve,XL,Black,5,Online,Organic Search,58.75,4.55,6.17,3.35,1.77,Good quality,Polyester,Embroidery,No,2023-10-03,Supplier A,5.58,City A,Bank Transfer,Urgent,866008
+2023-10-03,1941,Hoodie,XL,Red,5,Fair,Email,80.51,1.27,12.08,3.26,2.14,Fast delivery,Cotton,Embroidery,Yes,2023-10-04,Supplier B,9.67,City C,Bank Transfer,Special instructions,688849
+2023-10-04,9641,Long Sleeve,XL,Black,6,Fair,Social Media,36.8,4.97,14.22,2.99,2.47,Will buy again,Polyester,Embroidery,No,2023-10-05,Supplier C,6.59,City B,Bank Transfer,Special instructions,839327
+2023-10-05,6610,Tank Top,M,Blue,7,Social Media,Organic Search,56.77,4.45,19.09,1.39,3.5,Will buy again,Blend,Embroidery,Yes,2023-10-06,Supplier B,4.01,City C,Credit Card,Special instructions,454790
+2023-10-06,3107,Tank Top,M,Black,4,Online,Organic Search,59.44,4.47,18.82,3.75,2.37,Will buy again,Blend,Screen Printing,Yes,2023-10-07,Supplier C,9.51,City B,Credit Card,Urgent,379853
+2023-10-07,5259,Short Sleeve,M,Black,8,Social Media,Organic Search,40.83,3.51,14.11,2.5,2.28,Good quality,Polyester,Sublimation,No,2023-10-08,Supplier A,5.57,City B,PayPal,Special instructions,440787
+2023-10-08,1945,Short Sleeve,M,Blue,1,Social Media,Email,90.3,1.9,12.54,1.07,2.77,Not satisfied,Polyester,Embroidery,Yes,2023-10-09,Supplier A,14.85,City B,Bank Transfer,Urgent,915220
+2023-10-09,9393,Long Sleeve,S,White,5,Fair,Organic Search,94.01,4.19,14.76,3.9,2.8,Good quality,Polyester,Embroidery,No,2023-10-10,Supplier B,14.17,City B,Bank Transfer,Handled with care,546494
+2023-10-10,8468,Short Sleeve,S,Green,5,Online,Organic Search,79.95,1.22,18.87,1.52,1.08,Fast delivery,Cotton,Sublimation,No,2023-10-11,Supplier C,4.82,City C,Bank Transfer,Urgent,328659
+2023-10-11,2805,Tank Top,L,White,6,Fair,Social Media,20.69,3.33,19.86,4.19,2.27,Fast delivery,Blend,Screen Printing,No,2023-10-12,Supplier A,6.97,City A,Bank Transfer,Special instructions,478233
+2023-10-12,2862,Long Sleeve,M,Red,9,Fair,Organic Search,70.31,2.76,5.5,2.04,2.88,Fast delivery,Polyester,Screen Printing,Yes,2023-10-13,Supplier B,3.55,City A,PayPal,Handled with care,425798
+2023-10-13,9742,Hoodie,L,White,6,Social Media,Organic Search,38.57,4.0,19.54,3.35,1.94,Good quality,Polyester,Sublimation,Yes,2023-10-14,Supplier C,8.66,City A,Bank Transfer,Special instructions,470948
+2023-10-14,4751,Hoodie,XL,Blue,7,Online,Email,41.37,1.1,17.05,3.28,2.91,Will buy again,Cotton,Embroidery,No,2023-10-15,Supplier A,3.99,City B,Credit Card,Handled with care,426433
+2023-10-15,3040,Long Sleeve,M,Black,2,Fair,Email,34.7,2.55,6.13,1.71,3.28,Fast delivery,Cotton,Sublimation,Yes,2023-10-16,Supplier B,14.56,City C,Credit Card,Urgent,147740
+2023-10-16,1903,Short Sleeve,S,Red,5,Social Media,Organic Search,65.79,2.91,17.0,2.76,4.36,Fast delivery,Blend,Sublimation,Yes,2023-10-17,Supplier A,10.26,City B,Credit Card,Handled with care,473119
+2023-10-17,9696,Tank Top,M,Red,6,Online,Email,55.74,1.61,14.94,4.28,4.1,Will buy again,Blend,Embroidery,Yes,2023-10-18,Supplier A,6.88,City B,Credit Card,Urgent,569020
+2023-10-18,9015,Long Sleeve,XL,Red,4,Fair,Organic Search,35.49,2.66,18.59,4.89,2.03,Fast delivery,Cotton,Sublimation,Yes,2023-10-19,Supplier A,7.49,City A,Bank Transfer,Urgent,636536
+2023-10-19,6896,Long Sleeve,L,Black,7,Online,Organic Search,94.61,4.64,11.87,1.07,1.51,Will buy again,Cotton,Screen Printing,Yes,2023-10-20,Supplier C,12.0,City C,Bank Transfer,Urgent,824009
+2023-10-20,8942,Short Sleeve,M,White,9,Social Media,Organic Search,39.14,2.87,12.55,1.59,1.01,Good quality,Polyester,Sublimation,Yes,2023-10-21,Supplier A,10.94,City C,Credit Card,Handled with care,113879
+2023-10-21,8377,Tank Top,S,Black,8,Social Media,Organic Search,82.3,2.01,17.56,3.47,2.59,Will buy again,Cotton,Sublimation,No,2023-10-22,Supplier A,6.83,City C,Credit Card,Handled with care,184976
+2023-10-22,6593,Tank Top,XL,Green,5,Fair,Organic Search,21.98,3.13,12.26,1.01,4.42,Not satisfied,Polyester,Sublimation,No,2023-10-23,Supplier C,13.65,City A,Credit Card,Handled with care,830563
+2023-10-23,4128,Hoodie,XL,Red,8,Social Media,Email,34.68,1.24,12.9,4.03,1.65,Not satisfied,Cotton,Sublimation,Yes,2023-10-24,Supplier B,13.07,City B,PayPal,Handled with care,441649
+2023-10-24,8026,Hoodie,L,Blue,9,Social Media,Social Media,85.51,2.18,8.67,3.33,2.15,Will buy again,Cotton,Screen Printing,No,2023-10-25,Supplier B,3.93,City B,Credit Card,Urgent,795981
+2023-10-25,4821,Long Sleeve,M,Black,2,Social Media,Organic Search,62.91,4.13,9.96,3.69,3.17,Will buy again,Cotton,Sublimation,No,2023-10-26,Supplier B,3.56,City C,Credit Card,Urgent,220581
+2023-10-26,3711,Tank Top,S,Red,5,Online,Organic Search,71.69,3.57,9.31,3.5,3.38,Will buy again,Cotton,Screen Printing,No,2023-10-27,Supplier B,12.85,City A,PayPal,Handled with care,276586
+2023-10-27,9472,Short Sleeve,M,Black,6,Fair,Organic Search,54.31,1.1,5.68,3.4,3.19,Will buy again,Blend,Sublimation,No,2023-10-28,Supplier A,7.39,City C,PayPal,Special instructions,158368
+2023-10-28,2028,Short Sleeve,S,Black,6,Fair,Organic Search,54.85,3.28,13.75,1.41,1.01,Fast delivery,Blend,Sublimation,No,2023-10-29,Supplier C,3.16,City C,Bank Transfer,Urgent,501953
+2023-10-29,3660,Long Sleeve,L,White,4,Social Media,Email,30.03,1.87,17.64,1.94,4.08,Not satisfied,Blend,Sublimation,No,2023-10-30,Supplier B,4.15,City C,Bank Transfer,Urgent,911346
+2023-10-30,3353,Long Sleeve,XL,Black,9,Social Media,Organic Search,33.68,4.9,16.55,2.86,4.6,Will buy again,Cotton,Sublimation,No,2023-10-31,Supplier C,13.04,City C,PayPal,Handled with care,358882
+2023-10-31,6662,Tank Top,L,Blue,4,Online,Social Media,93.52,4.13,8.7,2.34,2.01,Good quality,Blend,Embroidery,No,2023-11-01,Supplier C,12.77,City C,PayPal,Handled with care,388771
+2023-11-01,8734,Short Sleeve,XL,Green,6,Fair,Social Media,56.61,1.51,13.79,4.13,1.53,Not satisfied,Cotton,Embroidery,Yes,2023-11-02,Supplier A,11.83,City C,Credit Card,Special instructions,331935
+2023-11-02,9345,Hoodie,M,Green,4,Online,Organic Search,57.8,2.54,12.36,3.7,4.07,Will buy again,Blend,Embroidery,No,2023-11-03,Supplier A,7.41,City A,PayPal,Special instructions,848691
+2023-11-03,8521,Hoodie,XL,Black,5,Fair,Organic Search,73.31,2.96,17.25,2.25,3.92,Will buy again,Blend,Sublimation,Yes,2023-11-04,Supplier C,6.05,City A,Bank Transfer,Handled with care,693778
+2023-11-04,2053,Hoodie,S,Black,7,Fair,Organic Search,21.13,1.73,10.3,4.8,4.17,Not satisfied,Blend,Embroidery,No,2023-11-05,Supplier A,13.49,City C,PayPal,Handled with care,670730
+2023-11-05,3977,Tank Top,L,Black,2,Online,Social Media,62.62,3.82,5.55,3.58,4.68,Will buy again,Polyester,Sublimation,No,2023-11-06,Supplier A,5.0,City B,Credit Card,Handled with care,233650
+2023-11-06,6491,Tank Top,XL,Green,8,Online,Email,90.83,4.37,18.31,4.39,1.18,Will buy again,Cotton,Embroidery,No,2023-11-07,Supplier C,8.12,City A,Bank Transfer,Handled with care,973128
+2023-11-07,4893,Long Sleeve,XL,Black,7,Social Media,Email,53.38,1.02,15.05,4.62,3.15,Fast delivery,Cotton,Screen Printing,No,2023-11-08,Supplier B,13.52,City C,PayPal,Urgent,401275
+2023-11-08,3679,Short Sleeve,M,White,6,Fair,Email,53.01,1.53,7.73,1.79,4.16,Not satisfied,Blend,Screen Printing,No,2023-11-09,Supplier A,8.61,City B,Bank Transfer,Handled with care,346714
+2023-11-09,5950,Hoodie,M,Black,3,Social Media,Social Media,56.26,2.13,8.09,2.59,3.0,Good quality,Polyester,Sublimation,No,2023-11-10,Supplier B,7.28,City C,PayPal,Handled with care,712089
+2023-11-10,3665,Short Sleeve,M,Blue,4,Fair,Social Media,88.41,4.94,10.97,1.24,3.21,Not satisfied,Cotton,Screen Printing,No,2023-11-11,Supplier A,9.13,City B,Bank Transfer,Handled with care,246700
+2023-11-11,4057,Tank Top,S,Blue,6,Social Media,Email,68.8,2.62,12.15,1.59,3.27,Will buy again,Cotton,Screen Printing,Yes,2023-11-12,Supplier A,12.82,City B,Credit Card,Urgent,595249
+2023-11-12,7838,Short Sleeve,M,Green,9,Social Media,Organic Search,79.79,1.68,9.95,3.35,1.04,Fast delivery,Blend,Screen Printing,Yes,2023-11-13,Supplier B,8.75,City B,PayPal,Special instructions,979637
+2023-11-13,4968,Hoodie,XL,Blue,4,Fair,Organic Search,77.45,1.48,12.74,3.07,4.62,Good quality,Blend,Embroidery,Yes,2023-11-14,Supplier B,9.9,City A,Bank Transfer,Urgent,437374
+2023-11-14,1851,Short Sleeve,S,Green,2,Social Media,Email,24.07,4.61,18.39,2.75,1.84,Fast delivery,Polyester,Screen Printing,Yes,2023-11-15,Supplier B,7.71,City B,Bank Transfer,Urgent,310038
+2023-11-15,6028,Hoodie,M,Blue,7,Online,Email,98.14,4.24,14.45,3.87,1.1,Good quality,Polyester,Sublimation,Yes,2023-11-16,Supplier B,9.44,City C,Bank Transfer,Urgent,524550
+2023-11-16,4793,Tank Top,XL,Green,8,Online,Social Media,76.5,3.48,10.54,2.06,3.53,Fast delivery,Cotton,Screen Printing,Yes,2023-11-17,Supplier B,12.68,City B,Bank Transfer,Urgent,534153
+2023-11-17,8316,Long Sleeve,S,Red,9,Social Media,Social Media,66.41,3.16,17.91,2.66,3.24,Fast delivery,Blend,Screen Printing,Yes,2023-11-18,Supplier A,9.57,City C,Credit Card,Special instructions,138922
+2023-11-18,9053,Hoodie,XL,Blue,2,Fair,Social Media,23.61,4.11,15.44,4.75,1.51,Not satisfied,Polyester,Sublimation,Yes,2023-11-19,Supplier B,8.96,City A,Bank Transfer,Urgent,660227
+2023-11-19,8152,Long Sleeve,M,Black,8,Fair,Email,93.45,2.27,13.91,3.27,4.99,Good quality,Blend,Sublimation,Yes,2023-11-20,Supplier C,8.65,City A,PayPal,Handled with care,397529
+2023-11-20,4331,Hoodie,M,Green,4,Fair,Email,57.56,3.56,12.75,3.73,2.57,Not satisfied,Polyester,Embroidery,No,2023-11-21,Supplier A,12.32,City B,Bank Transfer,Urgent,988233
+2023-11-21,9318,Long Sleeve,S,Green,8,Social Media,Organic Search,92.9,3.95,6.32,3.98,2.06,Will buy again,Blend,Embroidery,Yes,2023-11-22,Supplier A,5.74,City C,Bank Transfer,Urgent,174940
+2023-11-22,6930,Tank Top,L,White,5,Online,Social Media,53.47,3.3,13.89,2.79,1.4,Good quality,Blend,Screen Printing,No,2023-11-23,Supplier B,8.1,City C,PayPal,Handled with care,696884
+2023-11-23,9769,Short Sleeve,XL,Red,2,Social Media,Organic Search,66.18,1.67,10.97,2.72,3.14,Fast delivery,Cotton,Embroidery,Yes,2023-11-24,Supplier C,6.69,City A,Bank Transfer,Urgent,332021
+2023-11-24,6652,Hoodie,XL,Red,2,Online,Organic Search,91.5,4.94,13.25,2.88,1.66,Good quality,Blend,Embroidery,Yes,2023-11-25,Supplier C,4.42,City C,Bank Transfer,Urgent,854504
+2023-11-25,1804,Hoodie,L,Black,9,Social Media,Organic Search,56.87,4.24,6.86,4.45,1.58,Not satisfied,Polyester,Embroidery,No,2023-11-26,Supplier B,10.44,City A,Bank Transfer,Special instructions,393810
+2023-11-26,6444,Hoodie,L,Green,3,Social Media,Social Media,34.36,2.96,16.79,2.45,3.91,Good quality,Polyester,Sublimation,Yes,2023-11-27,Supplier B,10.95,City C,PayPal,Urgent,326553
+2023-11-27,4024,Tank Top,XL,Red,1,Fair,Email,54.01,3.48,12.68,4.54,1.27,Good quality,Polyester,Screen Printing,No,2023-11-28,Supplier B,4.17,City A,PayPal,Urgent,233521
+2023-11-28,1112,Hoodie,S,Red,9,Online,Social Media,50.53,4.04,17.46,1.16,3.85,Not satisfied,Blend,Screen Printing,Yes,2023-11-29,Supplier C,14.1,City A,PayPal,Urgent,828325
+2023-11-29,2967,Tank Top,L,White,6,Social Media,Social Media,78.47,2.83,8.1,2.01,1.28,Fast delivery,Cotton,Embroidery,No,2023-11-30,Supplier B,10.1,City A,PayPal,Special instructions,824132
+2023-11-30,1650,Long Sleeve,M,Black,6,Online,Social Media,87.26,3.96,19.07,4.59,2.58,Fast delivery,Cotton,Sublimation,Yes,2023-12-01,Supplier A,6.37,City A,PayPal,Special instructions,524145
+2023-12-01,5333,Short Sleeve,S,Black,4,Social Media,Organic Search,20.91,4.09,13.67,4.73,1.5,Not satisfied,Cotton,Sublimation,No,2023-12-02,Supplier C,3.25,City B,PayPal,Urgent,788613
+2023-12-02,2384,Long Sleeve,L,Red,1,Online,Organic Search,59.59,2.84,6.14,1.83,4.94,Will buy again,Polyester,Sublimation,Yes,2023-12-03,Supplier B,9.49,City C,Credit Card,Handled with care,279735
+2023-12-03,1063,Short Sleeve,M,Blue,2,Social Media,Organic Search,41.38,1.75,9.71,1.87,1.94,Not satisfied,Cotton,Sublimation,No,2023-12-04,Supplier C,6.99,City A,Credit Card,Handled with care,943191
+2023-12-04,4999,Short Sleeve,M,White,8,Online,Email,33.15,3.39,19.74,4.02,2.46,Fast delivery,Blend,Screen Printing,Yes,2023-12-05,Supplier B,14.75,City B,PayPal,Handled with care,878902
+2023-12-05,4988,Long Sleeve,XL,Blue,5,Fair,Email,73.26,3.22,14.2,2.45,1.85,Will buy again,Blend,Embroidery,No,2023-12-06,Supplier C,14.6,City C,Credit Card,Special instructions,155645
+2023-12-06,3502,Hoodie,S,White,5,Online,Email,86.84,3.0,11.3,1.82,3.18,Fast delivery,Cotton,Sublimation,Yes,2023-12-07,Supplier C,8.77,City C,Bank Transfer,Urgent,578481
+2023-12-07,4516,Hoodie,L,Blue,5,Social Media,Email,63.55,1.23,18.74,1.91,4.69,Will buy again,Polyester,Screen Printing,No,2023-12-08,Supplier A,11.22,City A,Bank Transfer,Urgent,583079
+2023-12-08,3671,Long Sleeve,M,Black,5,Online,Social Media,35.5,4.11,10.42,2.22,2.93,Good quality,Cotton,Embroidery,Yes,2023-12-09,Supplier C,9.96,City B,Bank Transfer,Urgent,641313
+2023-12-09,3387,Tank Top,XL,Green,6,Social Media,Organic Search,80.1,3.15,16.21,4.33,3.97,Fast delivery,Blend,Sublimation,Yes,2023-12-10,Supplier C,4.23,City C,Bank Transfer,Urgent,771279
+2023-12-10,6394,Short Sleeve,L,Black,7,Fair,Organic Search,61.71,2.72,7.19,2.83,2.42,Will buy again,Blend,Embroidery,No,2023-12-11,Supplier C,6.29,City C,Credit Card,Urgent,258294
+2023-12-11,4441,Short Sleeve,M,Red,9,Fair,Social Media,84.37,4.26,15.46,1.51,2.13,Fast delivery,Blend,Embroidery,No,2023-12-12,Supplier A,5.1,City C,Credit Card,Special instructions,620841
+2023-12-12,9010,Short Sleeve,XL,Blue,5,Social Media,Social Media,97.18,1.79,12.37,2.49,1.39,Not satisfied,Cotton,Embroidery,No,2023-12-13,Supplier C,6.87,City A,Bank Transfer,Handled with care,104435
+2023-12-13,2963,Short Sleeve,M,Red,5,Online,Organic Search,53.55,2.09,11.37,2.29,4.88,Will buy again,Cotton,Screen Printing,No,2023-12-14,Supplier C,6.23,City A,Bank Transfer,Urgent,994271
+2023-12-14,6763,Short Sleeve,XL,Black,8,Social Media,Organic Search,45.52,3.56,8.47,1.3,2.51,Good quality,Blend,Embroidery,Yes,2023-12-15,Supplier B,5.87,City B,Credit Card,Special instructions,967052
+2023-12-15,3956,Hoodie,XL,Blue,8,Online,Email,42.57,2.56,19.81,4.29,4.49,Fast delivery,Cotton,Screen Printing,Yes,2023-12-16,Supplier C,12.06,City A,PayPal,Urgent,271929
+2023-12-16,8396,Tank Top,S,White,5,Online,Email,75.28,2.21,6.85,3.93,3.48,Good quality,Cotton,Sublimation,No,2023-12-17,Supplier C,13.19,City A,PayPal,Urgent,520659
+2023-12-17,4898,Short Sleeve,L,Green,6,Fair,Social Media,97.75,2.02,8.05,2.74,3.71,Good quality,Cotton,Sublimation,No,2023-12-18,Supplier B,8.49,City B,Credit Card,Handled with care,953461
+2023-12-18,4969,Tank Top,XL,Black,8,Social Media,Organic Search,42.87,2.94,10.66,3.81,2.83,Good quality,Polyester,Sublimation,No,2023-12-19,Supplier C,12.32,City B,PayPal,Urgent,832442
+2023-12-19,8296,Long Sleeve,M,Black,5,Online,Organic Search,56.98,4.1,6.97,2.35,2.31,Not satisfied,Polyester,Embroidery,Yes,2023-12-20,Supplier C,4.25,City C,Bank Transfer,Urgent,865311
+2023-12-20,5903,Tank Top,L,Green,6,Online,Email,66.11,4.22,19.03,4.74,2.89,Good quality,Cotton,Embroidery,No,2023-12-21,Supplier C,12.68,City C,Credit Card,Urgent,484651
+2023-12-21,9890,Hoodie,L,Black,2,Online,Email,96.31,4.16,18.66,3.0,4.07,Not satisfied,Blend,Sublimation,Yes,2023-12-22,Supplier B,10.43,City B,Credit Card,Urgent,607369
+2023-12-22,1292,Tank Top,L,Blue,5,Social Media,Organic Search,39.77,4.54,11.57,1.44,4.65,Will buy again,Cotton,Screen Printing,No,2023-12-23,Supplier C,11.52,City B,Bank Transfer,Handled with care,268974
+2023-12-23,5099,Tank Top,S,Blue,1,Social Media,Social Media,96.93,1.2,12.39,2.9,2.98,Fast delivery,Polyester,Screen Printing,Yes,2023-12-24,Supplier B,5.13,City C,Credit Card,Urgent,920253
+2023-12-24,6346,Long Sleeve,XL,Black,2,Online,Email,61.92,4.93,5.93,2.44,3.12,Good quality,Polyester,Screen Printing,No,2023-12-25,Supplier A,13.88,City A,Bank Transfer,Urgent,556242
+2023-12-25,8033,Short Sleeve,XL,Blue,4,Online,Organic Search,78.27,2.71,17.59,1.14,3.93,Will buy again,Cotton,Embroidery,No,2023-12-26,Supplier A,7.85,City C,Credit Card,Special instructions,220441
+2023-12-26,5776,Tank Top,XL,Black,3,Online,Social Media,82.51,1.77,16.71,2.4,4.84,Will buy again,Polyester,Sublimation,No,2023-12-27,Supplier A,4.65,City A,Bank Transfer,Urgent,300950
+2023-12-27,8452,Hoodie,XL,Black,1,Fair,Organic Search,33.17,4.88,10.9,4.91,3.63,Good quality,Cotton,Embroidery,Yes,2023-12-28,Supplier C,12.18,City A,PayPal,Urgent,826060
+2023-12-28,7980,Long Sleeve,M,White,8,Fair,Organic Search,97.98,4.3,12.16,2.04,4.4,Will buy again,Polyester,Screen Printing,No,2023-12-29,Supplier C,12.45,City C,Credit Card,Special instructions,426778
+2023-12-29,5122,Tank Top,XL,Green,3,Online,Organic Search,98.09,4.72,14.89,3.9,2.62,Will buy again,Polyester,Screen Printing,Yes,2023-12-30,Supplier A,9.0,City C,PayPal,Special instructions,650994
+2023-12-30,1736,Tank Top,L,Blue,1,Online,Social Media,89.29,3.09,11.98,1.62,1.72,Will buy again,Cotton,Sublimation,No,2023-12-31,Supplier C,6.29,City A,Bank Transfer,Special instructions,414846
+2023-12-31,5461,Long Sleeve,XL,Green,2,Fair,Social Media,87.47,3.99,9.1,1.68,3.82,Not satisfied,Blend,Sublimation,Yes,2024-01-01,Supplier A,4.05,City B,PayPal,Handled with care,377735
+2024-01-01,2971,Hoodie,XL,White,9,Online,Organic Search,46.1,3.08,9.46,2.19,1.98,Not satisfied,Polyester,Screen Printing,Yes,2024-01-02,Supplier B,7.04,City C,PayPal,Special instructions,144513
+2024-01-02,9389,Hoodie,XL,Red,2,Social Media,Organic Search,88.17,3.16,12.76,1.06,4.54,Fast delivery,Cotton,Screen Printing,No,2024-01-03,Supplier A,10.14,City C,PayPal,Urgent,573108
+2024-01-03,2671,Hoodie,XL,Black,2,Social Media,Social Media,91.07,4.81,19.92,2.93,1.31,Fast delivery,Polyester,Screen Printing,No,2024-01-04,Supplier C,11.97,City A,Credit Card,Handled with care,372418
+2024-01-04,1606,Tank Top,S,Blue,6,Fair,Organic Search,41.32,3.95,12.35,4.88,2.9,Will buy again,Blend,Screen Printing,No,2024-01-05,Supplier A,13.66,City A,Bank Transfer,Urgent,147906
+2024-01-05,3120,Tank Top,L,Red,7,Online,Organic Search,33.65,3.27,5.84,2.13,2.75,Not satisfied,Polyester,Embroidery,Yes,2024-01-06,Supplier B,9.84,City C,PayPal,Special instructions,616470
+2024-01-06,7996,Hoodie,S,Red,7,Social Media,Social Media,80.56,2.57,19.08,3.68,4.45,Good quality,Polyester,Screen Printing,No,2024-01-07,Supplier A,4.27,City C,Credit Card,Handled with care,164670
+2024-01-07,2731,Short Sleeve,L,Blue,9,Online,Email,66.22,1.66,9.59,4.38,4.88,Good quality,Polyester,Screen Printing,No,2024-01-08,Supplier B,11.2,City C,Bank Transfer,Urgent,907471
+2024-01-08,8788,Hoodie,XL,Red,2,Fair,Social Media,28.63,1.46,5.6,4.76,4.81,Will buy again,Cotton,Embroidery,Yes,2024-01-09,Supplier C,3.33,City A,Credit Card,Urgent,601875
+2024-01-09,4395,Long Sleeve,XL,Black,6,Online,Email,51.96,2.2,6.08,1.1,1.22,Not satisfied,Polyester,Sublimation,Yes,2024-01-10,Supplier C,12.16,City A,Bank Transfer,Handled with care,763290
+2024-01-10,7246,Tank Top,L,Black,6,Online,Email,46.56,3.77,7.57,4.38,4.96,Fast delivery,Polyester,Screen Printing,Yes,2024-01-11,Supplier A,8.67,City C,Bank Transfer,Special instructions,402549
+2024-01-11,9020,Long Sleeve,L,Black,7,Online,Social Media,72.86,1.77,14.51,1.33,3.67,Will buy again,Blend,Embroidery,No,2024-01-12,Supplier B,11.25,City A,PayPal,Urgent,474756
+2024-01-12,9787,Long Sleeve,S,White,1,Social Media,Email,53.63,1.53,10.52,2.25,2.01,Good quality,Cotton,Embroidery,No,2024-01-13,Supplier C,13.04,City A,Bank Transfer,Handled with care,800293
+2024-01-13,6343,Short Sleeve,S,Red,4,Social Media,Organic Search,71.89,1.31,18.76,3.97,2.51,Fast delivery,Polyester,Screen Printing,No,2024-01-14,Supplier C,6.57,City C,Bank Transfer,Special instructions,148711
+2024-01-14,3304,Short Sleeve,M,Black,8,Fair,Social Media,83.95,4.38,16.9,2.47,4.55,Good quality,Blend,Embroidery,Yes,2024-01-15,Supplier A,9.64,City A,Credit Card,Handled with care,180832
+2024-01-15,4419,Hoodie,M,White,3,Online,Email,76.57,1.96,9.81,1.23,4.66,Not satisfied,Cotton,Sublimation,Yes,2024-01-16,Supplier C,6.27,City A,PayPal,Handled with care,714625
+2024-01-16,2131,Short Sleeve,S,Black,1,Online,Email,69.4,1.8,19.79,3.97,1.49,Good quality,Blend,Sublimation,Yes,2024-01-17,Supplier B,11.55,City C,PayPal,Urgent,879308
+2024-01-17,3003,Tank Top,M,Black,8,Fair,Social Media,92.52,2.56,15.0,3.23,1.57,Not satisfied,Polyester,Sublimation,Yes,2024-01-18,Supplier C,8.0,City B,Bank Transfer,Handled with care,555944
+2024-01-18,8644,Tank Top,S,Blue,8,Social Media,Social Media,39.82,3.52,5.26,2.86,1.18,Not satisfied,Cotton,Embroidery,Yes,2024-01-19,Supplier A,6.67,City A,Bank Transfer,Handled with care,480740
+2024-01-19,2707,Tank Top,S,Black,7,Social Media,Organic Search,60.6,3.35,11.95,2.65,2.58,Will buy again,Polyester,Screen Printing,No,2024-01-20,Supplier B,13.91,City C,Credit Card,Urgent,130229
+2024-01-20,9192,Tank Top,S,Black,8,Social Media,Email,80.49,4.69,18.65,3.51,2.38,Fast delivery,Blend,Screen Printing,Yes,2024-01-21,Supplier B,4.55,City B,Bank Transfer,Special instructions,926386
+2024-01-21,8528,Tank Top,M,Black,1,Online,Social Media,37.92,3.73,9.44,4.67,3.69,Not satisfied,Blend,Sublimation,Yes,2024-01-22,Supplier C,4.66,City C,PayPal,Handled with care,526749
+2024-01-22,1691,Hoodie,L,Black,7,Social Media,Email,36.94,3.25,18.9,2.68,1.65,Will buy again,Blend,Screen Printing,Yes,2024-01-23,Supplier B,8.79,City A,PayPal,Special instructions,696715
+2024-01-23,3547,Tank Top,XL,Black,1,Fair,Email,74.74,3.85,14.23,2.55,4.19,Good quality,Cotton,Screen Printing,No,2024-01-24,Supplier A,12.1,City A,Bank Transfer,Special instructions,840961
+2024-01-24,3683,Hoodie,M,Green,3,Social Media,Email,82.45,3.65,13.75,2.45,3.32,Fast delivery,Cotton,Embroidery,No,2024-01-25,Supplier C,3.94,City C,PayPal,Urgent,260663
+2024-01-25,9535,Long Sleeve,XL,Green,7,Online,Social Media,90.91,4.07,10.49,1.8,1.44,Fast delivery,Blend,Screen Printing,Yes,2024-01-26,Supplier C,13.43,City C,Bank Transfer,Handled with care,737663
+2024-01-26,7995,Long Sleeve,XL,White,9,Online,Organic Search,55.87,3.29,19.35,4.33,4.59,Not satisfied,Polyester,Sublimation,Yes,2024-01-27,Supplier A,3.51,City A,Credit Card,Urgent,644597
+2024-01-27,7862,Short Sleeve,L,White,9,Online,Email,77.3,4.23,11.46,1.92,4.4,Fast delivery,Polyester,Screen Printing,No,2024-01-28,Supplier A,4.15,City C,Bank Transfer,Handled with care,660682
+2024-01-28,7176,Tank Top,M,White,7,Online,Social Media,33.68,4.6,14.52,3.22,4.02,Fast delivery,Polyester,Screen Printing,No,2024-01-29,Supplier A,8.7,City B,Bank Transfer,Handled with care,737946
+2024-01-29,7598,Long Sleeve,XL,Green,4,Social Media,Email,45.18,3.79,14.56,4.13,2.92,Good quality,Cotton,Embroidery,No,2024-01-30,Supplier B,8.44,City C,Bank Transfer,Handled with care,913264
+2024-01-30,6985,Hoodie,L,White,3,Social Media,Organic Search,70.57,2.43,14.65,1.1,3.44,Good quality,Cotton,Screen Printing,Yes,2024-01-31,Supplier B,6.44,City C,PayPal,Urgent,271580
+2024-01-31,5524,Hoodie,L,Blue,4,Fair,Email,31.83,2.12,9.59,3.01,1.79,Will buy again,Blend,Embroidery,Yes,2024-02-01,Supplier A,14.25,City B,Bank Transfer,Special instructions,994680
+2024-02-01,1827,Hoodie,S,Red,2,Online,Organic Search,96.45,3.55,17.97,2.61,4.04,Not satisfied,Blend,Screen Printing,Yes,2024-02-02,Supplier A,9.98,City B,Bank Transfer,Urgent,332631
+2024-02-02,7834,Short Sleeve,M,Blue,5,Social Media,Social Media,30.23,3.53,13.9,1.29,3.78,Not satisfied,Blend,Embroidery,Yes,2024-02-03,Supplier A,3.42,City B,Credit Card,Urgent,387692
+2024-02-03,4204,Hoodie,XL,Red,1,Social Media,Social Media,82.14,1.1,10.83,4.27,4.2,Will buy again,Cotton,Screen Printing,Yes,2024-02-04,Supplier C,11.9,City C,PayPal,Urgent,504018
+2024-02-04,1093,Short Sleeve,L,Red,9,Online,Social Media,45.49,3.99,9.83,2.61,4.75,Will buy again,Polyester,Screen Printing,No,2024-02-05,Supplier B,5.24,City A,PayPal,Handled with care,479460
+2024-02-05,3467,Hoodie,XL,Black,3,Social Media,Email,78.63,1.89,6.71,2.49,4.56,Not satisfied,Blend,Embroidery,Yes,2024-02-06,Supplier C,11.99,City A,Bank Transfer,Handled with care,368916
+2024-02-06,4778,Short Sleeve,M,White,7,Social Media,Organic Search,52.38,1.22,14.15,3.69,4.58,Not satisfied,Polyester,Sublimation,Yes,2024-02-07,Supplier B,9.67,City C,Credit Card,Urgent,319545
+2024-02-07,1404,Short Sleeve,S,Red,8,Online,Email,79.81,1.61,16.74,2.77,2.72,Will buy again,Polyester,Sublimation,Yes,2024-02-08,Supplier C,3.09,City A,Bank Transfer,Urgent,592045
+2024-02-08,6037,Long Sleeve,XL,Black,8,Fair,Organic Search,92.03,3.63,11.34,2.49,4.15,Will buy again,Blend,Screen Printing,Yes,2024-02-09,Supplier B,12.99,City B,Credit Card,Handled with care,731771
+2024-02-09,1375,Long Sleeve,S,Blue,9,Fair,Social Media,67.69,3.09,18.73,3.25,4.88,Will buy again,Polyester,Embroidery,No,2024-02-10,Supplier A,9.13,City A,PayPal,Special instructions,714192
+2024-02-10,4945,Hoodie,L,Black,1,Fair,Email,33.11,4.39,6.88,2.44,2.06,Not satisfied,Cotton,Embroidery,Yes,2024-02-11,Supplier B,12.47,City C,Credit Card,Urgent,519510
+2024-02-11,1497,Long Sleeve,S,Red,3,Fair,Social Media,96.09,1.43,12.32,4.01,4.06,Not satisfied,Polyester,Sublimation,No,2024-02-12,Supplier B,8.35,City A,PayPal,Special instructions,782415
+2024-02-12,8666,Short Sleeve,XL,Black,2,Fair,Social Media,62.6,4.32,14.64,4.03,1.97,Will buy again,Polyester,Sublimation,No,2024-02-13,Supplier A,13.19,City A,Credit Card,Handled with care,236618
+2024-02-13,8373,Short Sleeve,M,Black,7,Social Media,Organic Search,39.15,3.6,13.54,4.02,2.14,Fast delivery,Blend,Embroidery,Yes,2024-02-14,Supplier B,13.23,City B,Credit Card,Handled with care,742867
+2024-02-14,9930,Tank Top,XL,Blue,4,Social Media,Organic Search,52.67,1.86,18.34,4.16,2.71,Good quality,Polyester,Embroidery,Yes,2024-02-15,Supplier C,9.4,City B,Credit Card,Special instructions,125010
+2024-02-15,5515,Tank Top,XL,Blue,7,Social Media,Organic Search,77.69,3.95,15.26,3.17,2.77,Will buy again,Blend,Screen Printing,No,2024-02-16,Supplier C,11.31,City A,Bank Transfer,Handled with care,748052
+2024-02-16,7729,Short Sleeve,S,Red,8,Fair,Email,94.82,3.97,17.38,4.28,3.8,Good quality,Blend,Screen Printing,Yes,2024-02-17,Supplier B,7.33,City B,PayPal,Special instructions,369119
+2024-02-17,4290,Long Sleeve,S,Black,5,Social Media,Social Media,92.53,1.43,14.93,2.07,1.42,Will buy again,Polyester,Embroidery,No,2024-02-18,Supplier C,12.94,City C,Credit Card,Handled with care,254165
+2024-02-18,2562,Short Sleeve,XL,Green,1,Fair,Email,31.22,2.07,10.16,4.66,4.37,Good quality,Blend,Sublimation,Yes,2024-02-19,Supplier B,5.81,City A,PayPal,Special instructions,667113
+2024-02-19,9652,Hoodie,S,Black,9,Social Media,Organic Search,89.74,3.56,9.09,2.61,1.54,Not satisfied,Blend,Sublimation,No,2024-02-20,Supplier C,14.3,City A,Bank Transfer,Special instructions,511032
+2024-02-20,4123,Tank Top,S,Red,3,Social Media,Organic Search,67.21,2.52,10.25,3.12,1.1,Good quality,Cotton,Screen Printing,No,2024-02-21,Supplier A,6.96,City C,PayPal,Urgent,608588
+2024-02-21,2838,Tank Top,M,Green,4,Online,Organic Search,52.77,4.06,11.12,1.66,2.61,Fast delivery,Cotton,Sublimation,Yes,2024-02-22,Supplier C,11.39,City A,Credit Card,Urgent,220903
+2024-02-22,7959,Long Sleeve,M,Black,3,Social Media,Social Media,57.15,3.14,17.4,1.14,4.1,Fast delivery,Cotton,Embroidery,Yes,2024-02-23,Supplier A,5.41,City B,Bank Transfer,Handled with care,638745
+2024-02-23,5736,Short Sleeve,L,Blue,9,Fair,Social Media,83.57,4.43,15.66,1.37,2.39,Fast delivery,Blend,Screen Printing,No,2024-02-24,Supplier C,4.01,City A,Bank Transfer,Handled with care,331414
+2024-02-24,4466,Tank Top,XL,Red,1,Online,Organic Search,87.58,1.44,17.4,1.01,4.4,Will buy again,Blend,Screen Printing,No,2024-02-25,Supplier A,5.52,City A,Credit Card,Urgent,640839
+2024-02-25,5043,Long Sleeve,S,Black,7,Online,Social Media,72.63,3.93,18.88,4.08,3.65,Not satisfied,Blend,Embroidery,No,2024-02-26,Supplier A,14.98,City A,Bank Transfer,Handled with care,312098
+2024-02-26,7029,Tank Top,XL,Blue,7,Social Media,Social Media,24.68,2.86,17.22,4.04,3.84,Will buy again,Cotton,Screen Printing,Yes,2024-02-27,Supplier C,14.71,City A,Bank Transfer,Handled with care,848566
+2024-02-27,5702,Long Sleeve,L,Red,6,Fair,Email,84.68,3.08,19.43,2.67,3.07,Will buy again,Cotton,Embroidery,Yes,2024-02-28,Supplier A,3.37,City C,Bank Transfer,Urgent,774707
+2024-02-28,6638,Tank Top,L,Green,8,Online,Email,22.06,2.14,19.25,3.43,3.36,Fast delivery,Polyester,Embroidery,No,2024-02-29,Supplier C,8.79,City B,Bank Transfer,Handled with care,178933
+2024-02-29,8853,Hoodie,M,Green,4,Social Media,Organic Search,51.02,2.08,9.81,1.6,1.66,Not satisfied,Polyester,Sublimation,Yes,2024-03-01,Supplier A,10.9,City A,Bank Transfer,Special instructions,605040
+2024-03-01,6534,Tank Top,S,Red,7,Social Media,Organic Search,55.53,1.76,10.88,4.38,4.55,Good quality,Polyester,Sublimation,Yes,2024-03-02,Supplier B,4.46,City C,Bank Transfer,Handled with care,178479
+2024-03-02,7310,Short Sleeve,S,Blue,9,Online,Social Media,60.49,2.49,13.63,3.48,2.7,Not satisfied,Cotton,Screen Printing,Yes,2024-03-03,Supplier B,7.48,City C,Bank Transfer,Handled with care,701954
+2024-03-03,3987,Long Sleeve,XL,Green,6,Fair,Email,40.48,1.96,15.36,2.41,2.76,Good quality,Cotton,Embroidery,No,2024-03-04,Supplier C,6.3,City B,PayPal,Special instructions,790370
+2024-03-04,5690,Long Sleeve,M,Red,3,Social Media,Email,53.53,1.76,11.97,4.43,3.71,Good quality,Polyester,Screen Printing,Yes,2024-03-05,Supplier B,9.2,City A,Credit Card,Urgent,208645
+2024-03-05,4292,Tank Top,M,Black,9,Social Media,Organic Search,82.98,4.85,16.82,3.84,4.55,Not satisfied,Blend,Embroidery,No,2024-03-06,Supplier B,6.48,City B,PayPal,Urgent,178028
+2024-03-06,3881,Short Sleeve,M,Red,2,Social Media,Email,41.7,2.79,14.48,2.67,3.98,Will buy again,Polyester,Screen Printing,Yes,2024-03-07,Supplier A,8.22,City B,Bank Transfer,Handled with care,399066
+2024-03-07,6801,Tank Top,S,Red,5,Fair,Social Media,85.06,3.71,13.94,2.45,2.77,Will buy again,Cotton,Screen Printing,No,2024-03-08,Supplier C,6.55,City A,Bank Transfer,Urgent,710967
+2024-03-08,8282,Tank Top,L,Red,1,Fair,Email,21.01,2.5,7.18,1.81,2.85,Will buy again,Cotton,Screen Printing,Yes,2024-03-09,Supplier B,3.19,City B,Bank Transfer,Special instructions,865452
+2024-03-09,9526,Tank Top,L,Blue,5,Social Media,Email,31.42,3.28,7.57,1.7,2.11,Good quality,Polyester,Sublimation,Yes,2024-03-10,Supplier C,13.13,City C,Credit Card,Urgent,570435
+2024-03-10,9933,Hoodie,S,White,8,Social Media,Organic Search,94.02,3.0,9.7,2.81,1.23,Not satisfied,Blend,Embroidery,Yes,2024-03-11,Supplier C,13.3,City A,Credit Card,Special instructions,411789
+2024-03-11,9292,Long Sleeve,L,Black,1,Fair,Email,57.63,3.45,19.44,2.48,4.76,Fast delivery,Polyester,Sublimation,Yes,2024-03-12,Supplier B,14.58,City B,Credit Card,Special instructions,432236
+2024-03-12,3463,Short Sleeve,XL,Blue,2,Social Media,Organic Search,24.06,3.89,6.14,1.25,1.4,Good quality,Cotton,Sublimation,Yes,2024-03-13,Supplier C,11.8,City B,Bank Transfer,Special instructions,578627
+2024-03-13,8676,Hoodie,S,Red,5,Social Media,Organic Search,68.84,3.66,19.4,2.24,2.08,Fast delivery,Blend,Screen Printing,No,2024-03-14,Supplier C,12.75,City B,Bank Transfer,Handled with care,784586
+2024-03-14,9366,Hoodie,S,Black,1,Fair,Email,56.48,4.05,12.16,1.53,4.79,Not satisfied,Polyester,Sublimation,No,2024-03-15,Supplier A,3.75,City B,Bank Transfer,Urgent,248283
+2024-03-15,9797,Tank Top,M,Blue,1,Online,Organic Search,27.09,1.59,11.54,4.21,3.31,Not satisfied,Polyester,Screen Printing,No,2024-03-16,Supplier A,14.53,City C,PayPal,Handled with care,108949
+2024-03-16,8794,Tank Top,S,Green,1,Online,Social Media,47.84,1.38,17.7,2.91,4.41,Fast delivery,Blend,Embroidery,Yes,2024-03-17,Supplier A,6.67,City C,PayPal,Special instructions,108667
+2024-03-17,4745,Tank Top,XL,Black,4,Social Media,Organic Search,69.15,2.36,17.47,1.74,3.78,Fast delivery,Cotton,Sublimation,No,2024-03-18,Supplier B,3.57,City A,PayPal,Handled with care,243011
+2024-03-18,5876,Long Sleeve,M,White,9,Fair,Organic Search,70.22,2.93,7.01,1.65,1.19,Will buy again,Polyester,Sublimation,No,2024-03-19,Supplier B,10.09,City C,PayPal,Special instructions,774617
+2024-03-19,4808,Tank Top,M,White,7,Social Media,Email,90.95,1.9,17.18,4.27,1.6,Good quality,Blend,Screen Printing,Yes,2024-03-20,Supplier C,3.61,City B,Credit Card,Urgent,803444
+2024-03-20,6576,Hoodie,L,Black,3,Social Media,Email,59.4,4.09,12.66,3.23,1.47,Fast delivery,Blend,Screen Printing,Yes,2024-03-21,Supplier C,5.29,City B,PayPal,Urgent,983036
+2024-03-21,3173,Long Sleeve,M,Black,1,Social Media,Organic Search,28.38,3.88,9.85,3.01,2.93,Fast delivery,Polyester,Sublimation,No,2024-03-22,Supplier A,14.66,City C,PayPal,Handled with care,661516
+2024-03-22,5720,Hoodie,XL,Red,7,Online,Organic Search,29.08,4.65,6.63,2.79,4.27,Fast delivery,Blend,Screen Printing,No,2024-03-23,Supplier C,10.19,City A,PayPal,Special instructions,972009
+2024-03-23,7874,Long Sleeve,XL,Red,6,Online,Organic Search,53.34,3.92,13.88,3.98,3.87,Not satisfied,Cotton,Screen Printing,No,2024-03-24,Supplier B,12.41,City C,Bank Transfer,Handled with care,521036
+2024-03-24,2179,Long Sleeve,L,Red,7,Social Media,Social Media,34.83,1.43,16.7,3.2,1.83,Will buy again,Cotton,Embroidery,Yes,2024-03-25,Supplier B,3.17,City A,Bank Transfer,Special instructions,459324
+2024-03-25,9888,Long Sleeve,S,Black,2,Fair,Email,93.68,3.66,18.29,1.48,2.67,Fast delivery,Polyester,Sublimation,No,2024-03-26,Supplier B,8.26,City A,PayPal,Urgent,482251
+2024-03-26,8288,Hoodie,XL,White,5,Online,Social Media,36.97,2.65,19.57,1.28,3.79,Not satisfied,Blend,Embroidery,No,2024-03-27,Supplier A,8.06,City A,Credit Card,Special instructions,322685
+2024-03-27,3496,Long Sleeve,XL,Green,5,Fair,Email,50.11,2.04,6.85,2.07,4.58,Not satisfied,Polyester,Screen Printing,No,2024-03-28,Supplier B,12.42,City B,Credit Card,Special instructions,956236
+2024-03-28,3757,Hoodie,L,White,3,Fair,Email,60.99,3.41,10.95,4.89,4.66,Fast delivery,Blend,Embroidery,Yes,2024-03-29,Supplier A,5.83,City B,Credit Card,Urgent,691452
+2024-03-29,8458,Short Sleeve,L,Red,3,Fair,Social Media,46.43,2.21,5.73,1.33,3.02,Good quality,Blend,Sublimation,No,2024-03-30,Supplier B,7.75,City B,Bank Transfer,Urgent,276103
+2024-03-30,5047,Hoodie,L,Blue,5,Social Media,Social Media,73.17,3.12,14.54,3.15,2.66,Will buy again,Polyester,Sublimation,No,2024-03-31,Supplier C,3.54,City A,Bank Transfer,Special instructions,884947
+2024-03-31,3051,Hoodie,S,White,4,Online,Email,68.42,3.3,18.32,4.68,3.61,Not satisfied,Polyester,Sublimation,Yes,2024-04-01,Supplier C,7.28,City B,PayPal,Urgent,494140
+2024-04-01,7844,Long Sleeve,S,Red,4,Fair,Email,95.15,3.12,15.31,1.31,3.65,Not satisfied,Polyester,Screen Printing,No,2024-04-02,Supplier A,4.86,City B,Credit Card,Special instructions,976195
+2024-04-02,4310,Long Sleeve,M,Black,7,Social Media,Social Media,86.56,1.04,10.83,1.76,4.89,Fast delivery,Polyester,Screen Printing,No,2024-04-03,Supplier C,13.73,City A,Bank Transfer,Special instructions,838566
+2024-04-03,8845,Tank Top,XL,Green,1,Social Media,Social Media,68.24,2.39,16.4,3.48,2.99,Not satisfied,Cotton,Screen Printing,Yes,2024-04-04,Supplier A,13.93,City A,Credit Card,Urgent,349962
+2024-04-04,2747,Short Sleeve,S,Blue,9,Social Media,Email,55.74,4.16,19.95,1.06,3.15,Good quality,Polyester,Embroidery,No,2024-04-05,Supplier C,14.83,City A,Credit Card,Urgent,763849
+2024-04-05,8828,Short Sleeve,M,White,6,Fair,Social Media,69.18,2.39,5.02,4.71,2.84,Will buy again,Blend,Sublimation,Yes,2024-04-06,Supplier C,6.84,City A,Bank Transfer,Urgent,827531
+2024-04-06,4868,Tank Top,S,Red,6,Fair,Organic Search,69.85,3.04,17.42,1.43,3.87,Good quality,Polyester,Embroidery,Yes,2024-04-07,Supplier C,7.46,City C,Credit Card,Handled with care,476876
+2024-04-07,5723,Hoodie,L,White,3,Social Media,Email,41.57,2.39,9.89,1.24,2.34,Fast delivery,Cotton,Sublimation,Yes,2024-04-08,Supplier B,11.6,City B,Credit Card,Urgent,321426
+2024-04-08,5998,Hoodie,M,Green,1,Online,Social Media,34.24,1.8,16.21,1.77,1.14,Will buy again,Cotton,Screen Printing,Yes,2024-04-09,Supplier B,11.41,City A,PayPal,Handled with care,563539
+2024-04-09,5930,Long Sleeve,S,Blue,5,Social Media,Organic Search,61.52,1.8,8.56,3.44,3.22,Good quality,Blend,Sublimation,Yes,2024-04-10,Supplier B,9.45,City A,PayPal,Urgent,598724
+2024-04-10,1604,Short Sleeve,S,White,1,Fair,Email,44.58,4.0,8.03,4.76,2.13,Fast delivery,Polyester,Screen Printing,Yes,2024-04-11,Supplier C,9.49,City B,PayPal,Handled with care,396000
+2024-04-11,9156,Long Sleeve,XL,Green,6,Online,Email,50.82,3.51,17.14,2.92,3.99,Good quality,Blend,Sublimation,Yes,2024-04-12,Supplier B,5.66,City B,Bank Transfer,Urgent,599823
+2024-04-12,4686,Tank Top,S,Blue,3,Online,Social Media,20.13,4.73,16.51,3.14,1.69,Fast delivery,Blend,Sublimation,Yes,2024-04-13,Supplier A,5.74,City C,PayPal,Handled with care,272729
+2024-04-13,4451,Short Sleeve,XL,White,4,Online,Organic Search,74.53,2.68,17.17,2.77,4.38,Not satisfied,Polyester,Embroidery,No,2024-04-14,Supplier A,8.42,City B,Credit Card,Urgent,715183
+2024-04-14,4781,Long Sleeve,L,Red,3,Social Media,Social Media,24.64,3.55,16.36,3.15,4.04,Good quality,Blend,Screen Printing,Yes,2024-04-15,Supplier A,3.44,City C,Credit Card,Urgent,779812
+2024-04-15,1100,Short Sleeve,M,Green,9,Online,Social Media,78.84,2.87,6.44,2.08,2.51,Good quality,Blend,Embroidery,No,2024-04-16,Supplier B,8.64,City B,Bank Transfer,Urgent,505807
+2024-04-16,5790,Short Sleeve,M,Red,1,Online,Organic Search,36.64,2.9,18.24,3.78,1.69,Fast delivery,Polyester,Embroidery,No,2024-04-17,Supplier B,10.14,City C,PayPal,Special instructions,799450
+2024-04-17,7037,Long Sleeve,M,Green,7,Fair,Social Media,33.18,4.42,10.66,3.84,4.42,Good quality,Blend,Screen Printing,No,2024-04-18,Supplier A,8.46,City C,Bank Transfer,Handled with care,452990
+2024-04-18,6627,Long Sleeve,S,Red,1,Social Media,Email,68.04,2.82,8.29,3.08,2.37,Good quality,Cotton,Screen Printing,Yes,2024-04-19,Supplier B,6.17,City B,Credit Card,Special instructions,182029
+2024-04-19,9863,Short Sleeve,M,Red,2,Online,Organic Search,98.68,4.71,13.51,4.44,1.42,Not satisfied,Cotton,Embroidery,Yes,2024-04-20,Supplier A,11.59,City C,PayPal,Special instructions,527807
+2024-04-20,4665,Tank Top,XL,White,4,Online,Social Media,53.77,3.48,10.19,3.64,3.03,Good quality,Blend,Sublimation,Yes,2024-04-21,Supplier B,3.69,City B,PayPal,Handled with care,633938
+2024-04-21,4107,Hoodie,M,White,6,Fair,Social Media,89.55,1.34,15.65,2.97,1.16,Not satisfied,Blend,Screen Printing,No,2024-04-22,Supplier A,12.53,City A,Bank Transfer,Special instructions,376705
+2024-04-22,9429,Short Sleeve,S,Red,2,Fair,Social Media,24.95,1.27,15.42,4.37,1.64,Fast delivery,Blend,Screen Printing,No,2024-04-23,Supplier A,7.49,City A,Credit Card,Urgent,489013
+2024-04-23,7910,Tank Top,S,Green,3,Online,Email,60.69,4.93,17.75,3.34,1.53,Will buy again,Blend,Sublimation,No,2024-04-24,Supplier B,6.94,City C,PayPal,Special instructions,153214
+2024-04-24,1021,Short Sleeve,XL,White,1,Online,Email,74.54,2.6,19.9,1.3,3.0,Good quality,Polyester,Embroidery,No,2024-04-25,Supplier A,13.56,City A,Credit Card,Special instructions,728734
+2024-04-25,7573,Long Sleeve,XL,White,6,Online,Organic Search,50.03,3.35,16.99,4.21,2.31,Not satisfied,Cotton,Embroidery,Yes,2024-04-26,Supplier B,11.21,City C,Credit Card,Urgent,200570
+2024-04-26,2253,Tank Top,S,Red,7,Online,Organic Search,30.36,2.73,7.12,4.38,3.9,Will buy again,Blend,Embroidery,No,2024-04-27,Supplier A,8.13,City C,Bank Transfer,Urgent,834688
+2024-04-27,7102,Tank Top,S,Green,2,Social Media,Email,21.23,1.64,16.44,1.19,1.43,Good quality,Cotton,Embroidery,Yes,2024-04-28,Supplier B,10.66,City C,PayPal,Urgent,184816
+2024-04-28,9592,Short Sleeve,L,Red,3,Online,Organic Search,50.94,1.5,13.5,4.08,2.22,Fast delivery,Cotton,Sublimation,Yes,2024-04-29,Supplier B,4.79,City B,PayPal,Urgent,678703
+2024-04-29,4191,Hoodie,L,Black,7,Social Media,Email,79.42,1.85,13.45,4.92,2.19,Not satisfied,Cotton,Embroidery,Yes,2024-04-30,Supplier B,13.06,City A,PayPal,Special instructions,684036
+2024-04-30,9063,Short Sleeve,M,Red,7,Social Media,Email,99.24,3.42,10.06,4.16,3.99,Fast delivery,Cotton,Embroidery,Yes,2024-05-01,Supplier C,8.7,City C,PayPal,Handled with care,527279
+2024-05-01,2734,Hoodie,L,Green,8,Online,Social Media,57.05,3.19,7.41,2.59,4.52,Will buy again,Polyester,Embroidery,No,2024-05-02,Supplier A,13.08,City A,Credit Card,Handled with care,961702
+2024-05-02,7540,Tank Top,S,White,1,Online,Organic Search,43.59,2.31,7.6,3.87,2.97,Good quality,Blend,Sublimation,No,2024-05-03,Supplier C,5.88,City A,Credit Card,Urgent,666459
+2024-05-03,4418,Hoodie,L,White,6,Fair,Social Media,47.73,1.18,5.86,2.17,3.25,Fast delivery,Polyester,Sublimation,Yes,2024-05-04,Supplier A,6.6,City C,Credit Card,Urgent,113817
+2024-05-04,9778,Long Sleeve,S,Blue,5,Social Media,Email,27.35,2.3,17.08,3.63,4.19,Not satisfied,Cotton,Embroidery,No,2024-05-05,Supplier A,8.76,City C,Credit Card,Urgent,719695
+2024-05-05,6046,Hoodie,L,Red,8,Social Media,Organic Search,56.01,2.59,16.16,3.07,4.48,Good quality,Cotton,Embroidery,Yes,2024-05-06,Supplier B,13.45,City A,PayPal,Handled with care,556724
+2024-05-06,8246,Hoodie,XL,White,5,Online,Social Media,70.17,4.03,17.85,3.65,4.05,Good quality,Cotton,Screen Printing,Yes,2024-05-07,Supplier A,8.23,City C,Credit Card,Urgent,344957
+2024-05-07,4205,Tank Top,S,Black,7,Online,Email,69.89,3.95,15.56,2.66,2.04,Good quality,Blend,Embroidery,No,2024-05-08,Supplier B,12.52,City A,PayPal,Special instructions,806920
+2024-05-08,6290,Hoodie,M,White,7,Online,Email,21.02,1.89,7.52,1.62,1.29,Fast delivery,Cotton,Screen Printing,No,2024-05-09,Supplier C,11.8,City B,PayPal,Handled with care,489653
+2024-05-09,5547,Tank Top,M,Black,9,Online,Social Media,70.7,1.91,16.04,2.68,1.84,Will buy again,Polyester,Screen Printing,Yes,2024-05-10,Supplier B,7.89,City C,Credit Card,Special instructions,751580
+2024-05-10,7282,Long Sleeve,L,White,7,Fair,Social Media,73.25,3.51,13.37,2.91,3.48,Good quality,Cotton,Sublimation,No,2024-05-11,Supplier A,4.9,City C,Credit Card,Handled with care,335167
+2024-05-11,5850,Long Sleeve,XL,White,1,Online,Social Media,60.16,3.61,6.63,3.71,3.2,Good quality,Polyester,Embroidery,Yes,2024-05-12,Supplier B,5.43,City A,Credit Card,Handled with care,886755
+2024-05-12,2337,Short Sleeve,S,Green,3,Fair,Organic Search,95.59,3.24,18.58,2.14,3.03,Fast delivery,Polyester,Sublimation,Yes,2024-05-13,Supplier B,6.44,City B,Credit Card,Handled with care,609315
+2024-05-13,4547,Short Sleeve,M,White,1,Online,Organic Search,40.64,1.45,18.53,3.58,1.29,Good quality,Polyester,Sublimation,No,2024-05-14,Supplier A,14.9,City C,Bank Transfer,Special instructions,683677
+2024-05-14,1387,Short Sleeve,S,Black,1,Online,Social Media,88.15,2.14,14.42,1.94,2.64,Not satisfied,Blend,Screen Printing,Yes,2024-05-15,Supplier C,3.71,City B,Credit Card,Handled with care,919972
+2024-05-15,6245,Long Sleeve,L,Green,9,Social Media,Social Media,33.94,1.13,11.29,4.06,1.1,Not satisfied,Cotton,Sublimation,No,2024-05-16,Supplier C,8.0,City C,PayPal,Special instructions,480141
+2024-05-16,4922,Hoodie,S,White,5,Online,Email,40.96,4.05,8.57,3.89,3.61,Not satisfied,Cotton,Sublimation,No,2024-05-17,Supplier B,13.34,City A,PayPal,Special instructions,444724
+2024-05-17,2221,Tank Top,S,Green,1,Social Media,Organic Search,36.39,4.23,6.46,1.47,1.98,Good quality,Polyester,Screen Printing,No,2024-05-18,Supplier C,6.65,City A,Credit Card,Urgent,802269
+2024-05-18,2924,Long Sleeve,L,White,2,Social Media,Social Media,90.83,4.68,17.09,3.37,3.83,Not satisfied,Blend,Embroidery,No,2024-05-19,Supplier A,5.95,City C,Credit Card,Urgent,607330
+2024-05-19,8185,Hoodie,M,Blue,1,Online,Organic Search,83.48,1.35,19.5,1.35,3.13,Not satisfied,Blend,Sublimation,Yes,2024-05-20,Supplier B,13.88,City A,Bank Transfer,Special instructions,403499
+2024-05-20,9901,Short Sleeve,XL,Green,9,Fair,Organic Search,56.04,4.62,5.21,4.88,1.22,Will buy again,Polyester,Sublimation,Yes,2024-05-21,Supplier B,13.77,City B,Bank Transfer,Special instructions,927916
+2024-05-21,9639,Tank Top,XL,Black,6,Social Media,Organic Search,50.24,4.67,12.19,2.36,1.56,Good quality,Blend,Screen Printing,Yes,2024-05-22,Supplier A,4.0,City B,PayPal,Handled with care,390568
+2024-05-22,1350,Short Sleeve,XL,Blue,3,Online,Email,21.03,4.99,6.59,1.08,4.65,Will buy again,Blend,Screen Printing,No,2024-05-23,Supplier B,4.59,City A,Credit Card,Special instructions,815734
+2024-05-23,9856,Tank Top,L,White,9,Fair,Social Media,76.16,4.11,11.28,3.01,4.5,Not satisfied,Polyester,Screen Printing,No,2024-05-24,Supplier B,14.85,City A,PayPal,Urgent,548427
+2024-05-24,4715,Hoodie,S,White,1,Social Media,Social Media,97.2,2.05,13.71,1.49,4.26,Good quality,Cotton,Sublimation,Yes,2024-05-25,Supplier C,9.11,City A,Credit Card,Special instructions,379720
+2024-05-25,9616,Long Sleeve,L,Blue,6,Social Media,Social Media,82.28,2.06,11.44,3.6,3.28,Good quality,Cotton,Sublimation,Yes,2024-05-26,Supplier B,3.43,City A,Credit Card,Urgent,766935
+2024-05-26,5260,Short Sleeve,L,Red,1,Social Media,Email,38.65,3.75,5.26,3.92,2.44,Will buy again,Polyester,Screen Printing,Yes,2024-05-27,Supplier B,7.37,City C,Credit Card,Urgent,880940
+2024-05-27,8738,Long Sleeve,S,Blue,9,Social Media,Email,41.16,3.72,19.82,4.44,4.84,Fast delivery,Blend,Embroidery,No,2024-05-28,Supplier C,10.82,City B,Credit Card,Handled with care,750879
+2024-05-28,4511,Hoodie,XL,Black,6,Fair,Email,53.82,3.64,18.89,4.55,4.64,Not satisfied,Blend,Screen Printing,Yes,2024-05-29,Supplier C,4.79,City A,Credit Card,Special instructions,681594
+2024-05-29,1673,Hoodie,L,White,7,Fair,Social Media,52.62,2.41,16.59,2.24,1.07,Not satisfied,Polyester,Embroidery,No,2024-05-30,Supplier B,3.09,City A,PayPal,Special instructions,178170
+2024-05-30,2938,Hoodie,XL,Green,5,Online,Organic Search,38.59,3.08,11.01,2.43,1.48,Fast delivery,Blend,Embroidery,No,2024-05-31,Supplier C,7.49,City A,Bank Transfer,Special instructions,677652
+2024-05-31,9033,Long Sleeve,M,Red,5,Social Media,Email,83.33,2.21,15.34,4.9,3.17,Good quality,Cotton,Embroidery,Yes,2024-06-01,Supplier B,7.19,City A,Bank Transfer,Special instructions,299633
+2024-06-01,9945,Long Sleeve,M,Green,3,Social Media,Organic Search,82.89,3.39,15.65,2.74,3.76,Will buy again,Polyester,Screen Printing,No,2024-06-02,Supplier C,14.8,City A,Credit Card,Special instructions,905799
+2024-06-02,8303,Tank Top,XL,Blue,5,Social Media,Email,76.52,4.09,10.1,2.62,2.86,Not satisfied,Cotton,Sublimation,Yes,2024-06-03,Supplier C,13.47,City C,Credit Card,Special instructions,467287
+2024-06-03,2973,Long Sleeve,L,White,1,Social Media,Email,20.4,3.79,5.6,4.7,1.73,Fast delivery,Polyester,Sublimation,Yes,2024-06-04,Supplier B,11.76,City C,Credit Card,Urgent,917285
+2024-06-04,9529,Long Sleeve,S,Black,9,Social Media,Email,93.39,2.73,14.33,1.75,2.68,Not satisfied,Polyester,Sublimation,No,2024-06-05,Supplier C,13.74,City C,Credit Card,Handled with care,999863
+2024-06-05,6277,Hoodie,XL,Blue,2,Social Media,Social Media,47.0,3.1,19.22,2.9,1.82,Not satisfied,Polyester,Sublimation,No,2024-06-06,Supplier A,12.25,City C,Bank Transfer,Special instructions,153552
+2024-06-06,8970,Tank Top,XL,Blue,8,Fair,Email,22.31,4.09,16.22,2.94,4.22,Fast delivery,Blend,Embroidery,Yes,2024-06-07,Supplier C,12.07,City A,Credit Card,Urgent,212813
+2024-06-07,1115,Long Sleeve,L,Green,5,Social Media,Social Media,70.99,1.93,8.42,3.97,3.17,Fast delivery,Cotton,Embroidery,No,2024-06-08,Supplier A,8.4,City B,Bank Transfer,Special instructions,725639
+2024-06-08,6719,Long Sleeve,XL,Green,2,Fair,Email,79.01,1.89,13.34,2.74,2.64,Fast delivery,Polyester,Embroidery,Yes,2024-06-09,Supplier C,4.84,City C,Credit Card,Handled with care,865865
+2024-06-09,9043,Hoodie,XL,White,1,Online,Email,73.68,2.94,10.85,4.45,1.57,Not satisfied,Blend,Embroidery,No,2024-06-10,Supplier B,9.13,City C,PayPal,Urgent,114250
+2024-06-10,9169,Long Sleeve,L,Green,6,Fair,Organic Search,51.27,2.98,13.2,3.68,3.06,Fast delivery,Polyester,Embroidery,Yes,2024-06-11,Supplier B,13.13,City B,Credit Card,Urgent,665939
+2024-06-11,6696,Hoodie,XL,Red,2,Online,Email,88.89,1.09,15.86,4.72,3.27,Good quality,Cotton,Embroidery,Yes,2024-06-12,Supplier C,14.18,City C,PayPal,Handled with care,870862
+2024-06-12,4404,Tank Top,XL,White,9,Online,Email,48.52,3.33,12.3,2.05,3.61,Fast delivery,Cotton,Screen Printing,Yes,2024-06-13,Supplier C,4.4,City A,PayPal,Urgent,682244
+2024-06-13,5242,Hoodie,XL,Black,2,Fair,Organic Search,63.06,2.67,18.68,4.25,3.82,Good quality,Blend,Screen Printing,Yes,2024-06-14,Supplier C,6.13,City B,PayPal,Handled with care,407274
+2024-06-14,3820,Hoodie,M,Red,7,Fair,Email,93.74,3.31,15.38,1.47,1.17,Not satisfied,Cotton,Embroidery,No,2024-06-15,Supplier C,12.5,City B,PayPal,Special instructions,731156
+2024-06-15,2799,Tank Top,M,Blue,1,Social Media,Social Media,78.23,4.66,10.28,4.21,2.51,Not satisfied,Blend,Sublimation,No,2024-06-16,Supplier B,11.09,City A,PayPal,Urgent,226660
+2024-06-16,3691,Short Sleeve,S,Green,1,Social Media,Email,27.57,2.33,14.19,4.39,2.49,Not satisfied,Cotton,Screen Printing,No,2024-06-17,Supplier C,7.72,City A,PayPal,Handled with care,547703
+2024-06-17,7437,Hoodie,S,Black,3,Online,Social Media,82.17,1.43,11.83,2.63,1.68,Fast delivery,Cotton,Embroidery,No,2024-06-18,Supplier A,11.56,City C,Bank Transfer,Urgent,562672
+2024-06-18,7253,Long Sleeve,S,White,1,Online,Email,92.14,1.83,16.88,3.8,2.29,Will buy again,Polyester,Screen Printing,No,2024-06-19,Supplier C,5.51,City A,Bank Transfer,Special instructions,418198
+2024-06-19,5078,Hoodie,L,Green,8,Fair,Social Media,86.03,2.23,5.11,4.87,1.18,Fast delivery,Blend,Screen Printing,Yes,2024-06-20,Supplier B,3.8,City C,PayPal,Urgent,277341
+2024-06-20,6405,Tank Top,L,Red,3,Online,Email,58.14,4.45,13.78,1.74,2.85,Fast delivery,Cotton,Screen Printing,No,2024-06-21,Supplier A,7.08,City A,PayPal,Special instructions,787757
+2024-06-21,5611,Long Sleeve,L,Blue,8,Social Media,Organic Search,86.01,3.2,5.35,3.47,3.06,Not satisfied,Cotton,Embroidery,Yes,2024-06-22,Supplier A,13.85,City C,PayPal,Urgent,570700
+2024-06-22,9266,Tank Top,XL,Blue,6,Fair,Email,26.05,4.98,19.69,1.19,2.96,Fast delivery,Cotton,Sublimation,Yes,2024-06-23,Supplier C,12.69,City A,PayPal,Urgent,147407
+2024-06-23,7634,Hoodie,L,Green,5,Social Media,Social Media,40.34,2.14,12.61,2.35,1.57,Will buy again,Polyester,Sublimation,Yes,2024-06-24,Supplier C,12.65,City C,Bank Transfer,Handled with care,835235
+2024-06-24,7007,Tank Top,S,White,1,Fair,Email,89.35,1.27,9.18,1.56,1.42,Not satisfied,Blend,Screen Printing,Yes,2024-06-25,Supplier C,14.66,City B,Bank Transfer,Special instructions,842874
+2024-06-25,4604,Tank Top,S,White,8,Online,Email,23.31,2.2,6.66,3.15,4.04,Fast delivery,Blend,Screen Printing,No,2024-06-26,Supplier B,14.19,City B,Bank Transfer,Urgent,944450
+2024-06-26,4280,Short Sleeve,S,Green,9,Online,Email,51.84,4.97,10.13,3.41,4.0,Fast delivery,Cotton,Sublimation,No,2024-06-27,Supplier C,7.83,City B,PayPal,Urgent,628752
+2024-06-27,6162,Hoodie,L,Green,2,Social Media,Social Media,88.84,3.97,14.51,4.96,2.19,Not satisfied,Polyester,Sublimation,Yes,2024-06-28,Supplier A,5.76,City A,PayPal,Urgent,621587
+2024-06-28,6618,Hoodie,L,Green,4,Online,Social Media,55.67,4.66,19.59,4.87,3.72,Will buy again,Cotton,Embroidery,Yes,2024-06-29,Supplier C,3.02,City C,PayPal,Urgent,152842
+2024-06-29,1028,Hoodie,S,Black,3,Fair,Email,26.77,3.38,6.42,4.53,4.77,Will buy again,Blend,Embroidery,No,2024-06-30,Supplier A,10.59,City B,PayPal,Handled with care,198988
+2024-06-30,2434,Hoodie,M,Green,3,Social Media,Email,56.73,2.1,8.15,3.27,4.36,Not satisfied,Blend,Sublimation,Yes,2024-07-01,Supplier C,10.86,City A,Bank Transfer,Handled with care,698093
+2024-07-01,3903,Long Sleeve,S,Black,6,Social Media,Email,78.58,4.82,9.15,4.54,2.18,Will buy again,Polyester,Screen Printing,No,2024-07-02,Supplier A,14.2,City B,Bank Transfer,Urgent,167798
+2024-07-02,4252,Tank Top,L,Red,8,Online,Organic Search,45.31,1.92,16.49,2.42,1.53,Good quality,Cotton,Embroidery,Yes,2024-07-03,Supplier A,8.57,City C,PayPal,Urgent,700844
+2024-07-03,7448,Hoodie,L,Green,2,Online,Organic Search,92.52,2.59,6.18,1.8,1.2,Good quality,Cotton,Embroidery,No,2024-07-04,Supplier C,4.21,City B,Bank Transfer,Handled with care,342185
+2024-07-04,9969,Long Sleeve,S,Green,6,Fair,Email,95.26,2.17,18.42,3.1,3.01,Will buy again,Blend,Embroidery,No,2024-07-05,Supplier C,12.91,City B,Credit Card,Urgent,296176
+2024-07-05,8426,Hoodie,XL,White,4,Online,Email,33.42,3.57,8.28,3.12,2.83,Not satisfied,Polyester,Sublimation,No,2024-07-06,Supplier C,7.43,City C,PayPal,Special instructions,735523
+2024-07-06,1612,Tank Top,M,Green,6,Social Media,Email,27.47,2.67,15.77,4.64,4.0,Will buy again,Cotton,Sublimation,No,2024-07-07,Supplier A,5.14,City A,Bank Transfer,Special instructions,492384
+2024-07-07,5186,Hoodie,M,Black,7,Fair,Email,43.95,4.83,16.41,1.02,4.07,Not satisfied,Cotton,Sublimation,No,2024-07-08,Supplier A,8.42,City A,Bank Transfer,Special instructions,239788
+2024-07-08,9809,Long Sleeve,L,Black,4,Social Media,Organic Search,57.52,4.87,18.4,4.42,1.28,Good quality,Polyester,Embroidery,No,2024-07-09,Supplier A,9.68,City A,PayPal,Special instructions,501314
+2024-07-09,5108,Long Sleeve,L,Green,7,Social Media,Social Media,32.56,1.39,8.11,3.43,4.89,Not satisfied,Cotton,Screen Printing,Yes,2024-07-10,Supplier C,10.56,City B,Bank Transfer,Urgent,961500
+2024-07-10,6736,Tank Top,L,Black,8,Social Media,Social Media,39.33,4.71,15.85,4.76,2.03,Not satisfied,Blend,Embroidery,No,2024-07-11,Supplier B,5.86,City B,PayPal,Special instructions,645408
+2024-07-11,5263,Hoodie,S,Green,6,Online,Social Media,94.66,4.19,10.3,3.98,2.5,Not satisfied,Polyester,Screen Printing,Yes,2024-07-12,Supplier C,9.39,City C,Credit Card,Handled with care,679605
+2024-07-12,1099,Long Sleeve,L,Red,7,Fair,Email,77.19,3.85,10.82,2.47,3.31,Not satisfied,Polyester,Embroidery,No,2024-07-13,Supplier A,12.65,City C,Credit Card,Special instructions,305724
+2024-07-13,8385,Short Sleeve,L,Black,6,Fair,Organic Search,67.84,2.45,12.62,3.54,1.15,Will buy again,Cotton,Screen Printing,Yes,2024-07-14,Supplier B,6.05,City C,PayPal,Urgent,247959
+2024-07-14,3354,Hoodie,L,Black,8,Online,Social Media,76.64,3.72,6.97,2.48,3.85,Will buy again,Blend,Sublimation,Yes,2024-07-15,Supplier C,4.92,City A,PayPal,Urgent,359265
+2024-07-15,6908,Short Sleeve,M,Black,6,Online,Organic Search,20.22,4.24,10.38,4.69,1.77,Fast delivery,Polyester,Sublimation,No,2024-07-16,Supplier A,12.15,City C,Credit Card,Special instructions,327738
+2024-07-16,2608,Long Sleeve,M,Black,4,Online,Email,31.64,4.32,19.11,1.08,4.67,Good quality,Polyester,Screen Printing,No,2024-07-17,Supplier A,6.37,City B,Credit Card,Handled with care,286069
+2024-07-17,6394,Long Sleeve,XL,Green,4,Online,Email,75.34,4.22,7.71,3.22,1.99,Good quality,Polyester,Screen Printing,Yes,2024-07-18,Supplier C,11.31,City A,Credit Card,Urgent,250038
+2024-07-18,8719,Tank Top,XL,Green,5,Social Media,Social Media,77.2,2.28,9.73,3.03,2.65,Good quality,Cotton,Screen Printing,Yes,2024-07-19,Supplier C,9.52,City C,PayPal,Urgent,362259
+2024-07-19,1284,Tank Top,L,Red,1,Social Media,Email,88.24,1.74,17.11,1.76,1.9,Not satisfied,Polyester,Screen Printing,No,2024-07-20,Supplier A,3.21,City C,PayPal,Urgent,580674
+2024-07-20,1000,Hoodie,M,Green,2,Online,Social Media,66.84,3.18,8.75,2.71,3.58,Good quality,Cotton,Screen Printing,Yes,2024-07-21,Supplier A,7.24,City B,Bank Transfer,Handled with care,537226
+2024-07-21,5803,Long Sleeve,M,Black,4,Social Media,Organic Search,64.58,2.02,7.47,2.19,2.51,Will buy again,Cotton,Embroidery,No,2024-07-22,Supplier C,5.81,City B,Credit Card,Special instructions,412801
+2024-07-22,6851,Long Sleeve,M,Red,4,Social Media,Email,51.81,4.14,7.86,3.68,1.96,Will buy again,Polyester,Screen Printing,Yes,2024-07-23,Supplier A,12.99,City B,Credit Card,Handled with care,337913
+2024-07-23,3963,Long Sleeve,M,Blue,4,Online,Social Media,85.32,1.18,19.79,4.01,4.38,Not satisfied,Cotton,Embroidery,No,2024-07-24,Supplier A,3.24,City B,PayPal,Special instructions,675303
+2024-07-24,3098,Long Sleeve,XL,White,9,Social Media,Social Media,88.16,2.7,11.2,4.09,3.81,Good quality,Polyester,Embroidery,Yes,2024-07-25,Supplier A,9.75,City B,Bank Transfer,Special instructions,397227
+2024-07-25,5966,Short Sleeve,S,Red,9,Online,Email,56.13,4.11,10.94,2.58,2.89,Good quality,Blend,Sublimation,No,2024-07-26,Supplier B,5.04,City B,Credit Card,Urgent,405389
+2024-07-26,3068,Long Sleeve,M,White,4,Fair,Organic Search,50.05,1.32,16.36,1.77,2.14,Not satisfied,Blend,Sublimation,Yes,2024-07-27,Supplier C,9.41,City A,Credit Card,Urgent,851317
+2024-07-27,7827,Tank Top,M,Black,9,Fair,Organic Search,24.03,3.75,5.94,2.18,4.49,Will buy again,Polyester,Sublimation,Yes,2024-07-28,Supplier B,12.4,City C,Bank Transfer,Handled with care,322198
+2024-07-28,6604,Hoodie,M,Blue,5,Online,Organic Search,83.37,1.92,7.54,3.14,2.68,Fast delivery,Cotton,Embroidery,No,2024-07-29,Supplier C,5.94,City B,Credit Card,Urgent,502006
+2024-07-29,7509,Hoodie,M,White,1,Social Media,Email,73.84,1.51,15.8,3.46,2.86,Will buy again,Blend,Sublimation,No,2024-07-30,Supplier A,11.62,City C,Credit Card,Special instructions,468519
+2024-07-30,8874,Hoodie,S,Red,7,Online,Email,55.14,2.23,9.79,4.18,1.77,Not satisfied,Blend,Sublimation,No,2024-07-31,Supplier B,11.12,City C,PayPal,Urgent,698433
+2024-07-31,9417,Short Sleeve,S,Green,9,Fair,Organic Search,60.37,1.08,15.53,3.88,4.34,Will buy again,Blend,Screen Printing,No,2024-08-01,Supplier B,11.71,City B,Bank Transfer,Urgent,827195
+2024-08-01,8820,Long Sleeve,L,White,7,Fair,Email,91.68,3.52,5.34,1.7,3.2,Will buy again,Blend,Sublimation,Yes,2024-08-02,Supplier B,7.92,City C,Credit Card,Urgent,683111
+2024-08-02,2807,Hoodie,XL,Green,4,Online,Organic Search,90.21,2.33,13.86,3.98,3.63,Not satisfied,Blend,Sublimation,Yes,2024-08-03,Supplier A,3.37,City A,Bank Transfer,Special instructions,255110
+2024-08-03,4190,Tank Top,M,White,9,Online,Social Media,34.33,4.97,13.16,1.46,2.68,Will buy again,Cotton,Embroidery,No,2024-08-04,Supplier C,3.0,City B,Bank Transfer,Urgent,112742
+2024-08-04,2932,Short Sleeve,M,Black,3,Online,Social Media,87.92,1.39,7.17,4.67,1.08,Good quality,Cotton,Sublimation,Yes,2024-08-05,Supplier C,13.8,City C,Bank Transfer,Urgent,830600
+2024-08-05,4973,Long Sleeve,L,Green,9,Social Media,Organic Search,60.78,4.58,6.78,3.76,2.2,Fast delivery,Blend,Sublimation,Yes,2024-08-06,Supplier A,9.37,City B,PayPal,Urgent,300601
+2024-08-06,1266,Long Sleeve,S,Blue,9,Online,Email,28.49,2.99,18.92,1.45,1.08,Not satisfied,Blend,Embroidery,Yes,2024-08-07,Supplier A,6.81,City C,PayPal,Urgent,830371
+2024-08-07,6382,Long Sleeve,L,Red,9,Online,Organic Search,44.92,1.47,12.58,4.35,1.12,Will buy again,Blend,Sublimation,Yes,2024-08-08,Supplier B,11.59,City C,Credit Card,Urgent,955944
+2024-08-08,9806,Long Sleeve,S,Blue,3,Social Media,Email,74.96,4.42,5.75,3.71,4.94,Will buy again,Blend,Embroidery,No,2024-08-09,Supplier A,3.53,City B,PayPal,Special instructions,610381
+2024-08-09,3418,Short Sleeve,XL,White,6,Social Media,Social Media,91.47,1.44,7.23,3.85,1.38,Will buy again,Cotton,Embroidery,No,2024-08-10,Supplier B,10.72,City C,Credit Card,Handled with care,815730
+2024-08-10,7834,Tank Top,L,White,7,Fair,Social Media,28.67,3.58,15.09,2.95,2.8,Not satisfied,Polyester,Screen Printing,Yes,2024-08-11,Supplier C,7.5,City A,Bank Transfer,Urgent,766171
+2024-08-11,8500,Long Sleeve,L,Blue,6,Fair,Email,68.77,1.98,12.15,3.42,4.35,Will buy again,Polyester,Screen Printing,No,2024-08-12,Supplier A,13.64,City B,Credit Card,Urgent,816615
+2024-08-12,5765,Short Sleeve,M,White,9,Online,Organic Search,74.25,2.8,13.96,2.71,2.69,Will buy again,Polyester,Embroidery,Yes,2024-08-13,Supplier A,6.07,City B,Bank Transfer,Urgent,708831
+2024-08-13,6641,Short Sleeve,L,Black,6,Fair,Email,42.09,3.29,11.87,3.27,2.0,Fast delivery,Blend,Screen Printing,No,2024-08-14,Supplier A,7.35,City A,Credit Card,Handled with care,297266
+2024-08-14,9819,Tank Top,S,Red,9,Fair,Organic Search,80.53,4.68,18.88,4.16,2.66,Good quality,Cotton,Embroidery,Yes,2024-08-15,Supplier A,7.3,City A,Bank Transfer,Special instructions,723891
+2024-08-15,5485,Short Sleeve,S,Black,3,Social Media,Organic Search,28.27,2.14,17.38,1.8,4.3,Not satisfied,Polyester,Sublimation,No,2024-08-16,Supplier A,3.05,City B,Bank Transfer,Urgent,286790
+2024-08-16,7772,Short Sleeve,L,Green,1,Social Media,Social Media,39.17,2.55,19.7,4.5,1.18,Will buy again,Cotton,Screen Printing,Yes,2024-08-17,Supplier C,8.19,City B,Credit Card,Urgent,395326
+2024-08-17,9373,Hoodie,S,Red,3,Social Media,Organic Search,20.04,1.8,19.09,2.22,2.96,Not satisfied,Polyester,Embroidery,No,2024-08-18,Supplier A,8.82,City A,Credit Card,Urgent,499502
+2024-08-18,3283,Hoodie,L,Red,1,Fair,Social Media,60.22,2.37,15.93,1.59,1.77,Not satisfied,Polyester,Screen Printing,Yes,2024-08-19,Supplier B,14.43,City C,Bank Transfer,Urgent,919447
+2024-08-19,5289,Tank Top,XL,White,3,Social Media,Social Media,41.07,1.5,5.79,3.54,1.24,Not satisfied,Cotton,Sublimation,No,2024-08-20,Supplier B,14.12,City A,Credit Card,Urgent,176175
+2024-08-20,7732,Hoodie,M,Green,1,Fair,Email,26.25,3.19,19.99,3.1,4.14,Good quality,Polyester,Embroidery,Yes,2024-08-21,Supplier B,10.86,City B,PayPal,Urgent,757732
+2024-08-21,1120,Short Sleeve,XL,Blue,9,Social Media,Social Media,90.47,3.24,12.1,2.17,1.06,Will buy again,Blend,Sublimation,Yes,2024-08-22,Supplier C,7.27,City C,Bank Transfer,Urgent,795006
+2024-08-22,9717,Short Sleeve,XL,Green,1,Fair,Social Media,35.89,3.49,5.91,3.51,2.66,Not satisfied,Cotton,Embroidery,Yes,2024-08-23,Supplier C,8.66,City B,Bank Transfer,Urgent,725378
+2024-08-23,1222,Tank Top,M,Blue,5,Social Media,Social Media,65.39,1.92,19.87,3.86,3.18,Good quality,Cotton,Sublimation,No,2024-08-24,Supplier B,10.87,City C,PayPal,Urgent,647184
+2024-08-24,4676,Short Sleeve,M,Green,5,Fair,Organic Search,41.72,2.73,13.56,2.09,1.69,Not satisfied,Blend,Screen Printing,No,2024-08-25,Supplier C,6.56,City B,Credit Card,Handled with care,446193
+2024-08-25,5332,Tank Top,M,Green,4,Fair,Email,67.8,1.17,11.89,1.47,4.6,Not satisfied,Blend,Sublimation,Yes,2024-08-26,Supplier C,3.59,City A,Bank Transfer,Urgent,918543
+2024-08-26,4632,Hoodie,L,Blue,6,Social Media,Organic Search,72.34,1.16,5.3,3.04,2.63,Not satisfied,Blend,Screen Printing,No,2024-08-27,Supplier A,11.79,City C,Credit Card,Special instructions,301973
+2024-08-27,8326,Hoodie,S,Black,3,Social Media,Social Media,78.05,2.24,11.43,2.13,1.73,Good quality,Cotton,Screen Printing,Yes,2024-08-28,Supplier C,13.1,City C,PayPal,Urgent,577413
+2024-08-28,8557,Long Sleeve,L,White,5,Social Media,Organic Search,43.66,2.96,7.75,2.3,3.44,Not satisfied,Blend,Embroidery,No,2024-08-29,Supplier A,9.12,City A,PayPal,Handled with care,414573
+2024-08-29,3544,Hoodie,S,White,1,Online,Social Media,23.78,3.77,15.78,2.98,3.56,Good quality,Polyester,Screen Printing,No,2024-08-30,Supplier A,3.73,City A,PayPal,Handled with care,704581
+2024-08-30,7432,Long Sleeve,L,White,6,Online,Email,88.58,4.03,5.12,3.92,2.55,Will buy again,Blend,Screen Printing,No,2024-08-31,Supplier B,8.71,City C,Bank Transfer,Urgent,896625
+2024-08-31,1062,Long Sleeve,S,Blue,6,Social Media,Social Media,97.54,2.61,13.0,1.06,1.13,Will buy again,Cotton,Sublimation,No,2024-09-01,Supplier A,3.97,City C,PayPal,Urgent,897860
+2024-09-01,7490,Long Sleeve,S,White,8,Social Media,Social Media,90.9,4.02,5.66,2.91,3.65,Not satisfied,Polyester,Sublimation,No,2024-09-02,Supplier A,3.54,City B,Credit Card,Special instructions,125650
+2024-09-02,3023,Short Sleeve,XL,Red,8,Online,Social Media,26.61,3.91,15.72,1.49,1.95,Will buy again,Cotton,Screen Printing,No,2024-09-03,Supplier A,11.3,City A,Bank Transfer,Handled with care,972619
+2024-09-03,9342,Long Sleeve,L,Green,2,Social Media,Organic Search,82.81,3.53,19.3,4.41,1.6,Will buy again,Cotton,Sublimation,No,2024-09-04,Supplier B,10.07,City A,Credit Card,Special instructions,725150
+2024-09-04,9595,Hoodie,M,Blue,3,Social Media,Social Media,58.88,1.57,5.65,2.04,4.28,Good quality,Polyester,Sublimation,No,2024-09-05,Supplier A,6.75,City C,Credit Card,Urgent,996886
+2024-09-05,3437,Tank Top,L,Blue,9,Online,Social Media,70.57,2.15,6.55,2.62,3.02,Will buy again,Blend,Embroidery,No,2024-09-06,Supplier C,9.56,City A,PayPal,Special instructions,978266
+2024-09-06,3852,Hoodie,M,Red,8,Fair,Social Media,68.94,3.14,12.73,1.19,2.79,Fast delivery,Polyester,Screen Printing,Yes,2024-09-07,Supplier B,11.13,City A,PayPal,Handled with care,875655
+2024-09-07,1127,Tank Top,L,Green,9,Online,Social Media,62.8,4.26,19.74,1.6,4.02,Not satisfied,Cotton,Embroidery,No,2024-09-08,Supplier B,11.73,City C,Bank Transfer,Special instructions,218401
+2024-09-08,2508,Hoodie,XL,White,2,Social Media,Social Media,74.01,2.61,11.17,1.01,2.88,Fast delivery,Blend,Sublimation,Yes,2024-09-09,Supplier B,9.19,City C,PayPal,Special instructions,694531
+2024-09-09,3508,Tank Top,S,Blue,4,Social Media,Social Media,69.31,4.87,14.23,2.44,3.45,Good quality,Cotton,Embroidery,No,2024-09-10,Supplier B,11.68,City A,Bank Transfer,Urgent,769030
+2024-09-10,8322,Hoodie,M,Blue,3,Fair,Organic Search,66.15,3.66,16.42,4.24,2.62,Will buy again,Cotton,Embroidery,Yes,2024-09-11,Supplier A,8.05,City B,Bank Transfer,Handled with care,280407
+2024-09-11,3022,Tank Top,S,Blue,9,Social Media,Email,31.43,2.25,18.92,3.3,4.55,Will buy again,Polyester,Screen Printing,No,2024-09-12,Supplier C,8.64,City C,PayPal,Special instructions,224604
+2024-09-12,4252,Long Sleeve,S,Blue,8,Social Media,Email,89.19,3.25,7.66,4.36,3.26,Not satisfied,Blend,Screen Printing,Yes,2024-09-13,Supplier C,9.78,City B,PayPal,Urgent,859665
+2024-09-13,1592,Tank Top,S,Blue,2,Online,Email,80.28,2.5,18.67,1.7,4.61,Good quality,Blend,Embroidery,Yes,2024-09-14,Supplier C,11.6,City A,Credit Card,Urgent,866463
+2024-09-14,7557,Long Sleeve,XL,Blue,7,Online,Email,97.15,4.65,14.4,3.71,4.6,Not satisfied,Polyester,Embroidery,No,2024-09-15,Supplier B,5.55,City B,PayPal,Special instructions,475216
+2024-09-15,2024,Hoodie,L,Red,1,Social Media,Organic Search,83.34,1.19,17.08,3.98,4.03,Fast delivery,Polyester,Screen Printing,Yes,2024-09-16,Supplier A,4.9,City C,PayPal,Special instructions,271435
+2024-09-16,4799,Tank Top,S,Blue,9,Social Media,Social Media,66.6,1.92,9.43,2.38,3.19,Good quality,Blend,Embroidery,No,2024-09-17,Supplier C,12.58,City A,Bank Transfer,Handled with care,444682
+2024-09-17,5669,Tank Top,XL,Black,5,Social Media,Social Media,93.37,1.39,12.5,1.46,3.62,Will buy again,Blend,Screen Printing,Yes,2024-09-18,Supplier B,6.59,City A,PayPal,Special instructions,756178
+2024-09-18,3371,Hoodie,XL,Green,7,Social Media,Organic Search,72.34,4.22,8.13,3.97,1.89,Good quality,Cotton,Screen Printing,No,2024-09-19,Supplier B,8.2,City B,Bank Transfer,Urgent,357121
+2024-09-19,8764,Long Sleeve,XL,Green,7,Fair,Email,44.81,1.76,17.82,3.09,4.68,Not satisfied,Cotton,Screen Printing,No,2024-09-20,Supplier C,5.65,City B,Bank Transfer,Special instructions,264326
+2024-09-20,1116,Long Sleeve,L,White,2,Online,Organic Search,34.04,3.97,8.07,2.88,4.44,Not satisfied,Polyester,Embroidery,No,2024-09-21,Supplier C,3.81,City C,PayPal,Handled with care,424447
+2024-09-21,9933,Short Sleeve,M,Blue,4,Online,Organic Search,68.34,3.25,13.22,4.35,4.15,Fast delivery,Cotton,Embroidery,No,2024-09-22,Supplier A,12.54,City C,Bank Transfer,Handled with care,180379
+2024-09-22,8935,Short Sleeve,S,Blue,1,Social Media,Email,78.89,4.32,11.27,2.97,1.1,Fast delivery,Cotton,Screen Printing,No,2024-09-23,Supplier C,6.98,City A,Credit Card,Urgent,889190
+2024-09-23,1824,Short Sleeve,XL,Red,8,Social Media,Organic Search,85.93,4.98,5.74,2.18,1.78,Fast delivery,Blend,Embroidery,Yes,2024-09-24,Supplier B,11.93,City A,Bank Transfer,Handled with care,976636
+2024-09-24,8096,Tank Top,M,Black,2,Social Media,Social Media,42.82,1.62,11.18,3.99,4.67,Will buy again,Blend,Screen Printing,Yes,2024-09-25,Supplier C,11.68,City B,PayPal,Special instructions,482124
+2024-09-25,7704,Tank Top,M,Green,8,Online,Organic Search,92.16,1.6,16.77,2.08,4.24,Will buy again,Cotton,Screen Printing,Yes,2024-09-26,Supplier B,8.9,City C,PayPal,Urgent,713619
+2024-09-26,6265,Tank Top,XL,Green,2,Social Media,Email,66.24,3.54,12.93,2.11,4.38,Good quality,Blend,Embroidery,Yes,2024-09-27,Supplier A,8.72,City B,Credit Card,Urgent,258029
+2024-09-27,9121,Hoodie,L,White,6,Social Media,Email,77.85,1.15,9.57,1.83,2.62,Fast delivery,Cotton,Embroidery,No,2024-09-28,Supplier B,12.12,City B,Bank Transfer,Handled with care,328340
+2024-09-28,4593,Short Sleeve,M,Blue,6,Fair,Email,84.65,4.27,11.68,1.41,2.03,Good quality,Polyester,Screen Printing,Yes,2024-09-29,Supplier C,7.98,City B,Bank Transfer,Special instructions,591449
+2024-09-29,6310,Hoodie,L,Red,7,Online,Organic Search,94.5,2.51,16.61,4.21,4.56,Fast delivery,Cotton,Sublimation,Yes,2024-09-30,Supplier B,11.33,City C,Credit Card,Handled with care,148852
+2024-09-30,9934,Short Sleeve,L,White,8,Fair,Email,43.2,2.6,15.02,3.8,2.49,Will buy again,Polyester,Sublimation,No,2024-10-01,Supplier B,9.48,City C,Bank Transfer,Handled with care,227570
+2024-10-01,8374,Short Sleeve,M,White,8,Social Media,Social Media,51.4,3.29,6.66,2.53,2.2,Fast delivery,Cotton,Screen Printing,Yes,2024-10-02,Supplier A,13.06,City A,Credit Card,Handled with care,831327
+2024-10-02,9609,Tank Top,M,White,9,Fair,Email,92.0,2.37,12.97,3.9,2.2,Good quality,Polyester,Screen Printing,Yes,2024-10-03,Supplier B,13.94,City B,Credit Card,Urgent,795639
+2024-10-03,3276,Long Sleeve,M,Red,5,Fair,Social Media,86.76,2.2,7.98,4.84,4.53,Not satisfied,Cotton,Embroidery,Yes,2024-10-04,Supplier C,12.03,City B,Bank Transfer,Special instructions,251556
+2024-10-04,2863,Short Sleeve,L,Red,6,Online,Organic Search,51.93,1.82,19.68,2.86,1.71,Good quality,Cotton,Screen Printing,No,2024-10-05,Supplier B,5.45,City C,Bank Transfer,Handled with care,872699
+2024-10-05,8486,Long Sleeve,L,Blue,9,Fair,Email,57.39,3.88,16.08,2.95,4.33,Fast delivery,Blend,Embroidery,No,2024-10-06,Supplier B,13.58,City A,Credit Card,Handled with care,174008
+2024-10-06,9199,Hoodie,M,Red,7,Social Media,Email,77.37,4.07,6.22,3.12,2.91,Will buy again,Blend,Sublimation,Yes,2024-10-07,Supplier A,11.3,City A,Credit Card,Urgent,662956
+2024-10-07,7653,Tank Top,XL,White,9,Social Media,Social Media,24.9,3.43,8.72,2.07,2.04,Fast delivery,Cotton,Sublimation,Yes,2024-10-08,Supplier C,13.03,City B,Credit Card,Urgent,151101
+2024-10-08,9982,Short Sleeve,XL,Blue,6,Social Media,Organic Search,49.39,1.94,6.17,1.99,3.34,Will buy again,Polyester,Screen Printing,Yes,2024-10-09,Supplier A,8.58,City A,PayPal,Urgent,733820
+2024-10-09,2890,Tank Top,L,White,9,Social Media,Social Media,36.5,3.78,10.55,2.95,2.12,Will buy again,Blend,Screen Printing,Yes,2024-10-10,Supplier C,11.38,City A,PayPal,Urgent,357686
+2024-10-10,2616,Hoodie,XL,White,9,Online,Organic Search,61.5,1.63,17.34,3.0,3.06,Will buy again,Blend,Embroidery,Yes,2024-10-11,Supplier A,13.8,City A,PayPal,Urgent,692841
+2024-10-11,5591,Long Sleeve,M,Green,5,Social Media,Social Media,81.77,4.51,6.0,2.16,3.45,Fast delivery,Blend,Sublimation,Yes,2024-10-12,Supplier A,10.15,City A,Bank Transfer,Handled with care,567045
+2024-10-12,1626,Tank Top,L,Red,6,Online,Social Media,30.39,2.79,7.48,3.33,3.33,Good quality,Polyester,Embroidery,Yes,2024-10-13,Supplier B,11.04,City C,Credit Card,Urgent,395314
+2024-10-13,7103,Tank Top,XL,Green,3,Online,Email,98.94,2.9,9.01,4.08,4.26,Fast delivery,Blend,Sublimation,No,2024-10-14,Supplier B,5.47,City B,PayPal,Handled with care,321218
+2024-10-14,6966,Short Sleeve,L,Green,2,Online,Social Media,57.37,1.82,14.36,3.76,3.48,Good quality,Blend,Embroidery,Yes,2024-10-15,Supplier B,5.84,City C,Credit Card,Handled with care,527535
+2024-10-15,9990,Long Sleeve,XL,White,2,Social Media,Organic Search,81.84,3.46,19.62,1.59,1.88,Good quality,Polyester,Screen Printing,Yes,2024-10-16,Supplier B,4.72,City B,PayPal,Special instructions,458411
+2024-10-16,3138,Hoodie,XL,Red,8,Online,Social Media,48.19,4.94,17.34,3.57,2.18,Not satisfied,Cotton,Sublimation,Yes,2024-10-17,Supplier B,10.33,City C,Credit Card,Special instructions,543409
+2024-10-17,7819,Short Sleeve,S,White,8,Fair,Organic Search,59.05,3.36,8.01,1.01,2.61,Will buy again,Polyester,Screen Printing,Yes,2024-10-18,Supplier B,3.26,City B,Credit Card,Handled with care,173372
+2024-10-18,8239,Tank Top,XL,Black,1,Fair,Social Media,97.19,3.61,15.65,2.57,4.08,Good quality,Cotton,Screen Printing,No,2024-10-19,Supplier B,13.27,City C,PayPal,Special instructions,537293
+2024-10-19,8021,Tank Top,S,White,7,Social Media,Email,75.22,2.15,13.35,2.84,4.62,Fast delivery,Cotton,Screen Printing,No,2024-10-20,Supplier B,10.35,City A,Bank Transfer,Handled with care,720947
+2024-10-20,5517,Long Sleeve,M,White,4,Fair,Social Media,22.05,2.3,12.37,4.18,1.1,Fast delivery,Polyester,Screen Printing,No,2024-10-21,Supplier B,7.65,City A,PayPal,Urgent,744432
+2024-10-21,9629,Hoodie,S,Red,3,Fair,Organic Search,38.56,1.79,18.63,4.52,4.97,Not satisfied,Cotton,Screen Printing,Yes,2024-10-22,Supplier B,7.44,City B,Credit Card,Special instructions,723476
+2024-10-22,7245,Hoodie,L,White,2,Fair,Organic Search,40.74,3.06,13.82,3.87,2.97,Will buy again,Blend,Sublimation,Yes,2024-10-23,Supplier C,8.19,City C,Credit Card,Special instructions,717971
+2024-10-23,8008,Tank Top,M,White,2,Fair,Email,96.71,1.59,7.06,4.1,1.53,Not satisfied,Blend,Sublimation,No,2024-10-24,Supplier B,10.01,City C,PayPal,Special instructions,234648
+2024-10-24,2745,Hoodie,S,Green,1,Online,Organic Search,81.57,3.47,7.47,4.73,3.26,Good quality,Blend,Sublimation,Yes,2024-10-25,Supplier C,8.08,City C,PayPal,Handled with care,385144
+2024-10-25,9292,Short Sleeve,M,White,8,Fair,Email,74.29,2.86,18.83,2.94,2.83,Good quality,Polyester,Screen Printing,No,2024-10-26,Supplier C,11.17,City C,Bank Transfer,Special instructions,984741
+2024-10-26,2409,Long Sleeve,XL,Red,8,Social Media,Social Media,25.57,3.5,6.2,2.12,1.2,Good quality,Cotton,Embroidery,Yes,2024-10-27,Supplier A,5.37,City C,PayPal,Urgent,492378
+2024-10-27,1765,Tank Top,M,Green,1,Social Media,Organic Search,84.31,1.28,7.07,2.48,3.31,Fast delivery,Cotton,Embroidery,Yes,2024-10-28,Supplier C,7.39,City B,Credit Card,Urgent,650993
+2024-10-28,6277,Hoodie,XL,Blue,4,Fair,Email,34.53,4.54,14.8,2.71,4.73,Will buy again,Polyester,Screen Printing,No,2024-10-29,Supplier C,7.36,City A,PayPal,Special instructions,296666
+2024-10-29,5997,Hoodie,L,Blue,7,Fair,Social Media,31.9,2.51,8.37,2.26,2.89,Fast delivery,Blend,Sublimation,No,2024-10-30,Supplier A,14.26,City A,Credit Card,Urgent,904654
+2024-10-30,9144,Short Sleeve,XL,White,5,Fair,Social Media,89.51,1.83,17.39,2.21,1.92,Will buy again,Polyester,Screen Printing,No,2024-10-31,Supplier C,14.08,City B,PayPal,Special instructions,473885
+2024-10-31,5326,Hoodie,XL,Green,9,Fair,Email,20.4,3.0,11.24,4.93,3.68,Not satisfied,Blend,Embroidery,No,2024-11-01,Supplier A,7.88,City B,Credit Card,Urgent,672827
+2024-11-01,7056,Short Sleeve,XL,Black,2,Fair,Email,25.06,4.72,12.24,4.97,2.07,Fast delivery,Blend,Sublimation,No,2024-11-02,Supplier C,4.66,City C,PayPal,Handled with care,576752
+2024-11-02,3710,Long Sleeve,S,Blue,5,Online,Social Media,93.55,3.78,6.93,3.57,4.66,Good quality,Polyester,Screen Printing,No,2024-11-03,Supplier B,7.38,City C,PayPal,Handled with care,313717
+2024-11-03,4102,Tank Top,L,Green,6,Social Media,Social Media,40.12,2.36,5.42,4.24,2.91,Not satisfied,Polyester,Screen Printing,Yes,2024-11-04,Supplier C,6.48,City C,PayPal,Urgent,764670
+2024-11-04,7675,Short Sleeve,M,Blue,5,Social Media,Email,81.95,2.22,16.39,3.88,4.14,Fast delivery,Polyester,Sublimation,Yes,2024-11-05,Supplier C,12.96,City C,PayPal,Handled with care,398812
+2024-11-05,5756,Hoodie,XL,Green,3,Online,Email,72.57,3.65,6.11,3.73,1.2,Good quality,Cotton,Sublimation,Yes,2024-11-06,Supplier A,14.66,City C,Credit Card,Special instructions,450060
+2024-11-06,8018,Hoodie,M,White,7,Online,Social Media,28.98,1.36,14.6,1.59,3.93,Will buy again,Cotton,Embroidery,No,2024-11-07,Supplier C,12.77,City A,Bank Transfer,Special instructions,444961
+2024-11-07,3634,Long Sleeve,M,Green,4,Online,Social Media,83.59,2.46,13.06,1.55,1.59,Fast delivery,Blend,Sublimation,Yes,2024-11-08,Supplier A,3.01,City C,Bank Transfer,Handled with care,332680
+2024-11-08,1123,Short Sleeve,XL,Green,3,Social Media,Organic Search,36.59,2.91,12.78,4.54,1.87,Will buy again,Polyester,Sublimation,Yes,2024-11-09,Supplier A,13.65,City A,Bank Transfer,Handled with care,963152
+2024-11-09,7460,Tank Top,S,Red,3,Social Media,Organic Search,75.63,4.04,9.5,1.06,4.45,Not satisfied,Cotton,Embroidery,No,2024-11-10,Supplier A,10.54,City C,Credit Card,Handled with care,888671
+2024-11-10,2629,Hoodie,L,White,4,Fair,Email,50.47,2.3,16.34,3.72,1.5,Not satisfied,Polyester,Sublimation,Yes,2024-11-11,Supplier C,8.67,City B,PayPal,Handled with care,652904
+2024-11-11,6672,Short Sleeve,XL,Black,1,Online,Email,63.58,4.17,11.01,4.22,2.18,Not satisfied,Cotton,Embroidery,Yes,2024-11-12,Supplier B,14.04,City A,Credit Card,Handled with care,932860
+2024-11-12,2320,Hoodie,XL,Blue,1,Social Media,Social Media,95.7,4.13,7.27,3.87,2.48,Will buy again,Cotton,Sublimation,Yes,2024-11-13,Supplier A,10.5,City A,Credit Card,Special instructions,579758
+2024-11-13,3538,Tank Top,L,Green,7,Social Media,Social Media,40.73,1.08,5.84,1.58,4.64,Will buy again,Cotton,Sublimation,No,2024-11-14,Supplier A,9.49,City B,PayPal,Urgent,772494
+2024-11-14,3589,Short Sleeve,S,Green,5,Fair,Email,44.09,1.76,10.14,3.56,1.57,Fast delivery,Polyester,Screen Printing,Yes,2024-11-15,Supplier C,12.67,City A,PayPal,Handled with care,181253
+2024-11-15,8774,Hoodie,L,White,4,Fair,Email,43.4,3.61,14.12,1.49,3.47,Good quality,Blend,Embroidery,Yes,2024-11-16,Supplier A,13.36,City A,Bank Transfer,Urgent,644080
+2024-11-16,8406,Tank Top,XL,Red,1,Social Media,Email,49.6,2.98,8.3,2.85,1.81,Good quality,Blend,Sublimation,No,2024-11-17,Supplier B,13.69,City B,Credit Card,Urgent,242985
+2024-11-17,5478,Short Sleeve,L,Blue,1,Online,Email,66.13,1.11,16.13,3.62,2.16,Will buy again,Polyester,Embroidery,No,2024-11-18,Supplier C,8.46,City A,Bank Transfer,Special instructions,337750
+2024-11-18,8011,Short Sleeve,M,Black,9,Fair,Social Media,84.02,2.44,6.63,2.49,2.78,Good quality,Cotton,Sublimation,No,2024-11-19,Supplier A,6.48,City B,Credit Card,Urgent,740257
+2024-11-19,8335,Long Sleeve,M,Green,9,Social Media,Organic Search,91.45,3.5,12.08,3.07,3.19,Good quality,Cotton,Sublimation,Yes,2024-11-20,Supplier B,11.36,City B,Bank Transfer,Handled with care,375925
+2024-11-20,8837,Tank Top,M,Red,3,Fair,Organic Search,24.9,4.97,13.05,4.79,1.7,Not satisfied,Polyester,Embroidery,Yes,2024-11-21,Supplier C,5.35,City C,Bank Transfer,Urgent,271015
+2024-11-21,9700,Short Sleeve,S,Blue,5,Online,Email,72.01,1.83,17.32,2.24,3.38,Good quality,Polyester,Sublimation,No,2024-11-22,Supplier B,8.93,City A,PayPal,Special instructions,731560
+2024-11-22,4137,Long Sleeve,M,Blue,5,Social Media,Email,67.39,1.61,6.77,1.7,3.43,Fast delivery,Polyester,Screen Printing,No,2024-11-23,Supplier C,8.3,City B,Bank Transfer,Handled with care,249430
+2024-11-23,2408,Short Sleeve,L,Black,9,Online,Organic Search,68.08,2.46,5.03,4.63,2.63,Will buy again,Polyester,Screen Printing,Yes,2024-11-24,Supplier A,8.36,City C,Credit Card,Handled with care,624825
+2024-11-24,2111,Hoodie,S,White,6,Fair,Social Media,83.47,3.2,13.01,2.93,1.8,Not satisfied,Blend,Screen Printing,Yes,2024-11-25,Supplier A,7.78,City B,Credit Card,Special instructions,742777
+2024-11-25,4877,Long Sleeve,L,Blue,9,Online,Social Media,95.03,3.66,7.26,2.99,2.34,Not satisfied,Cotton,Screen Printing,No,2024-11-26,Supplier B,9.93,City C,Bank Transfer,Urgent,293442
+2024-11-26,6487,Short Sleeve,S,Blue,3,Online,Email,79.86,2.44,13.58,4.81,1.39,Fast delivery,Polyester,Screen Printing,No,2024-11-27,Supplier C,14.94,City A,Credit Card,Urgent,847337
+2024-11-27,5825,Hoodie,L,Black,7,Fair,Email,33.73,1.91,5.49,2.07,3.98,Not satisfied,Blend,Sublimation,Yes,2024-11-28,Supplier C,3.0,City A,Credit Card,Special instructions,139227
+2024-11-28,2527,Hoodie,XL,Green,7,Online,Organic Search,96.37,1.02,12.36,4.19,1.06,Will buy again,Polyester,Screen Printing,Yes,2024-11-29,Supplier B,6.89,City B,PayPal,Handled with care,509880
+2024-11-29,2321,Hoodie,S,White,1,Social Media,Email,89.22,1.73,10.86,3.24,2.33,Good quality,Cotton,Embroidery,Yes,2024-11-30,Supplier C,8.1,City C,Bank Transfer,Handled with care,645774
+2024-11-30,4952,Long Sleeve,XL,Black,2,Fair,Organic Search,43.97,1.4,7.34,3.76,4.7,Not satisfied,Polyester,Embroidery,No,2024-12-01,Supplier B,8.12,City C,Bank Transfer,Handled with care,945465
+2024-12-01,4115,Hoodie,XL,Green,6,Online,Social Media,29.78,1.97,12.02,2.88,1.75,Will buy again,Cotton,Screen Printing,Yes,2024-12-02,Supplier B,11.73,City A,PayPal,Urgent,112349
+2024-12-02,2134,Tank Top,XL,Black,4,Online,Email,84.48,2.29,12.16,2.54,3.09,Not satisfied,Blend,Screen Printing,Yes,2024-12-03,Supplier B,3.54,City B,Credit Card,Urgent,433121
+2024-12-03,4525,Short Sleeve,XL,Black,4,Fair,Organic Search,98.11,1.31,6.02,1.58,1.6,Fast delivery,Blend,Embroidery,No,2024-12-04,Supplier C,5.11,City B,Credit Card,Urgent,502310
+2024-12-04,5470,Tank Top,XL,Black,5,Online,Email,30.2,2.62,15.15,4.95,4.8,Not satisfied,Polyester,Screen Printing,No,2024-12-05,Supplier C,9.76,City C,PayPal,Urgent,347249
+2024-12-05,3963,Hoodie,XL,Red,2,Social Media,Email,72.11,1.67,18.71,3.91,4.28,Good quality,Blend,Embroidery,No,2024-12-06,Supplier B,5.99,City C,PayPal,Special instructions,260484
+2024-12-06,7895,Hoodie,L,Black,3,Fair,Organic Search,20.79,3.33,14.2,2.82,2.25,Fast delivery,Blend,Sublimation,Yes,2024-12-07,Supplier C,14.77,City B,PayPal,Special instructions,403578
+2024-12-07,9075,Tank Top,M,Green,5,Social Media,Email,22.84,2.51,14.41,2.97,4.01,Good quality,Cotton,Sublimation,Yes,2024-12-08,Supplier C,7.04,City C,Bank Transfer,Handled with care,172678
+2024-12-08,9071,Long Sleeve,S,Green,9,Social Media,Organic Search,82.81,3.56,16.23,1.0,3.27,Will buy again,Cotton,Embroidery,No,2024-12-09,Supplier B,14.54,City A,PayPal,Handled with care,592336
+2024-12-09,5378,Hoodie,L,Blue,2,Social Media,Email,85.25,4.1,19.04,1.12,1.89,Will buy again,Polyester,Embroidery,Yes,2024-12-10,Supplier A,13.91,City B,Bank Transfer,Urgent,722795
+2024-12-10,9752,Hoodie,L,Red,4,Fair,Email,47.95,1.34,19.74,4.23,1.54,Fast delivery,Cotton,Sublimation,Yes,2024-12-11,Supplier B,11.65,City C,Bank Transfer,Special instructions,296107
+2024-12-11,3742,Tank Top,L,Green,1,Fair,Email,55.84,2.53,12.39,1.18,2.0,Fast delivery,Blend,Embroidery,Yes,2024-12-12,Supplier B,10.79,City C,PayPal,Urgent,174261
+2024-12-12,5704,Hoodie,L,Red,8,Social Media,Organic Search,82.36,4.91,19.18,4.09,3.52,Good quality,Polyester,Screen Printing,Yes,2024-12-13,Supplier B,14.17,City B,Bank Transfer,Urgent,538637
+2024-12-13,5452,Hoodie,M,Blue,9,Fair,Email,88.62,1.01,10.39,3.85,4.82,Good quality,Polyester,Sublimation,No,2024-12-14,Supplier B,12.99,City A,Bank Transfer,Urgent,639212
+2024-12-14,7743,Long Sleeve,M,Red,3,Social Media,Social Media,42.09,2.84,15.91,3.72,4.11,Will buy again,Cotton,Screen Printing,No,2024-12-15,Supplier A,11.18,City C,PayPal,Urgent,200337
+2024-12-15,6630,Long Sleeve,S,Green,2,Social Media,Organic Search,82.74,2.88,19.05,3.18,4.61,Will buy again,Polyester,Screen Printing,No,2024-12-16,Supplier B,8.81,City A,PayPal,Special instructions,518514
+2024-12-16,3562,Long Sleeve,S,White,7,Online,Social Media,36.07,4.29,5.24,2.39,1.78,Will buy again,Polyester,Embroidery,Yes,2024-12-17,Supplier A,9.66,City A,Bank Transfer,Urgent,147934
+2024-12-17,8434,Long Sleeve,L,Red,9,Social Media,Social Media,55.79,2.16,18.81,4.89,4.66,Will buy again,Polyester,Sublimation,No,2024-12-18,Supplier A,7.27,City A,Bank Transfer,Handled with care,983368
+2024-12-18,4366,Long Sleeve,S,Red,3,Fair,Organic Search,77.51,4.1,18.28,4.64,1.34,Not satisfied,Polyester,Sublimation,No,2024-12-19,Supplier A,5.57,City C,Credit Card,Special instructions,857445
+2024-12-19,8078,Hoodie,XL,White,9,Social Media,Organic Search,74.86,1.01,8.08,2.9,4.78,Not satisfied,Blend,Embroidery,Yes,2024-12-20,Supplier A,6.32,City C,Credit Card,Urgent,824695
+2024-12-20,9804,Short Sleeve,L,Black,2,Social Media,Social Media,60.18,2.96,11.15,1.7,1.56,Not satisfied,Cotton,Embroidery,No,2024-12-21,Supplier A,3.06,City A,Credit Card,Special instructions,804458
+2024-12-21,5545,Hoodie,S,White,8,Online,Organic Search,73.59,2.28,6.84,1.94,2.45,Good quality,Blend,Screen Printing,No,2024-12-22,Supplier C,11.9,City A,Credit Card,Urgent,274018
+2024-12-22,1571,Hoodie,S,Black,5,Social Media,Social Media,24.04,4.23,16.21,1.06,2.38,Good quality,Cotton,Sublimation,No,2024-12-23,Supplier A,5.56,City A,Bank Transfer,Handled with care,702925
+2024-12-23,4748,Short Sleeve,XL,White,5,Social Media,Email,43.06,2.61,16.66,4.49,2.32,Will buy again,Blend,Screen Printing,Yes,2024-12-24,Supplier A,4.31,City C,Credit Card,Special instructions,206888
+2024-12-24,1901,Tank Top,L,Red,3,Online,Organic Search,37.3,1.28,18.21,2.45,3.95,Good quality,Cotton,Sublimation,Yes,2024-12-25,Supplier C,7.27,City C,Bank Transfer,Handled with care,640474
+2024-12-25,3309,Short Sleeve,M,Black,5,Online,Organic Search,26.54,3.83,11.62,2.94,4.36,Will buy again,Polyester,Embroidery,Yes,2024-12-26,Supplier B,7.32,City C,Bank Transfer,Urgent,664702
+2024-12-26,7182,Long Sleeve,L,Black,8,Fair,Social Media,36.62,1.05,14.45,3.11,3.28,Good quality,Cotton,Embroidery,No,2024-12-27,Supplier C,11.88,City C,PayPal,Handled with care,222686
+2024-12-27,7232,Hoodie,M,White,4,Social Media,Social Media,88.8,2.34,17.65,4.17,3.18,Not satisfied,Blend,Embroidery,Yes,2024-12-28,Supplier C,5.62,City C,Credit Card,Urgent,166923
+2024-12-28,6839,Long Sleeve,S,Red,5,Social Media,Social Media,91.7,2.99,6.4,3.46,2.05,Will buy again,Blend,Screen Printing,No,2024-12-29,Supplier C,6.83,City C,Credit Card,Special instructions,154631
+2024-12-29,7514,Short Sleeve,M,Red,8,Online,Social Media,62.65,3.97,6.79,1.28,4.61,Will buy again,Blend,Sublimation,No,2024-12-30,Supplier C,9.74,City B,PayPal,Handled with care,106326
+2024-12-30,8300,Tank Top,L,Red,1,Fair,Social Media,58.75,2.25,17.27,2.51,3.26,Good quality,Polyester,Sublimation,Yes,2024-12-31,Supplier C,8.5,City A,PayPal,Special instructions,420444
+2024-12-31,4096,Tank Top,S,Black,5,Social Media,Email,57.05,1.42,11.63,2.83,2.65,Not satisfied,Blend,Sublimation,Yes,2025-01-01,Supplier B,10.42,City C,PayPal,Handled with care,774520
+2025-01-01,4458,Hoodie,M,Black,5,Social Media,Organic Search,96.72,4.3,17.04,3.87,3.24,Not satisfied,Cotton,Sublimation,Yes,2025-01-02,Supplier C,11.42,City A,Credit Card,Urgent,400992
+2025-01-02,9019,Short Sleeve,M,Black,9,Online,Email,95.27,1.04,5.0,4.14,1.42,Will buy again,Polyester,Sublimation,No,2025-01-03,Supplier C,10.62,City C,Credit Card,Urgent,443347
+2025-01-03,4971,Long Sleeve,L,Red,8,Online,Email,37.32,4.49,6.73,1.02,1.45,Fast delivery,Polyester,Sublimation,No,2025-01-04,Supplier C,11.28,City A,Credit Card,Special instructions,329589
+2025-01-04,4661,Long Sleeve,S,Blue,9,Online,Social Media,27.6,1.43,10.53,3.39,4.71,Good quality,Blend,Embroidery,Yes,2025-01-05,Supplier B,3.47,City B,Credit Card,Special instructions,764624
+2025-01-05,2291,Tank Top,S,Blue,6,Social Media,Social Media,24.35,1.5,10.96,1.12,1.87,Fast delivery,Polyester,Screen Printing,Yes,2025-01-06,Supplier C,10.58,City B,Bank Transfer,Handled with care,798032
+2025-01-06,9589,Hoodie,M,Black,7,Social Media,Organic Search,48.61,1.66,17.51,4.34,2.08,Fast delivery,Cotton,Screen Printing,No,2025-01-07,Supplier C,11.72,City A,PayPal,Handled with care,670613
+2025-01-07,3532,Short Sleeve,M,Black,3,Fair,Social Media,53.4,1.59,12.65,1.96,3.23,Not satisfied,Blend,Screen Printing,No,2025-01-08,Supplier C,6.41,City B,PayPal,Handled with care,499015
+2025-01-08,3129,Long Sleeve,M,Red,9,Online,Email,39.81,4.18,18.77,2.33,2.95,Not satisfied,Blend,Screen Printing,No,2025-01-09,Supplier A,9.65,City C,PayPal,Handled with care,597955
+2025-01-09,2711,Tank Top,XL,Red,9,Online,Organic Search,93.62,4.24,11.37,1.93,3.22,Will buy again,Polyester,Embroidery,No,2025-01-10,Supplier A,3.07,City B,PayPal,Urgent,257021
+2025-01-10,6802,Hoodie,S,Blue,9,Online,Email,86.97,1.68,6.0,4.47,2.46,Good quality,Cotton,Screen Printing,No,2025-01-11,Supplier A,3.45,City A,Credit Card,Special instructions,306316
+2025-01-11,9058,Tank Top,M,Blue,1,Social Media,Email,79.56,1.45,11.87,2.2,2.62,Will buy again,Blend,Sublimation,Yes,2025-01-12,Supplier B,10.61,City B,Bank Transfer,Urgent,297077
+2025-01-12,3489,Hoodie,M,White,1,Fair,Email,58.71,3.29,11.17,3.97,1.68,Will buy again,Polyester,Screen Printing,No,2025-01-13,Supplier B,11.06,City B,Bank Transfer,Urgent,160057
+2025-01-13,2169,Short Sleeve,S,Red,2,Fair,Email,90.92,3.8,13.24,3.45,2.99,Not satisfied,Polyester,Sublimation,Yes,2025-01-14,Supplier A,11.32,City A,Credit Card,Handled with care,990149
+2025-01-14,5057,Tank Top,XL,Green,1,Online,Email,95.61,3.24,14.6,4.45,2.69,Will buy again,Polyester,Screen Printing,Yes,2025-01-15,Supplier B,8.85,City C,Bank Transfer,Urgent,377260
+2025-01-15,7613,Long Sleeve,S,White,6,Social Media,Email,91.01,1.11,5.88,1.79,4.76,Not satisfied,Polyester,Screen Printing,No,2025-01-16,Supplier C,10.18,City C,Credit Card,Special instructions,973785
+2025-01-16,1183,Hoodie,XL,Red,9,Online,Email,40.91,4.06,14.26,3.07,1.52,Not satisfied,Blend,Sublimation,Yes,2025-01-17,Supplier A,4.73,City C,Credit Card,Handled with care,379829
+2025-01-17,5207,Tank Top,L,Green,4,Online,Email,89.14,3.86,6.98,4.33,3.46,Not satisfied,Polyester,Sublimation,No,2025-01-18,Supplier C,6.92,City B,PayPal,Special instructions,737976
+2025-01-18,6346,Hoodie,S,Green,1,Fair,Organic Search,48.03,3.87,11.48,3.44,4.87,Good quality,Cotton,Embroidery,No,2025-01-19,Supplier C,9.03,City C,Credit Card,Special instructions,156087
+2025-01-19,3827,Tank Top,S,Black,5,Fair,Email,29.86,1.83,18.38,1.05,1.39,Not satisfied,Blend,Sublimation,No,2025-01-20,Supplier C,4.52,City B,Bank Transfer,Handled with care,423618
+2025-01-20,7241,Tank Top,L,Black,3,Social Media,Social Media,79.49,1.28,7.01,2.01,3.88,Will buy again,Blend,Screen Printing,Yes,2025-01-21,Supplier A,7.1,City C,Bank Transfer,Special instructions,112021
+2025-01-21,3286,Short Sleeve,S,Green,2,Online,Organic Search,84.71,4.99,8.13,3.74,4.46,Good quality,Polyester,Screen Printing,Yes,2025-01-22,Supplier A,4.45,City B,Bank Transfer,Handled with care,941261
+2025-01-22,6131,Long Sleeve,L,Green,9,Online,Social Media,98.94,2.91,11.35,3.45,2.33,Will buy again,Blend,Screen Printing,No,2025-01-23,Supplier A,13.62,City A,PayPal,Handled with care,568831
+2025-01-23,8137,Tank Top,XL,White,5,Social Media,Email,58.48,3.9,5.91,4.59,3.28,Will buy again,Blend,Screen Printing,No,2025-01-24,Supplier C,12.98,City C,Bank Transfer,Handled with care,509580
+2025-01-24,6217,Short Sleeve,S,Green,2,Online,Organic Search,40.08,1.39,9.29,4.7,1.36,Not satisfied,Cotton,Screen Printing,No,2025-01-25,Supplier A,5.41,City B,Credit Card,Handled with care,372894
+2025-01-25,6471,Hoodie,L,Black,7,Social Media,Organic Search,25.23,3.02,6.16,4.2,2.35,Fast delivery,Cotton,Screen Printing,Yes,2025-01-26,Supplier A,13.72,City B,Bank Transfer,Handled with care,522212
+2025-01-26,3349,Hoodie,M,Black,2,Social Media,Social Media,53.05,3.02,12.16,1.73,2.0,Good quality,Polyester,Sublimation,Yes,2025-01-27,Supplier C,9.49,City B,PayPal,Handled with care,486045
+2025-01-27,3822,Tank Top,XL,Black,3,Social Media,Organic Search,66.19,1.49,13.6,2.49,3.74,Fast delivery,Blend,Sublimation,Yes,2025-01-28,Supplier C,4.21,City C,Bank Transfer,Special instructions,160129
+2025-01-28,3598,Long Sleeve,XL,Blue,4,Fair,Social Media,59.72,2.41,16.24,4.86,1.22,Good quality,Polyester,Sublimation,No,2025-01-29,Supplier B,12.6,City B,Bank Transfer,Special instructions,512614
+2025-01-29,5147,Hoodie,M,White,1,Online,Organic Search,33.02,4.57,18.85,2.94,2.93,Good quality,Blend,Screen Printing,Yes,2025-01-30,Supplier C,10.32,City A,PayPal,Special instructions,429454
+2025-01-30,9087,Tank Top,M,White,5,Fair,Organic Search,49.72,3.76,11.56,2.34,3.22,Not satisfied,Polyester,Embroidery,No,2025-01-31,Supplier B,9.69,City B,Credit Card,Special instructions,245567
+2025-01-31,5867,Hoodie,L,White,6,Fair,Email,93.43,3.93,14.42,4.85,4.73,Not satisfied,Cotton,Embroidery,No,2025-02-01,Supplier A,13.08,City A,Bank Transfer,Urgent,177466
+2025-02-01,2882,Short Sleeve,M,Blue,4,Social Media,Email,56.74,4.51,5.9,3.8,4.68,Fast delivery,Cotton,Sublimation,No,2025-02-02,Supplier B,3.78,City C,PayPal,Special instructions,700632
+2025-02-02,8802,Tank Top,S,White,9,Social Media,Email,60.98,2.24,12.13,3.79,1.03,Good quality,Polyester,Screen Printing,Yes,2025-02-03,Supplier C,12.57,City B,PayPal,Urgent,294300
+2025-02-03,6533,Tank Top,L,Blue,8,Online,Email,57.75,4.16,18.05,2.65,3.32,Good quality,Blend,Embroidery,Yes,2025-02-04,Supplier B,4.69,City B,PayPal,Urgent,819828
+2025-02-04,1645,Tank Top,XL,Blue,9,Social Media,Social Media,50.78,1.39,13.88,1.37,2.6,Good quality,Polyester,Embroidery,No,2025-02-05,Supplier B,5.17,City B,Bank Transfer,Urgent,921216
+2025-02-05,6497,Short Sleeve,S,Green,9,Online,Organic Search,24.85,3.31,10.63,4.93,3.15,Fast delivery,Polyester,Screen Printing,Yes,2025-02-06,Supplier C,9.45,City A,Credit Card,Handled with care,544486
+2025-02-06,5039,Tank Top,S,Blue,3,Online,Organic Search,38.33,3.14,6.34,1.34,3.6,Will buy again,Polyester,Embroidery,No,2025-02-07,Supplier B,13.53,City A,Credit Card,Urgent,982563
+2025-02-07,7927,Tank Top,XL,Red,6,Online,Email,60.0,2.72,12.48,3.66,2.1,Not satisfied,Cotton,Embroidery,No,2025-02-08,Supplier A,6.37,City A,PayPal,Urgent,743408
+2025-02-08,7990,Short Sleeve,S,Red,4,Online,Organic Search,66.75,1.84,18.78,1.2,4.04,Good quality,Polyester,Sublimation,Yes,2025-02-09,Supplier B,12.45,City B,Credit Card,Special instructions,940626
+2025-02-09,7324,Hoodie,XL,White,8,Online,Email,58.25,2.71,6.11,1.06,4.68,Will buy again,Blend,Embroidery,Yes,2025-02-10,Supplier A,7.99,City B,Bank Transfer,Special instructions,833934
+2025-02-10,6479,Short Sleeve,XL,Red,7,Social Media,Email,49.11,4.38,12.96,1.04,4.56,Not satisfied,Cotton,Embroidery,Yes,2025-02-11,Supplier A,7.77,City B,PayPal,Special instructions,648472
+2025-02-11,7407,Long Sleeve,XL,Green,4,Fair,Organic Search,84.28,3.92,11.39,4.77,4.02,Will buy again,Polyester,Sublimation,No,2025-02-12,Supplier C,4.21,City A,Bank Transfer,Urgent,755614
+2025-02-12,1761,Short Sleeve,XL,Red,6,Online,Email,75.58,2.76,16.39,2.85,3.1,Good quality,Polyester,Screen Printing,No,2025-02-13,Supplier C,13.13,City A,PayPal,Handled with care,843806
+2025-02-13,4997,Hoodie,L,Blue,6,Fair,Social Media,95.63,4.87,7.27,3.41,2.94,Good quality,Cotton,Sublimation,No,2025-02-14,Supplier B,9.58,City A,PayPal,Handled with care,179935
+2025-02-14,5791,Tank Top,S,Red,5,Online,Email,22.22,4.14,7.57,1.57,3.98,Will buy again,Polyester,Embroidery,Yes,2025-02-15,Supplier B,7.36,City C,Credit Card,Special instructions,708344
+2025-02-15,1625,Tank Top,M,Black,4,Fair,Email,79.53,1.18,15.74,2.95,4.09,Will buy again,Cotton,Embroidery,Yes,2025-02-16,Supplier C,5.05,City A,Bank Transfer,Handled with care,986814
+2025-02-16,9587,Short Sleeve,L,Green,3,Fair,Social Media,24.91,4.0,15.2,3.08,1.05,Fast delivery,Cotton,Embroidery,Yes,2025-02-17,Supplier C,9.16,City C,Credit Card,Urgent,820769
+2025-02-17,6837,Long Sleeve,M,White,2,Online,Email,43.28,3.87,12.77,1.61,1.15,Fast delivery,Polyester,Screen Printing,No,2025-02-18,Supplier B,5.17,City B,Bank Transfer,Special instructions,408961
+2025-02-18,4383,Short Sleeve,L,Black,7,Social Media,Email,93.37,1.2,5.07,2.83,2.91,Good quality,Blend,Screen Printing,Yes,2025-02-19,Supplier A,5.43,City B,PayPal,Urgent,566923
+2025-02-19,3555,Long Sleeve,S,Green,1,Social Media,Email,82.03,4.71,17.83,4.55,4.47,Good quality,Polyester,Screen Printing,Yes,2025-02-20,Supplier B,9.39,City B,Credit Card,Urgent,808991
+2025-02-20,5600,Short Sleeve,XL,Green,1,Social Media,Social Media,72.96,2.87,19.81,3.3,1.86,Not satisfied,Blend,Sublimation,No,2025-02-21,Supplier C,13.35,City A,PayPal,Urgent,194904
+2025-02-21,6305,Long Sleeve,M,Green,7,Social Media,Email,51.98,1.96,15.01,1.74,1.57,Fast delivery,Blend,Sublimation,Yes,2025-02-22,Supplier C,12.87,City C,PayPal,Special instructions,608934
+2025-02-22,7758,Long Sleeve,L,Red,4,Fair,Email,23.99,2.79,19.0,4.82,4.73,Fast delivery,Cotton,Embroidery,No,2025-02-23,Supplier C,10.49,City A,PayPal,Handled with care,105656
+2025-02-23,8762,Tank Top,S,Red,9,Online,Organic Search,40.82,4.34,16.37,4.57,4.56,Good quality,Blend,Screen Printing,No,2025-02-24,Supplier B,6.93,City B,PayPal,Handled with care,190272
+2025-02-24,4308,Long Sleeve,S,Black,4,Online,Social Media,58.47,2.0,15.26,4.71,2.07,Will buy again,Cotton,Embroidery,Yes,2025-02-25,Supplier A,6.04,City A,Credit Card,Special instructions,101607
+2025-02-25,1165,Tank Top,L,Black,4,Social Media,Social Media,53.82,4.66,10.27,4.12,4.36,Fast delivery,Polyester,Sublimation,No,2025-02-26,Supplier B,9.85,City A,Credit Card,Urgent,656138
+2025-02-26,2415,Short Sleeve,XL,Blue,8,Online,Social Media,56.65,1.26,6.19,3.25,4.03,Will buy again,Blend,Embroidery,No,2025-02-27,Supplier C,10.47,City A,PayPal,Handled with care,751138
+2025-02-27,2821,Short Sleeve,L,Blue,5,Online,Email,22.42,1.36,5.48,4.1,4.98,Fast delivery,Cotton,Screen Printing,No,2025-02-28,Supplier A,14.2,City B,PayPal,Handled with care,252522
+2025-02-28,1523,Short Sleeve,L,Blue,9,Online,Social Media,70.65,3.4,11.76,3.48,1.65,Not satisfied,Blend,Sublimation,No,2025-03-01,Supplier C,14.2,City B,PayPal,Urgent,989137
+2025-03-01,8228,Short Sleeve,L,Green,7,Fair,Social Media,56.08,3.04,11.89,1.02,4.59,Fast delivery,Polyester,Embroidery,Yes,2025-03-02,Supplier B,6.9,City B,PayPal,Special instructions,636385
+2025-03-02,9295,Short Sleeve,XL,White,7,Online,Email,21.34,3.69,10.79,1.47,1.23,Fast delivery,Cotton,Embroidery,Yes,2025-03-03,Supplier C,4.93,City C,Credit Card,Urgent,382690
+2025-03-03,1699,Tank Top,M,Blue,8,Online,Organic Search,95.14,1.17,5.45,1.44,3.69,Will buy again,Cotton,Sublimation,No,2025-03-04,Supplier B,14.65,City A,Bank Transfer,Urgent,241279
+2025-03-04,7273,Short Sleeve,L,Black,3,Social Media,Social Media,35.82,2.04,7.99,3.22,3.68,Will buy again,Polyester,Screen Printing,No,2025-03-05,Supplier B,13.12,City A,Credit Card,Urgent,687422
+2025-03-05,1448,Long Sleeve,S,White,6,Fair,Social Media,33.57,3.81,7.05,3.78,4.66,Fast delivery,Polyester,Embroidery,No,2025-03-06,Supplier B,3.48,City A,PayPal,Handled with care,938203
+2025-03-06,9146,Hoodie,M,Blue,5,Fair,Social Media,80.41,2.38,5.19,4.76,1.91,Will buy again,Cotton,Embroidery,No,2025-03-07,Supplier B,11.67,City B,PayPal,Urgent,466882
+2025-03-07,4467,Tank Top,S,Red,1,Online,Social Media,47.89,2.22,14.29,4.6,1.69,Will buy again,Polyester,Sublimation,Yes,2025-03-08,Supplier A,5.11,City A,PayPal,Handled with care,832078
+2025-03-08,7517,Long Sleeve,S,Blue,6,Online,Email,68.92,4.28,6.48,3.39,3.05,Not satisfied,Cotton,Embroidery,Yes,2025-03-09,Supplier A,8.07,City A,Credit Card,Urgent,194269
+2025-03-09,4087,Hoodie,L,Blue,7,Fair,Social Media,20.48,4.18,7.23,3.28,4.81,Not satisfied,Polyester,Embroidery,Yes,2025-03-10,Supplier B,9.93,City A,Credit Card,Special instructions,322284
+2025-03-10,1131,Hoodie,M,Green,7,Online,Email,54.51,3.98,6.49,1.27,2.12,Will buy again,Polyester,Sublimation,No,2025-03-11,Supplier A,7.43,City C,Bank Transfer,Handled with care,294644
+2025-03-11,1213,Tank Top,L,Green,9,Online,Email,21.99,3.51,16.47,4.08,4.19,Good quality,Polyester,Screen Printing,No,2025-03-12,Supplier A,9.13,City A,Credit Card,Handled with care,516694
+2025-03-12,4356,Long Sleeve,S,Blue,6,Social Media,Organic Search,36.76,4.82,18.25,2.06,2.28,Will buy again,Blend,Screen Printing,No,2025-03-13,Supplier C,4.89,City C,PayPal,Special instructions,746792
+2025-03-13,2614,Hoodie,L,Green,3,Fair,Social Media,35.58,1.08,6.78,4.67,2.02,Good quality,Polyester,Embroidery,Yes,2025-03-14,Supplier A,8.56,City B,PayPal,Special instructions,811368
+2025-03-14,3927,Hoodie,XL,Red,4,Social Media,Social Media,97.67,1.61,14.23,1.88,3.74,Good quality,Blend,Embroidery,Yes,2025-03-15,Supplier A,9.58,City B,PayPal,Handled with care,585022
+2025-03-15,5940,Tank Top,XL,White,8,Social Media,Social Media,44.19,2.84,14.3,3.79,4.09,Not satisfied,Blend,Embroidery,Yes,2025-03-16,Supplier B,3.93,City C,Bank Transfer,Handled with care,407707
+2025-03-16,2291,Short Sleeve,L,White,4,Social Media,Organic Search,87.14,2.12,9.22,1.45,1.05,Not satisfied,Blend,Embroidery,No,2025-03-17,Supplier C,11.0,City B,Credit Card,Special instructions,811398
+2025-03-17,2383,Hoodie,L,Green,6,Fair,Social Media,53.66,2.17,13.83,2.98,3.33,Good quality,Polyester,Screen Printing,Yes,2025-03-18,Supplier C,6.02,City A,PayPal,Urgent,164073
+2025-03-18,5845,Tank Top,L,Blue,2,Online,Email,88.97,4.92,11.5,1.6,3.12,Good quality,Blend,Sublimation,No,2025-03-19,Supplier A,7.62,City A,Credit Card,Special instructions,195589
+2025-03-19,6538,Tank Top,L,Red,2,Social Media,Social Media,73.02,1.18,6.61,4.37,2.56,Good quality,Cotton,Sublimation,Yes,2025-03-20,Supplier A,3.32,City C,PayPal,Special instructions,331379
+2025-03-20,4070,Long Sleeve,L,Red,1,Online,Organic Search,20.57,1.1,19.37,3.46,4.14,Will buy again,Cotton,Screen Printing,Yes,2025-03-21,Supplier A,12.07,City A,PayPal,Handled with care,285428
+2025-03-21,1656,Tank Top,XL,Black,5,Social Media,Social Media,28.93,4.74,15.18,4.91,2.42,Will buy again,Polyester,Sublimation,Yes,2025-03-22,Supplier B,9.44,City C,PayPal,Special instructions,884207
+2025-03-22,3593,Tank Top,M,Green,4,Online,Organic Search,22.51,1.64,19.31,1.56,3.18,Fast delivery,Blend,Screen Printing,No,2025-03-23,Supplier A,6.62,City C,Bank Transfer,Special instructions,281625
+2025-03-23,4105,Short Sleeve,L,Black,4,Social Media,Social Media,27.24,1.17,7.27,4.42,2.71,Fast delivery,Cotton,Screen Printing,No,2025-03-24,Supplier A,3.18,City B,PayPal,Urgent,591278
+2025-03-24,8340,Hoodie,M,Green,5,Online,Organic Search,37.63,2.83,16.91,3.94,2.79,Not satisfied,Cotton,Screen Printing,No,2025-03-25,Supplier A,6.28,City A,Bank Transfer,Urgent,995743
+2025-03-25,2510,Long Sleeve,L,Black,4,Online,Social Media,82.85,4.53,11.31,2.55,2.94,Not satisfied,Polyester,Sublimation,Yes,2025-03-26,Supplier C,12.89,City B,Credit Card,Special instructions,403346
+2025-03-26,2130,Tank Top,M,Blue,6,Social Media,Social Media,78.69,2.22,18.95,1.07,1.62,Fast delivery,Blend,Screen Printing,No,2025-03-27,Supplier A,10.98,City A,Credit Card,Urgent,571955
+2025-03-27,1595,Long Sleeve,XL,Green,9,Online,Organic Search,39.58,4.73,15.3,3.94,4.21,Not satisfied,Cotton,Embroidery,Yes,2025-03-28,Supplier A,8.78,City B,Bank Transfer,Special instructions,657037
+2025-03-28,5850,Hoodie,S,White,2,Social Media,Social Media,51.23,4.46,7.21,1.39,2.16,Not satisfied,Polyester,Screen Printing,No,2025-03-29,Supplier B,5.13,City C,Credit Card,Handled with care,525138
+2025-03-29,2440,Tank Top,M,Green,4,Social Media,Organic Search,88.76,2.12,5.49,4.24,3.07,Will buy again,Polyester,Sublimation,Yes,2025-03-30,Supplier C,4.65,City B,Credit Card,Urgent,111288
+2025-03-30,6015,Tank Top,XL,White,1,Fair,Social Media,25.79,2.74,6.88,4.19,2.09,Not satisfied,Cotton,Screen Printing,Yes,2025-03-31,Supplier C,6.25,City C,PayPal,Special instructions,446112
+2025-03-31,1324,Long Sleeve,M,Black,7,Social Media,Email,65.19,4.69,15.69,1.86,4.44,Will buy again,Blend,Sublimation,Yes,2025-04-01,Supplier C,11.87,City C,PayPal,Urgent,945817
+2025-04-01,6535,Short Sleeve,XL,Black,5,Online,Organic Search,29.2,1.49,5.16,4.86,4.33,Will buy again,Polyester,Embroidery,No,2025-04-02,Supplier C,9.56,City C,Credit Card,Special instructions,528968
+2025-04-02,9854,Hoodie,S,Blue,8,Online,Organic Search,99.52,1.25,12.17,4.17,4.8,Will buy again,Cotton,Embroidery,No,2025-04-03,Supplier B,3.28,City A,Bank Transfer,Special instructions,158105
+2025-04-03,8232,Hoodie,XL,White,7,Fair,Social Media,55.33,1.75,13.3,3.42,2.46,Not satisfied,Polyester,Embroidery,Yes,2025-04-04,Supplier A,8.76,City B,Bank Transfer,Urgent,238292
+2025-04-04,8909,Hoodie,L,Blue,6,Fair,Email,93.22,1.9,17.18,3.94,4.55,Good quality,Polyester,Sublimation,No,2025-04-05,Supplier B,4.2,City B,Credit Card,Handled with care,260922
+2025-04-05,1079,Tank Top,L,Red,7,Social Media,Organic Search,32.24,1.72,11.7,2.87,4.44,Fast delivery,Cotton,Embroidery,Yes,2025-04-06,Supplier C,7.72,City C,PayPal,Special instructions,190843
+2025-04-06,9275,Tank Top,M,White,1,Online,Email,99.22,1.13,5.08,1.37,3.3,Fast delivery,Polyester,Embroidery,No,2025-04-07,Supplier A,4.52,City C,Credit Card,Urgent,571722
+2025-04-07,7927,Tank Top,L,Green,8,Fair,Organic Search,24.74,3.87,8.28,3.55,1.59,Good quality,Cotton,Screen Printing,Yes,2025-04-08,Supplier A,5.6,City C,Credit Card,Handled with care,418824
+2025-04-08,6130,Long Sleeve,L,White,8,Online,Social Media,24.71,1.65,5.71,2.66,3.82,Will buy again,Polyester,Sublimation,Yes,2025-04-09,Supplier A,14.14,City A,Credit Card,Handled with care,635395
+2025-04-09,6620,Hoodie,S,Black,2,Fair,Email,85.86,2.82,19.71,4.92,4.78,Fast delivery,Polyester,Sublimation,No,2025-04-10,Supplier A,11.74,City C,Credit Card,Urgent,610756
+2025-04-10,2731,Hoodie,L,Blue,1,Online,Email,82.13,1.48,14.58,1.25,4.28,Good quality,Cotton,Sublimation,No,2025-04-11,Supplier A,12.6,City B,Credit Card,Handled with care,414815
+2025-04-11,2360,Hoodie,L,Red,3,Online,Organic Search,39.83,2.46,5.03,1.64,1.31,Fast delivery,Polyester,Sublimation,No,2025-04-12,Supplier B,10.51,City B,Bank Transfer,Handled with care,531675
+2025-04-12,6440,Short Sleeve,M,Blue,7,Fair,Email,39.75,2.59,5.58,4.6,1.09,Not satisfied,Cotton,Embroidery,No,2025-04-13,Supplier B,4.34,City A,PayPal,Handled with care,394884
+2025-04-13,1363,Tank Top,L,Red,7,Online,Social Media,57.81,4.65,8.38,2.95,2.84,Fast delivery,Blend,Sublimation,Yes,2025-04-14,Supplier A,12.76,City A,Bank Transfer,Urgent,448189
+2025-04-14,5562,Hoodie,L,Black,8,Social Media,Email,95.49,3.82,16.68,1.77,4.65,Not satisfied,Blend,Sublimation,No,2025-04-15,Supplier B,8.84,City A,Credit Card,Urgent,551002
+2025-04-15,3386,Hoodie,XL,Blue,5,Social Media,Email,70.07,4.62,10.99,2.25,3.89,Will buy again,Cotton,Embroidery,Yes,2025-04-16,Supplier A,4.69,City A,PayPal,Handled with care,959477
+2025-04-16,9889,Tank Top,XL,Green,4,Online,Social Media,86.6,2.96,12.58,1.31,5.0,Will buy again,Blend,Embroidery,No,2025-04-17,Supplier A,10.65,City B,Bank Transfer,Handled with care,958000
+2025-04-17,4478,Tank Top,M,Green,4,Social Media,Email,89.37,1.68,18.09,3.54,3.51,Will buy again,Cotton,Sublimation,No,2025-04-18,Supplier C,4.8,City C,Credit Card,Handled with care,902923
+2025-04-18,8951,Hoodie,M,Blue,6,Online,Email,30.76,2.64,18.37,4.68,4.53,Will buy again,Blend,Sublimation,No,2025-04-19,Supplier A,12.99,City C,Credit Card,Urgent,816870
+2025-04-19,4399,Long Sleeve,M,Blue,2,Social Media,Social Media,66.3,3.37,11.42,3.28,4.25,Good quality,Blend,Screen Printing,No,2025-04-20,Supplier A,5.94,City A,Credit Card,Handled with care,632116
+2025-04-20,5409,Long Sleeve,L,Red,1,Fair,Social Media,98.96,3.16,16.4,3.57,3.15,Good quality,Polyester,Embroidery,No,2025-04-21,Supplier B,10.96,City B,Bank Transfer,Special instructions,201106
+2025-04-21,3874,Long Sleeve,L,Blue,2,Online,Email,27.65,4.59,8.51,2.17,1.36,Good quality,Cotton,Embroidery,Yes,2025-04-22,Supplier A,12.54,City A,Credit Card,Special instructions,327224
+2025-04-22,3317,Long Sleeve,L,Red,3,Online,Social Media,55.48,3.37,7.63,3.83,1.52,Will buy again,Blend,Embroidery,Yes,2025-04-23,Supplier A,10.76,City A,Credit Card,Urgent,695024
+2025-04-23,7034,Short Sleeve,L,Blue,6,Social Media,Email,81.19,2.03,19.64,4.66,4.26,Fast delivery,Polyester,Embroidery,Yes,2025-04-24,Supplier B,9.09,City B,Bank Transfer,Handled with care,941130
+2025-04-24,1078,Long Sleeve,L,Blue,5,Fair,Organic Search,99.17,4.81,14.57,1.19,2.48,Fast delivery,Polyester,Embroidery,No,2025-04-25,Supplier C,5.56,City B,PayPal,Special instructions,221496
+2025-04-25,9142,Hoodie,L,White,3,Online,Organic Search,29.58,1.7,14.86,1.87,3.41,Good quality,Cotton,Screen Printing,No,2025-04-26,Supplier C,14.24,City C,Bank Transfer,Handled with care,811707
+2025-04-26,6908,Hoodie,XL,Red,7,Fair,Email,52.36,2.91,18.17,4.75,2.17,Will buy again,Cotton,Screen Printing,No,2025-04-27,Supplier C,4.08,City B,Bank Transfer,Special instructions,982693
+2025-04-27,6703,Hoodie,M,Black,5,Online,Email,80.24,4.55,5.41,4.22,4.57,Good quality,Cotton,Sublimation,Yes,2025-04-28,Supplier C,8.69,City A,PayPal,Urgent,921727
+2025-04-28,8413,Long Sleeve,M,Green,2,Social Media,Email,67.53,3.84,9.29,1.28,4.66,Will buy again,Blend,Screen Printing,No,2025-04-29,Supplier C,11.23,City C,PayPal,Urgent,105529
+2025-04-29,4163,Tank Top,L,Red,1,Social Media,Social Media,90.29,3.14,15.79,1.93,4.82,Will buy again,Polyester,Screen Printing,No,2025-04-30,Supplier A,4.54,City B,Credit Card,Handled with care,949095
+2025-04-30,7188,Hoodie,S,Blue,8,Fair,Email,28.17,3.75,11.82,2.46,4.71,Will buy again,Polyester,Embroidery,No,2025-05-01,Supplier B,6.94,City B,Credit Card,Handled with care,745088
+2025-05-01,8951,Long Sleeve,XL,Green,9,Social Media,Social Media,63.4,2.75,19.14,2.28,3.26,Will buy again,Cotton,Screen Printing,No,2025-05-02,Supplier B,13.23,City A,Credit Card,Handled with care,987423
+2025-05-02,2623,Short Sleeve,M,Blue,3,Fair,Social Media,68.74,2.59,11.76,1.21,3.41,Will buy again,Polyester,Sublimation,No,2025-05-03,Supplier C,7.04,City B,Credit Card,Handled with care,486284
+2025-05-03,7091,Short Sleeve,XL,Black,9,Social Media,Email,85.14,3.51,6.91,1.68,4.85,Fast delivery,Cotton,Sublimation,Yes,2025-05-04,Supplier B,6.06,City C,Credit Card,Handled with care,972985
+2025-05-04,2613,Hoodie,L,Red,6,Fair,Organic Search,87.65,3.95,18.61,2.13,2.49,Not satisfied,Blend,Sublimation,Yes,2025-05-05,Supplier B,12.26,City B,Credit Card,Handled with care,702518
+2025-05-05,9702,Tank Top,XL,Red,4,Social Media,Email,57.93,4.75,5.08,1.61,3.52,Fast delivery,Blend,Embroidery,Yes,2025-05-06,Supplier C,5.6,City C,Credit Card,Special instructions,788015
+2025-05-06,8581,Short Sleeve,M,Blue,3,Fair,Organic Search,68.35,4.35,16.38,4.31,2.76,Will buy again,Polyester,Sublimation,No,2025-05-07,Supplier A,8.63,City C,Credit Card,Special instructions,473679
+2025-05-07,6727,Long Sleeve,XL,Blue,3,Social Media,Social Media,20.63,4.84,5.13,3.08,2.38,Fast delivery,Polyester,Sublimation,No,2025-05-08,Supplier C,13.82,City C,PayPal,Handled with care,717487
+2025-05-08,8812,Long Sleeve,XL,Red,7,Fair,Organic Search,75.12,1.46,11.95,1.89,4.72,Fast delivery,Cotton,Screen Printing,No,2025-05-09,Supplier B,14.69,City A,Credit Card,Handled with care,565834
+2025-05-09,6041,Short Sleeve,S,Blue,9,Online,Email,21.24,4.96,8.08,4.39,3.28,Fast delivery,Cotton,Embroidery,No,2025-05-10,Supplier A,12.14,City A,Credit Card,Special instructions,863826
+2025-05-10,3391,Hoodie,XL,Red,2,Fair,Organic Search,71.77,1.8,19.27,4.04,2.86,Fast delivery,Cotton,Sublimation,Yes,2025-05-11,Supplier B,3.03,City A,Bank Transfer,Special instructions,415243
+2025-05-11,8888,Hoodie,M,White,5,Social Media,Organic Search,60.47,1.32,10.95,2.55,1.22,Good quality,Polyester,Sublimation,Yes,2025-05-12,Supplier C,4.79,City A,Bank Transfer,Special instructions,839288
+2025-05-12,8209,Short Sleeve,M,Black,2,Social Media,Email,96.32,3.63,5.46,4.36,1.62,Fast delivery,Blend,Embroidery,Yes,2025-05-13,Supplier C,10.47,City C,PayPal,Special instructions,316558
+2025-05-13,2776,Long Sleeve,M,Red,4,Online,Organic Search,33.05,3.69,16.65,3.55,3.16,Will buy again,Blend,Embroidery,No,2025-05-14,Supplier C,9.81,City C,Credit Card,Handled with care,469293
+2025-05-14,8087,Tank Top,M,Black,8,Social Media,Email,50.7,4.9,9.75,3.49,4.98,Good quality,Blend,Screen Printing,Yes,2025-05-15,Supplier B,9.32,City B,Credit Card,Handled with care,253577
+2025-05-15,3321,Long Sleeve,L,Black,4,Online,Email,88.58,4.08,14.59,1.42,2.84,Not satisfied,Polyester,Sublimation,No,2025-05-16,Supplier B,10.26,City C,PayPal,Urgent,992857
+2025-05-16,2344,Tank Top,S,White,1,Fair,Organic Search,61.13,2.57,11.08,2.63,3.5,Will buy again,Polyester,Sublimation,Yes,2025-05-17,Supplier B,3.92,City C,Bank Transfer,Special instructions,881361
+2025-05-17,1236,Tank Top,L,Red,8,Social Media,Organic Search,85.17,3.4,11.58,1.29,4.41,Not satisfied,Blend,Sublimation,Yes,2025-05-18,Supplier B,7.5,City C,Bank Transfer,Special instructions,250508
+2025-05-18,3127,Short Sleeve,M,Blue,4,Online,Organic Search,60.59,3.44,8.96,2.6,4.67,Not satisfied,Polyester,Embroidery,Yes,2025-05-19,Supplier A,13.82,City A,Bank Transfer,Special instructions,494292
+2025-05-19,7218,Hoodie,XL,Blue,1,Online,Organic Search,74.59,4.06,16.82,1.24,2.46,Good quality,Cotton,Screen Printing,Yes,2025-05-20,Supplier C,8.33,City B,Credit Card,Handled with care,249098
+2025-05-20,2186,Tank Top,M,Red,9,Social Media,Organic Search,90.52,3.32,11.96,1.77,1.65,Not satisfied,Polyester,Sublimation,Yes,2025-05-21,Supplier B,9.68,City B,Credit Card,Urgent,740722
+2025-05-21,7822,Long Sleeve,M,Red,4,Online,Email,24.39,2.55,5.59,2.83,4.89,Not satisfied,Polyester,Embroidery,Yes,2025-05-22,Supplier B,10.57,City C,Credit Card,Handled with care,286769
+2025-05-22,4062,Hoodie,S,Black,8,Online,Organic Search,90.47,3.73,19.17,3.47,3.11,Good quality,Cotton,Screen Printing,No,2025-05-23,Supplier A,6.25,City B,PayPal,Special instructions,277642
+2025-05-23,6781,Hoodie,S,Black,5,Fair,Email,34.32,1.96,12.45,1.72,4.54,Not satisfied,Polyester,Embroidery,No,2025-05-24,Supplier C,9.86,City C,PayPal,Special instructions,440104
+2025-05-24,8970,Long Sleeve,XL,Green,2,Fair,Organic Search,80.42,2.4,12.29,1.33,2.19,Not satisfied,Polyester,Sublimation,No,2025-05-25,Supplier C,9.6,City C,Credit Card,Urgent,123061
+2025-05-25,9565,Short Sleeve,L,Black,7,Fair,Organic Search,65.27,1.29,10.2,4.49,1.35,Not satisfied,Cotton,Embroidery,Yes,2025-05-26,Supplier A,14.47,City C,Credit Card,Special instructions,522628
+2025-05-26,3474,Hoodie,M,Red,5,Online,Organic Search,46.63,4.26,14.53,1.33,4.51,Good quality,Blend,Sublimation,Yes,2025-05-27,Supplier C,14.31,City A,PayPal,Urgent,297901
+2025-05-27,1611,Tank Top,S,Green,4,Social Media,Organic Search,96.68,1.28,11.02,3.27,2.67,Will buy again,Blend,Sublimation,No,2025-05-28,Supplier A,11.52,City A,PayPal,Handled with care,878224
+2025-05-28,7905,Long Sleeve,XL,Black,7,Fair,Social Media,87.31,2.2,16.24,4.17,2.76,Good quality,Polyester,Screen Printing,No,2025-05-29,Supplier C,6.02,City C,Bank Transfer,Special instructions,888071
+2025-05-29,4995,Tank Top,M,Blue,7,Social Media,Social Media,42.84,4.7,18.15,1.67,4.93,Good quality,Blend,Embroidery,Yes,2025-05-30,Supplier A,6.74,City C,Bank Transfer,Special instructions,143088
+2025-05-30,3352,Long Sleeve,L,Black,5,Fair,Organic Search,36.21,3.24,12.35,3.59,2.64,Not satisfied,Cotton,Sublimation,No,2025-05-31,Supplier C,8.09,City A,Bank Transfer,Handled with care,905413
+2025-05-31,6503,Long Sleeve,L,Black,3,Online,Social Media,48.72,1.87,14.79,3.92,3.29,Fast delivery,Cotton,Embroidery,No,2025-06-01,Supplier C,6.95,City A,Bank Transfer,Urgent,562520
+2025-06-01,2674,Hoodie,S,Black,8,Fair,Social Media,46.57,4.97,9.43,3.83,3.95,Not satisfied,Blend,Embroidery,Yes,2025-06-02,Supplier B,3.74,City C,PayPal,Urgent,724077
+2025-06-02,7915,Long Sleeve,L,Black,4,Social Media,Email,32.78,4.52,14.38,1.21,1.9,Fast delivery,Blend,Screen Printing,Yes,2025-06-03,Supplier C,8.66,City A,Credit Card,Special instructions,601921
+2025-06-03,8781,Hoodie,XL,White,2,Online,Social Media,94.99,1.27,14.53,3.57,2.08,Will buy again,Polyester,Sublimation,Yes,2025-06-04,Supplier C,9.12,City C,Bank Transfer,Handled with care,339435
+2025-06-04,6726,Long Sleeve,S,Red,1,Social Media,Email,91.01,1.92,12.68,1.63,3.96,Fast delivery,Polyester,Screen Printing,No,2025-06-05,Supplier B,3.12,City A,Credit Card,Handled with care,981550
+2025-06-05,2659,Hoodie,M,Green,7,Online,Organic Search,89.99,3.57,7.4,2.21,4.23,Not satisfied,Polyester,Embroidery,No,2025-06-06,Supplier C,10.6,City C,Bank Transfer,Urgent,848587
+2025-06-06,8326,Hoodie,S,Red,2,Social Media,Organic Search,56.46,1.8,15.88,4.72,1.8,Will buy again,Blend,Sublimation,Yes,2025-06-07,Supplier A,4.39,City A,Credit Card,Urgent,289336
+2025-06-07,6323,Short Sleeve,XL,Black,6,Fair,Organic Search,83.17,3.15,9.79,1.21,2.23,Not satisfied,Blend,Screen Printing,Yes,2025-06-08,Supplier B,4.37,City B,Credit Card,Urgent,256763
+2025-06-08,4549,Hoodie,XL,Blue,5,Online,Social Media,48.83,1.66,10.82,4.45,1.03,Not satisfied,Blend,Embroidery,No,2025-06-09,Supplier A,4.74,City C,PayPal,Urgent,110004
+2025-06-09,8484,Hoodie,L,Green,7,Social Media,Organic Search,88.85,3.69,17.77,3.2,2.54,Will buy again,Blend,Screen Printing,Yes,2025-06-10,Supplier C,5.19,City B,Bank Transfer,Special instructions,918974
+2025-06-10,7835,Hoodie,M,Red,4,Online,Email,92.52,3.12,15.22,1.13,4.6,Good quality,Blend,Sublimation,Yes,2025-06-11,Supplier B,7.56,City B,Bank Transfer,Special instructions,973230
+2025-06-11,7388,Short Sleeve,XL,Blue,2,Social Media,Social Media,63.06,4.88,6.24,4.02,2.61,Good quality,Polyester,Screen Printing,No,2025-06-12,Supplier C,5.11,City A,Credit Card,Handled with care,592204
+2025-06-12,1243,Tank Top,L,Black,8,Social Media,Social Media,58.1,1.54,13.48,4.43,4.04,Good quality,Cotton,Screen Printing,No,2025-06-13,Supplier C,5.78,City B,Bank Transfer,Handled with care,286462
+2025-06-13,3581,Tank Top,M,Blue,8,Online,Email,62.62,3.12,6.3,2.83,1.23,Not satisfied,Blend,Screen Printing,Yes,2025-06-14,Supplier C,5.07,City C,PayPal,Handled with care,661151
+2025-06-14,4215,Short Sleeve,M,Red,9,Fair,Social Media,39.05,2.25,14.68,4.17,3.35,Will buy again,Blend,Embroidery,Yes,2025-06-15,Supplier A,4.06,City A,Bank Transfer,Handled with care,562992
+2025-06-15,3800,Hoodie,XL,Green,1,Online,Social Media,27.35,3.45,10.92,4.64,4.82,Not satisfied,Cotton,Screen Printing,No,2025-06-16,Supplier A,6.62,City A,PayPal,Special instructions,117023
+2025-06-16,7410,Hoodie,M,Red,1,Fair,Email,50.95,1.81,17.19,3.27,4.94,Will buy again,Polyester,Embroidery,Yes,2025-06-17,Supplier B,4.71,City B,PayPal,Urgent,946208
+2025-06-17,2681,Long Sleeve,M,Blue,3,Social Media,Organic Search,82.73,4.7,16.7,4.67,3.31,Good quality,Blend,Embroidery,No,2025-06-18,Supplier A,10.18,City B,PayPal,Handled with care,331035
+2025-06-18,4047,Tank Top,L,Blue,7,Online,Social Media,74.54,2.75,20.0,2.67,1.06,Not satisfied,Blend,Screen Printing,Yes,2025-06-19,Supplier A,7.69,City B,Credit Card,Handled with care,443795
+2025-06-19,1797,Hoodie,S,Red,2,Online,Email,87.27,2.73,9.49,4.25,4.36,Not satisfied,Polyester,Sublimation,Yes,2025-06-20,Supplier B,4.13,City B,PayPal,Special instructions,219472
+2025-06-20,8363,Hoodie,M,Red,6,Fair,Social Media,56.12,4.15,7.63,4.12,3.94,Fast delivery,Cotton,Sublimation,Yes,2025-06-21,Supplier B,6.56,City B,Credit Card,Special instructions,581707
+2025-06-21,5560,Tank Top,L,Red,2,Fair,Email,29.94,4.63,7.78,3.88,1.1,Good quality,Polyester,Sublimation,No,2025-06-22,Supplier C,3.58,City A,Bank Transfer,Handled with care,337439
+2025-06-22,3274,Hoodie,L,Blue,8,Online,Social Media,61.81,2.98,13.98,2.65,4.03,Not satisfied,Blend,Sublimation,Yes,2025-06-23,Supplier C,12.13,City C,PayPal,Handled with care,208676
+2025-06-23,9637,Short Sleeve,L,White,4,Online,Organic Search,23.16,4.09,10.02,2.87,3.88,Fast delivery,Polyester,Screen Printing,No,2025-06-24,Supplier A,10.96,City C,Bank Transfer,Urgent,659300
+2025-06-24,2655,Hoodie,XL,Red,4,Social Media,Email,54.47,1.58,18.6,1.84,1.39,Fast delivery,Blend,Screen Printing,No,2025-06-25,Supplier B,6.13,City C,Credit Card,Urgent,850226
+2025-06-25,3422,Hoodie,XL,Black,3,Online,Organic Search,36.11,2.01,6.19,2.11,3.15,Good quality,Polyester,Embroidery,No,2025-06-26,Supplier B,9.97,City B,Credit Card,Special instructions,101571
+2025-06-26,2781,Tank Top,S,Blue,5,Online,Email,87.54,3.77,16.47,3.73,3.2,Good quality,Blend,Embroidery,No,2025-06-27,Supplier B,11.55,City A,PayPal,Special instructions,504370
+2025-06-27,7437,Short Sleeve,XL,White,6,Online,Social Media,30.31,4.71,12.35,2.3,4.58,Good quality,Cotton,Embroidery,No,2025-06-28,Supplier B,6.23,City C,Credit Card,Handled with care,892507
+2025-06-28,2307,Long Sleeve,L,Green,5,Social Media,Social Media,57.97,1.47,14.56,3.9,2.77,Good quality,Blend,Embroidery,Yes,2025-06-29,Supplier A,14.05,City C,Bank Transfer,Handled with care,875596
+2025-06-29,6718,Tank Top,L,White,7,Fair,Social Media,50.81,1.54,13.82,3.5,3.24,Good quality,Cotton,Sublimation,No,2025-06-30,Supplier A,14.34,City A,PayPal,Handled with care,522740
+2025-06-30,2631,Long Sleeve,S,Green,9,Online,Social Media,87.63,4.9,12.95,2.43,3.2,Not satisfied,Cotton,Screen Printing,Yes,2025-07-01,Supplier A,10.78,City A,Bank Transfer,Handled with care,208507
+2025-07-01,4384,Long Sleeve,L,White,1,Online,Email,64.93,1.36,15.48,1.67,3.08,Will buy again,Cotton,Sublimation,Yes,2025-07-02,Supplier A,6.19,City A,Bank Transfer,Urgent,200084
+2025-07-02,7941,Short Sleeve,XL,Blue,7,Social Media,Email,58.0,1.17,13.19,2.28,4.41,Good quality,Cotton,Sublimation,No,2025-07-03,Supplier A,11.87,City C,Bank Transfer,Handled with care,587593
+2025-07-03,3015,Long Sleeve,L,Black,8,Online,Social Media,67.7,3.13,18.84,2.46,4.79,Fast delivery,Cotton,Embroidery,No,2025-07-04,Supplier B,13.84,City A,Bank Transfer,Special instructions,859627
+2025-07-04,6538,Short Sleeve,S,Blue,7,Fair,Organic Search,38.57,1.9,13.28,3.58,4.66,Will buy again,Blend,Embroidery,No,2025-07-05,Supplier C,11.38,City B,PayPal,Handled with care,448576
+2025-07-05,9378,Hoodie,S,White,6,Social Media,Social Media,61.71,2.19,18.79,1.25,1.79,Not satisfied,Polyester,Sublimation,Yes,2025-07-06,Supplier B,10.52,City B,Credit Card,Urgent,303559
+2025-07-06,7015,Short Sleeve,S,White,5,Social Media,Organic Search,48.0,3.47,17.1,4.46,4.47,Good quality,Blend,Embroidery,Yes,2025-07-07,Supplier A,9.83,City B,Bank Transfer,Urgent,130727
+2025-07-07,4966,Tank Top,M,Green,8,Online,Email,28.71,2.4,17.71,3.5,2.27,Good quality,Blend,Sublimation,Yes,2025-07-08,Supplier C,6.22,City B,PayPal,Special instructions,106899
+2025-07-08,5049,Long Sleeve,XL,Red,4,Online,Email,83.32,4.98,18.46,1.21,1.05,Good quality,Polyester,Embroidery,Yes,2025-07-09,Supplier A,6.25,City A,Bank Transfer,Handled with care,793301
+2025-07-09,6596,Short Sleeve,S,Blue,7,Fair,Social Media,48.86,1.91,8.04,2.01,3.13,Not satisfied,Polyester,Embroidery,No,2025-07-10,Supplier A,8.64,City A,Credit Card,Handled with care,257481
+2025-07-10,8824,Tank Top,M,Green,4,Social Media,Social Media,42.31,4.46,10.14,1.6,1.38,Not satisfied,Polyester,Embroidery,No,2025-07-11,Supplier A,14.0,City C,Bank Transfer,Urgent,653241
+2025-07-11,6691,Short Sleeve,XL,White,8,Social Media,Social Media,20.05,4.5,18.49,3.33,3.0,Fast delivery,Blend,Screen Printing,No,2025-07-12,Supplier B,3.92,City C,Credit Card,Handled with care,191093
+2025-07-12,2004,Long Sleeve,M,White,9,Social Media,Email,23.04,2.75,7.24,3.28,3.96,Fast delivery,Cotton,Screen Printing,Yes,2025-07-13,Supplier B,7.84,City B,PayPal,Urgent,592342
+2025-07-13,6127,Long Sleeve,XL,Red,5,Social Media,Social Media,40.15,4.99,12.35,2.46,4.38,Not satisfied,Polyester,Embroidery,Yes,2025-07-14,Supplier A,3.11,City C,Credit Card,Urgent,493513
+2025-07-14,4796,Tank Top,XL,Blue,9,Social Media,Social Media,46.36,2.13,6.57,4.04,2.29,Fast delivery,Cotton,Sublimation,No,2025-07-15,Supplier B,9.06,City C,Credit Card,Special instructions,384960
+2025-07-15,5843,Tank Top,XL,White,3,Fair,Organic Search,75.93,1.36,7.29,1.25,4.36,Good quality,Blend,Sublimation,No,2025-07-16,Supplier C,10.25,City B,Bank Transfer,Special instructions,436750
+2025-07-16,4293,Tank Top,S,Black,7,Fair,Email,49.48,3.27,13.83,4.31,1.23,Fast delivery,Cotton,Screen Printing,Yes,2025-07-17,Supplier C,11.61,City C,Credit Card,Handled with care,121001
+2025-07-17,2064,Tank Top,XL,Red,7,Fair,Social Media,83.72,1.03,10.94,4.55,3.46,Fast delivery,Polyester,Screen Printing,No,2025-07-18,Supplier C,14.44,City B,Credit Card,Urgent,416031
+2025-07-18,9404,Tank Top,M,Red,6,Social Media,Organic Search,66.97,2.9,11.36,1.74,2.4,Fast delivery,Polyester,Screen Printing,No,2025-07-19,Supplier B,9.63,City C,Credit Card,Handled with care,191373
+2025-07-19,5199,Long Sleeve,L,Green,8,Fair,Organic Search,48.05,4.35,12.62,4.76,3.2,Will buy again,Blend,Screen Printing,Yes,2025-07-20,Supplier A,12.89,City B,PayPal,Urgent,922697
+2025-07-20,9772,Hoodie,L,Green,9,Social Media,Social Media,32.59,2.68,14.91,3.93,1.77,Will buy again,Cotton,Embroidery,Yes,2025-07-21,Supplier A,10.36,City B,Credit Card,Handled with care,812682
+2025-07-21,9686,Tank Top,XL,Green,3,Fair,Email,20.11,1.82,12.49,4.57,1.92,Will buy again,Polyester,Embroidery,Yes,2025-07-22,Supplier B,13.09,City B,Credit Card,Special instructions,609511
+2025-07-22,8116,Hoodie,S,White,3,Online,Organic Search,50.65,2.02,10.13,4.17,4.35,Not satisfied,Blend,Sublimation,No,2025-07-23,Supplier A,13.57,City B,Credit Card,Special instructions,220121
+2025-07-23,5080,Tank Top,XL,Red,1,Online,Email,52.54,4.66,7.89,1.27,4.19,Will buy again,Blend,Screen Printing,Yes,2025-07-24,Supplier C,5.18,City A,PayPal,Handled with care,853969
+2025-07-24,3596,Tank Top,M,Blue,9,Social Media,Organic Search,49.11,3.65,11.97,1.99,4.42,Fast delivery,Polyester,Sublimation,No,2025-07-25,Supplier C,14.95,City C,PayPal,Handled with care,575244
+2025-07-25,1165,Tank Top,L,Black,2,Fair,Organic Search,84.19,1.65,10.63,4.4,2.91,Will buy again,Polyester,Embroidery,No,2025-07-26,Supplier B,13.21,City A,Credit Card,Handled with care,982383
+2025-07-26,9926,Long Sleeve,M,White,8,Online,Email,27.64,2.85,17.23,1.19,3.65,Not satisfied,Blend,Embroidery,No,2025-07-27,Supplier C,4.69,City C,Bank Transfer,Urgent,690624
+2025-07-27,1373,Hoodie,M,White,6,Social Media,Organic Search,29.19,3.46,5.23,3.84,2.83,Not satisfied,Polyester,Sublimation,Yes,2025-07-28,Supplier A,13.49,City A,Bank Transfer,Handled with care,351703
+2025-07-28,8459,Long Sleeve,L,Blue,8,Online,Social Media,38.68,3.02,13.56,3.73,2.0,Good quality,Polyester,Embroidery,No,2025-07-29,Supplier A,4.75,City B,PayPal,Special instructions,491256
+2025-07-29,7064,Short Sleeve,S,White,6,Online,Social Media,61.1,4.14,14.28,2.78,1.02,Not satisfied,Blend,Screen Printing,No,2025-07-30,Supplier C,13.21,City C,Credit Card,Special instructions,214446
+2025-07-30,6681,Tank Top,M,Blue,7,Social Media,Organic Search,78.07,1.03,19.82,3.3,4.68,Will buy again,Cotton,Sublimation,Yes,2025-07-31,Supplier B,4.94,City C,Bank Transfer,Handled with care,781940
+2025-07-31,4257,Tank Top,L,Blue,3,Online,Social Media,92.29,2.12,18.28,2.04,3.79,Fast delivery,Cotton,Screen Printing,Yes,2025-08-01,Supplier C,10.19,City C,PayPal,Special instructions,729528
+2025-08-01,5361,Hoodie,S,Red,8,Online,Email,41.37,3.3,12.76,3.36,4.13,Fast delivery,Polyester,Screen Printing,Yes,2025-08-02,Supplier A,12.56,City B,Credit Card,Special instructions,493814
+2025-08-02,7194,Long Sleeve,M,White,8,Social Media,Email,30.22,3.16,9.33,3.75,1.3,Not satisfied,Cotton,Screen Printing,No,2025-08-03,Supplier B,8.9,City A,Credit Card,Special instructions,938370
+2025-08-03,9177,Long Sleeve,M,White,5,Social Media,Social Media,60.74,1.42,5.15,2.54,4.53,Not satisfied,Cotton,Sublimation,Yes,2025-08-04,Supplier B,5.84,City B,Credit Card,Urgent,930006
+2025-08-04,3547,Long Sleeve,M,Black,4,Social Media,Social Media,43.97,1.7,8.61,1.59,1.59,Not satisfied,Polyester,Screen Printing,Yes,2025-08-05,Supplier C,9.07,City C,Bank Transfer,Special instructions,612607
+2025-08-05,6156,Tank Top,M,Blue,4,Online,Social Media,98.76,4.01,17.71,4.78,4.37,Fast delivery,Blend,Embroidery,Yes,2025-08-06,Supplier B,13.47,City B,Credit Card,Handled with care,888226
+2025-08-06,8454,Hoodie,XL,Black,6,Fair,Email,23.19,3.14,19.6,4.96,4.06,Good quality,Cotton,Screen Printing,No,2025-08-07,Supplier B,6.39,City C,PayPal,Special instructions,221330
+2025-08-07,6746,Short Sleeve,S,Black,6,Social Media,Organic Search,35.27,3.56,15.52,1.28,3.96,Fast delivery,Polyester,Embroidery,Yes,2025-08-08,Supplier C,5.77,City C,Bank Transfer,Urgent,523474
+2025-08-08,8315,Short Sleeve,M,Black,7,Fair,Social Media,80.28,4.27,14.06,1.22,3.75,Will buy again,Cotton,Screen Printing,Yes,2025-08-09,Supplier C,8.61,City B,PayPal,Urgent,826584
+2025-08-09,1035,Long Sleeve,L,Green,2,Fair,Social Media,50.91,3.34,14.09,2.45,1.81,Not satisfied,Cotton,Screen Printing,Yes,2025-08-10,Supplier C,6.56,City B,Credit Card,Handled with care,826667
+2025-08-10,5878,Hoodie,XL,Red,3,Online,Email,64.98,2.26,14.75,4.76,3.63,Not satisfied,Blend,Embroidery,No,2025-08-11,Supplier B,12.69,City B,Bank Transfer,Urgent,536787
+2025-08-11,7173,Long Sleeve,L,Blue,1,Social Media,Organic Search,85.24,3.09,5.03,2.52,1.43,Good quality,Cotton,Screen Printing,No,2025-08-12,Supplier A,13.25,City A,PayPal,Handled with care,715063
+2025-08-12,1060,Long Sleeve,L,White,3,Online,Email,73.35,1.52,10.55,1.92,4.44,Will buy again,Polyester,Sublimation,Yes,2025-08-13,Supplier A,3.22,City A,Credit Card,Handled with care,213451
+2025-08-13,8505,Long Sleeve,S,Green,6,Social Media,Social Media,68.28,2.09,9.94,4.9,1.8,Fast delivery,Cotton,Screen Printing,Yes,2025-08-14,Supplier A,11.2,City C,Bank Transfer,Special instructions,232923
+2025-08-14,7979,Short Sleeve,L,Green,3,Social Media,Email,74.55,3.62,19.67,1.93,2.76,Fast delivery,Blend,Screen Printing,Yes,2025-08-15,Supplier A,9.73,City C,Bank Transfer,Urgent,206883
+2025-08-15,2057,Short Sleeve,XL,Green,1,Fair,Organic Search,25.14,1.16,5.01,3.74,4.62,Not satisfied,Polyester,Sublimation,No,2025-08-16,Supplier C,3.0,City A,Bank Transfer,Special instructions,715367
+2025-08-16,5531,Long Sleeve,M,White,4,Online,Email,27.82,1.0,16.05,1.45,4.18,Will buy again,Blend,Screen Printing,No,2025-08-17,Supplier A,7.29,City B,Credit Card,Urgent,399529
+2025-08-17,4958,Hoodie,M,Green,9,Fair,Email,68.6,4.55,11.08,3.53,1.15,Good quality,Polyester,Sublimation,Yes,2025-08-18,Supplier B,3.42,City B,Bank Transfer,Urgent,687914
+2025-08-18,2435,Short Sleeve,L,Green,4,Online,Organic Search,49.43,4.86,5.97,1.58,2.95,Not satisfied,Cotton,Screen Printing,No,2025-08-19,Supplier C,4.97,City A,Bank Transfer,Handled with care,870014
+2025-08-19,4300,Long Sleeve,S,White,2,Fair,Social Media,99.66,4.62,10.41,2.11,3.1,Fast delivery,Cotton,Embroidery,Yes,2025-08-20,Supplier B,4.76,City C,Bank Transfer,Special instructions,639905
+2025-08-20,9248,Short Sleeve,S,Red,1,Social Media,Email,85.65,1.86,6.92,2.75,4.34,Fast delivery,Polyester,Sublimation,No,2025-08-21,Supplier B,13.09,City B,Bank Transfer,Handled with care,236402
+2025-08-21,7421,Tank Top,M,Green,7,Social Media,Email,94.12,4.02,5.56,4.06,3.39,Will buy again,Blend,Embroidery,No,2025-08-22,Supplier A,14.05,City A,Bank Transfer,Special instructions,179149
+2025-08-22,4818,Tank Top,M,Blue,5,Social Media,Organic Search,34.44,2.83,15.25,3.22,1.26,Not satisfied,Polyester,Embroidery,Yes,2025-08-23,Supplier B,9.56,City A,PayPal,Handled with care,112581
+2025-08-23,8498,Short Sleeve,L,Red,7,Online,Social Media,69.98,1.28,5.37,1.72,2.68,Fast delivery,Polyester,Sublimation,No,2025-08-24,Supplier B,14.23,City C,Bank Transfer,Handled with care,378551
+2025-08-24,3589,Long Sleeve,S,White,5,Social Media,Organic Search,22.23,4.18,5.18,4.02,3.64,Will buy again,Blend,Screen Printing,No,2025-08-25,Supplier A,11.98,City B,Credit Card,Handled with care,857182
+2025-08-25,1957,Short Sleeve,L,Red,2,Online,Social Media,78.81,4.23,11.39,3.55,4.95,Good quality,Polyester,Embroidery,No,2025-08-26,Supplier A,6.74,City A,Bank Transfer,Urgent,374680
+2025-08-26,6912,Hoodie,M,Red,4,Fair,Social Media,23.38,3.89,6.96,1.08,2.54,Not satisfied,Blend,Screen Printing,No,2025-08-27,Supplier B,12.57,City C,Bank Transfer,Urgent,666188
+2025-08-27,5210,Long Sleeve,M,Black,7,Fair,Email,73.93,4.99,11.69,1.26,4.94,Fast delivery,Cotton,Embroidery,Yes,2025-08-28,Supplier B,13.03,City B,PayPal,Special instructions,959752
+2025-08-28,7592,Long Sleeve,L,White,3,Fair,Social Media,36.99,4.97,10.49,1.37,3.2,Will buy again,Cotton,Embroidery,Yes,2025-08-29,Supplier C,9.15,City C,PayPal,Special instructions,768089
+2025-08-29,4940,Long Sleeve,S,Red,9,Social Media,Social Media,67.3,1.72,6.53,2.0,2.86,Good quality,Polyester,Embroidery,Yes,2025-08-30,Supplier A,5.32,City B,Credit Card,Handled with care,364538
+2025-08-30,1769,Long Sleeve,M,White,9,Online,Email,42.08,4.18,14.6,2.11,2.66,Will buy again,Cotton,Sublimation,Yes,2025-08-31,Supplier A,3.85,City B,Credit Card,Handled with care,306380
+2025-08-31,5354,Hoodie,M,Green,3,Social Media,Email,21.79,3.64,14.75,3.71,3.32,Good quality,Blend,Sublimation,Yes,2025-09-01,Supplier C,10.68,City C,Credit Card,Special instructions,239645
+2025-09-01,2858,Short Sleeve,S,White,4,Social Media,Social Media,74.84,3.91,14.67,3.6,2.71,Will buy again,Cotton,Screen Printing,No,2025-09-02,Supplier A,5.19,City B,PayPal,Urgent,558565
+2025-09-02,4834,Short Sleeve,M,Red,3,Social Media,Social Media,55.89,4.96,17.97,4.49,2.53,Good quality,Blend,Screen Printing,Yes,2025-09-03,Supplier C,13.78,City C,PayPal,Handled with care,639284
+2025-09-03,6580,Tank Top,S,White,2,Online,Social Media,77.94,4.35,5.1,4.26,4.91,Will buy again,Blend,Embroidery,Yes,2025-09-04,Supplier B,9.49,City A,PayPal,Handled with care,168657
+2025-09-04,4742,Long Sleeve,S,Black,2,Online,Organic Search,24.5,2.57,5.42,4.15,2.98,Will buy again,Polyester,Screen Printing,Yes,2025-09-05,Supplier C,5.97,City C,PayPal,Urgent,540646
+2025-09-05,2575,Tank Top,M,Black,6,Social Media,Email,62.42,4.75,12.85,3.36,4.12,Fast delivery,Blend,Embroidery,Yes,2025-09-06,Supplier C,3.76,City B,PayPal,Urgent,177107
+2025-09-06,6709,Hoodie,L,Black,7,Social Media,Social Media,24.34,4.5,11.99,1.43,3.03,Fast delivery,Blend,Embroidery,No,2025-09-07,Supplier C,10.36,City B,PayPal,Handled with care,641893
+2025-09-07,3993,Short Sleeve,M,White,2,Online,Social Media,31.51,3.82,19.86,3.75,1.93,Will buy again,Cotton,Sublimation,No,2025-09-08,Supplier B,7.87,City B,PayPal,Handled with care,745261
+2025-09-08,2306,Short Sleeve,M,Red,8,Social Media,Email,82.75,4.75,10.36,2.21,4.79,Good quality,Polyester,Sublimation,No,2025-09-09,Supplier B,6.05,City A,PayPal,Urgent,119843
+2025-09-09,2164,Long Sleeve,M,Green,7,Online,Social Media,38.29,2.85,10.84,4.13,4.53,Not satisfied,Polyester,Embroidery,Yes,2025-09-10,Supplier C,8.12,City B,Credit Card,Special instructions,339712
+2025-09-10,4313,Short Sleeve,XL,Blue,3,Fair,Social Media,27.47,3.85,17.54,2.47,1.57,Fast delivery,Polyester,Embroidery,Yes,2025-09-11,Supplier C,13.03,City C,PayPal,Urgent,769749
+2025-09-11,1960,Hoodie,M,Green,3,Fair,Social Media,31.34,1.02,14.35,1.54,4.54,Good quality,Cotton,Sublimation,No,2025-09-12,Supplier C,11.01,City C,Credit Card,Urgent,817084
+2025-09-12,4492,Hoodie,L,Black,7,Social Media,Social Media,31.31,3.27,6.07,3.42,1.79,Not satisfied,Blend,Screen Printing,No,2025-09-13,Supplier B,3.99,City C,PayPal,Handled with care,711121
+2025-09-13,4946,Long Sleeve,L,Red,9,Online,Organic Search,87.51,3.89,5.86,4.53,3.27,Fast delivery,Polyester,Sublimation,Yes,2025-09-14,Supplier A,11.3,City A,PayPal,Handled with care,317599
+2025-09-14,7432,Tank Top,L,White,6,Online,Social Media,67.2,2.53,12.93,1.7,4.72,Good quality,Polyester,Screen Printing,No,2025-09-15,Supplier B,14.29,City C,Credit Card,Handled with care,880087
+2025-09-15,8452,Long Sleeve,S,White,7,Social Media,Social Media,83.39,4.47,10.95,2.18,3.26,Good quality,Blend,Sublimation,No,2025-09-16,Supplier C,14.48,City A,Credit Card,Handled with care,625756
+2025-09-16,3780,Hoodie,XL,Red,6,Social Media,Email,40.58,2.94,16.03,2.06,1.85,Not satisfied,Blend,Embroidery,Yes,2025-09-17,Supplier B,5.74,City A,Credit Card,Handled with care,860126
+2025-09-17,2229,Short Sleeve,XL,Red,3,Online,Organic Search,70.11,2.13,14.42,4.13,2.06,Not satisfied,Cotton,Embroidery,No,2025-09-18,Supplier B,10.09,City B,PayPal,Urgent,473051
+2025-09-18,7703,Short Sleeve,L,Black,9,Fair,Email,91.91,3.2,5.0,1.61,3.71,Not satisfied,Cotton,Sublimation,No,2025-09-19,Supplier A,9.79,City B,Bank Transfer,Handled with care,562309
+2025-09-19,5745,Short Sleeve,XL,Black,6,Social Media,Social Media,62.72,4.62,5.25,2.76,3.99,Will buy again,Blend,Screen Printing,Yes,2025-09-20,Supplier A,12.66,City A,PayPal,Special instructions,708058
+2025-09-20,4599,Hoodie,S,Red,9,Online,Email,89.66,3.73,17.6,2.51,3.37,Fast delivery,Blend,Embroidery,No,2025-09-21,Supplier B,10.59,City B,Bank Transfer,Handled with care,552226
+2025-09-21,7930,Tank Top,M,Black,9,Fair,Organic Search,37.44,4.8,7.47,4.08,2.13,Fast delivery,Blend,Sublimation,No,2025-09-22,Supplier B,7.6,City C,Bank Transfer,Special instructions,518349
+2025-09-22,2181,Long Sleeve,L,Blue,1,Social Media,Social Media,97.35,2.79,13.54,2.76,1.75,Fast delivery,Cotton,Sublimation,Yes,2025-09-23,Supplier B,11.47,City C,PayPal,Special instructions,250753
+2025-09-23,4004,Tank Top,XL,White,1,Fair,Social Media,26.38,3.63,19.11,2.0,3.62,Good quality,Cotton,Screen Printing,Yes,2025-09-24,Supplier A,12.73,City B,PayPal,Special instructions,934921
+2025-09-24,3514,Short Sleeve,L,Black,5,Fair,Social Media,80.89,3.51,19.5,1.32,1.92,Good quality,Cotton,Sublimation,Yes,2025-09-25,Supplier B,5.69,City B,Credit Card,Special instructions,700956
+2025-09-25,7786,Long Sleeve,L,Black,5,Social Media,Social Media,36.14,1.96,17.66,2.94,1.65,Fast delivery,Blend,Screen Printing,Yes,2025-09-26,Supplier A,14.55,City B,Bank Transfer,Urgent,821427
+2025-09-26,3083,Hoodie,L,Black,6,Online,Organic Search,29.35,3.98,18.33,2.0,1.52,Will buy again,Blend,Sublimation,Yes,2025-09-27,Supplier C,3.47,City C,PayPal,Urgent,521840
